@@ -8,8 +8,8 @@ Make sure it follows the schema in the Example
 
 -------------
 
-| App | Classic | Desktop |
-| -- | -- | -- |
-| [Example](https://get-scatter.com) | :white_check_mark: |  |
-| -- | -- | -- |
+| App | Desktop Support |
+| -- | -- |
+| [Example](https://get-scatter.com) | :white_check_mark: |
+| -- | -- |
 
