@@ -3,7 +3,7 @@ A list of applications using Scatter
 
 -------------
 
-| App | Extension | Desktop |
+| App | Classic | Desktop |
 | -- | -- | -- |
-| [Example](https://get-scatter.com) | Yes | Yes |
+| [Example](https://get-scatter.com) | [X] | [] |
 
