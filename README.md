@@ -1,10 +1,19 @@
 # ScatterApps
-A list of applications using Scatter
+
+A list of applications using [Scatter](https://get-scatter.com)
+
+### Upgrading to Scatter Desktop
+
+If your app already supports Scatter Classic (the Chrome extension) you should upgrade it to handle the new Scatter Desktop. This is relatively simple but it does require manually adding a new javascript library to your website called Scatter JS.
+
+Read more about Scatter JS and upgrading to Scatter Desktop here:
+https://github.com/GetScatter/scatter-js#catching-scatter-desktop-and-scatter-classic
+
+Once your app supports Scatter Desktop please help keep the list below updated.
 
 ### Adding new apps
 
-If you want to add an app here that has Scatter integration feel free to issue a pull request. 
-Make sure it follows the schema in the Example
+If you want to add an app here that has Scatter integration or update its details feel free to create an issue or pull request.
 
 -------------
 
