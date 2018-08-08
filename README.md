@@ -19,6 +19,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | Application | Desktop Support |
 | -- | -- |
 | [Example](https://get-scatter.com) | :white_check_mark: |
+| [Bloks.io](https://bloks.io/) | |
 | [buyeosram.io](https://buyeosram.io) | |
 | [DecenTwitter](http://decentwitter.com) | |
 | [DEXEOS](https://dexeos.io/) | | 
