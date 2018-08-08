@@ -36,6 +36,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | [MyEOSKit](https://www.myeoskit.com) | |
 | [portal.eoseoul.io](https://portal.eoseoul.io) | |
 | [RIDL AirGrab](https://ridl.get-scatter.com) | :white_check_mark: |
+| [Scattellet](https://scattellet.com) | :white_check_mark: |
 | [vote.libertyblock.io](http://vote.libertyblock.io) | |
 | [vote.liquideos.com](http://vote.liquideos.com) | |
 | [Wizards.one](https://game.wizards.one) | |
