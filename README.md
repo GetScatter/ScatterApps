@@ -20,6 +20,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | -- | -- |
 | [Example](https://get-scatter.com) | :heavy_check_mark: |
 | [Bloks.io](https://bloks.io/) | :heavy_check_mark: |
+| [Btuga](https://btuga.io/) | :heavy_check_mark: |
 | [buyeosram.io](https://buyeosram.io) | |
 | [DecenTwitter](http://decentwitter.com) | |
 | [DEXEOS](https://dexeos.io/) | :heavy_check_mark: | 
