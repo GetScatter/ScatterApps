@@ -16,32 +16,32 @@ If you want to add an app here that has Scatter integration or update its detail
 
 -------------
 
-| Application | Desktop Support |
-| -- | -- |
-| [Example](https://get-scatter.com) | :heavy_check_mark: |
-| [Bloks.io](https://bloks.io/) | :heavy_check_mark: |
-| [Btuga](https://btuga.io/) | :heavy_check_mark: |
-| [buyeosram.io](https://buyeosram.io) | |
-| [DecenTwitter](http://decentwitter.com) | |
-| [DEXEOS](https://dexeos.io/) | :heavy_check_mark: | 
-| [EOS Authority's Space Invaders](https://eosauthority.com/spaceMainnet) | |
-| [EOS Bingo](https://eosbingo.net) | |
-| [EOS Button](https://eosbutton.io) | |
-| [EOSfilestore](https://eosfilestore.now.sh) | |
-| [EOS Forum](https://eos-forum.org) | |
-| [EOS Knights](http://eosknights.io) | |
-| [EOSPortal](http://eosportal.io) | |
-| [EOSToolkit](https://eostoolkit.io) | |
-| [eosvoter.eosphere.io](https://eosvoter.eosphere.io) | |
-| [Everipedia](https://iqnetwork.io) | |
-| [FeeXplorer](https://eos.feexplorer.io) | :heavy_check_mark: |
-| [iRespo](https://www.irespo.com/) | :heavy_check_mark: |
-| [King Of EOS](https://kingofeos.com) | |
-| [MonsterEOS](http://monstereos.io) | |
-| [MyEOSKit](https://www.myeoskit.com) | |
-| [portal.eoseoul.io](https://portal.eoseoul.io) | |
-| [RIDL AirGrab](https://ridl.get-scatter.com) | :heavy_check_mark: |
-| [Scattellet](https://scattellet.com) | :heavy_check_mark: |
-| [vote.libertyblock.io](http://vote.libertyblock.io) | |
-| [vote.liquideos.com](http://vote.liquideos.com) | |
-| [Wizards.one](https://game.wizards.one) | |
+| Application | Type | Desktop Support |
+| -- | -- | -- |
+| [Example](https://get-scatter.com) | Example | :heavy_check_mark: |
+| [Bloks.io](https://bloks.io/) | Block Explorer | :heavy_check_mark: |
+| [Btuga](https://btuga.io/) | Block Explorer | :heavy_check_mark: |
+| [buyeosram.io](https://buyeosram.io) | Exchange | |
+| [DecenTwitter](http://decentwitter.com) | Social | |
+| [DEXEOS](https://dexeos.io/) | Exchange | :heavy_check_mark: | 
+| [EOS Authority's Space Invaders](https://eosauthority.com/spaceMainnet) | Game | |
+| [EOS Bingo](https://eosbingo.net) | Game | |
+| [EOS Button](https://eosbutton.io) | Game | |
+| [EOSfilestore](https://eosfilestore.now.sh) | Other | |
+| [EOS Forum](https://eos-forum.org) | Other | |
+| [EOS Knights](http://eosknights.io) | Game | |
+| [EOSPortal](http://eosportal.io) | Voting | |
+| [EOSToolkit](https://eostoolkit.io) | Toolkit | |
+| [eosvoter.eosphere.io](https://eosvoter.eosphere.io) | Voting | |
+| [Everipedia](https://iqnetwork.io) | Social | |
+| [FeeXplorer](https://eos.feexplorer.io) | Exchange | :heavy_check_mark: |
+| [iRespo](https://www.irespo.com/) | Other | :heavy_check_mark: |
+| [King Of EOS](https://kingofeos.com) | Game | |
+| [MonsterEOS](http://monstereos.io) | Game | |
+| [MyEOSKit](https://www.myeoskit.com) | Toolkit | |
+| [portal.eoseoul.io](https://portal.eoseoul.io) | Voting | |
+| [RIDL AirGrab](https://ridl.get-scatter.com) | Other | :heavy_check_mark: |
+| [Scattellet](https://scattellet.com) | Wallet | :heavy_check_mark: |
+| [vote.libertyblock.io](http://vote.libertyblock.io) | Voting | |
+| [vote.liquideos.com](http://vote.liquideos.com) | Voting | |
+| [Wizards.one](https://game.wizards.one) | Game | |
