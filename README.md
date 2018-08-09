@@ -22,7 +22,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | [Bloks.io](https://bloks.io/) | :heavy_check_mark: |
 | [buyeosram.io](https://buyeosram.io) | |
 | [DecenTwitter](http://decentwitter.com) | |
-| [DEXEOS](https://dexeos.io/) | | 
+| [DEXEOS](https://dexeos.io/) | :heavy_check_mark: | 
 | [EOS Authority's Space Invaders](https://eosauthority.com/spaceMainnet) | |
 | [EOS Bingo](https://eosbingo.net) | |
 | [EOS Button](https://eosbutton.io) | |
