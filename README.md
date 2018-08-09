@@ -34,7 +34,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | [eosvoter.eosphere.io](https://eosvoter.eosphere.io) | |
 | [Everipedia](https://iqnetwork.io) | |
 | [FeeXplorer](https://eos.feexplorer.io) | :heavy_check_mark: |
-| [iRespo](https://www.irespo.com/) | |
+| [iRespo](https://www.irespo.com/) | :heavy_check_mark: |
 | [King Of EOS](https://kingofeos.com) | |
 | [MonsterEOS](http://monstereos.io) | |
 | [MyEOSKit](https://www.myeoskit.com) | |
