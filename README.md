@@ -26,6 +26,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | [EOS Authority's Space Invaders](https://eosauthority.com/spaceMainnet) | Game | |
 | [EOS Bingo](https://eosbingo.net) | Game | |
 | [EOS Button](https://eosbutton.io) | Game | |
+| [EOS Craft](http://eoscraft.online/) | Game | | 
 | [EOSfilestore](https://eosfilestore.now.sh) | Other | |
 | [EOS Forum](https://eos-forum.org) | Other | |
 | [EOS Knights](http://eosknights.io) | Game | |
