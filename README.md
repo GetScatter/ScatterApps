@@ -39,6 +39,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | [King Of EOS](https://kingofeos.com) | Game | |
 | [MonsterEOS](http://monstereos.io) | Game | |
 | [MyEOSKit](https://www.myeoskit.com) | Toolkit | |
+| [Newdex](https://newdex.io) | Exchange | |
 | [portal.eoseoul.io](https://portal.eoseoul.io) | Voting | |
 | [RIDL AirGrab](https://ridl.get-scatter.com) | Other | :heavy_check_mark: |
 | [Scattellet](https://scattellet.com) | Wallet | :heavy_check_mark: |
