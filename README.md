@@ -27,7 +27,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | [EOS Bingo](https://eosbingo.net) | Game | :heavy_check_mark: |
 | [EOS Button](https://eosbutton.io) | Game | |
 | [EOS Craft](http://eoscraft.online/) | Game | | 
-| [EOSfilestore](https://eosfilestore.now.sh) | Other | |
+| [EOSfilestore](https://eosfilestore.now.sh) | Other | :heavy_check_mark: |
 | [EOS Forum](https://eos-forum.org) | Other | |
 | [EOS Knights](http://eosknights.io) | Game | |
 | [EOSPortal](http://eosportal.io) | Voting | |
