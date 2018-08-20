@@ -24,6 +24,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | [DecenTwitter](http://decentwitter.com) | Social | |
 | [DEXEOS](https://dexeos.io/) | Exchange | :heavy_check_mark: | 
 | [EOS Authority's Space Invaders](https://eosauthority.com/spaceMainnet) | Game | |
+| [EOSavatarimg](https://eosavatarimg.now.sh) | Other | :heavy_check_mark: |
 | [EOS Bingo](https://eosbingo.net) | Game | :heavy_check_mark: |
 | [EOS Button](https://eosbutton.io) | Game | |
 | [EOS Craft](http://eoscraft.online/) | Game | | 
