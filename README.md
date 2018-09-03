@@ -17,7 +17,7 @@ If you want to add an app here that has Scatter integration or update its detail
 -------------
 
 | Application | Type | Desktop | Mobile | 
-| -- | -- | -- |
+| -- | -- | -- | -- |
 | [Bloks.io](https://bloks.io/) | Block Explorer | :heavy_check_mark: | :heavy_check_mark: |
 | [Btuga](https://btuga.io/) | Block Explorer | :heavy_check_mark: | |
 | [buyeosram.io](https://buyeosram.io) | Exchange | | |
