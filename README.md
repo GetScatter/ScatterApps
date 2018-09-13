@@ -50,4 +50,5 @@ If you want to add an app here that has Scatter integration or update its detail
 | [Scattellet](https://scattellet.com) | Wallet | :heavy_check_mark: | |
 | [vote.libertyblock.io](http://vote.libertyblock.io) | Voting | | |
 | [vote.liquideos.com](http://vote.liquideos.com) | Voting | | |
+| [WalletForEOS](http://www.walletforeos.com/) | Wallet | :heavy_check_mark: | |
 | [Wizards.one](https://game.wizards.one) | Game | :heavy_check_mark: | :heavy_check_mark: |
