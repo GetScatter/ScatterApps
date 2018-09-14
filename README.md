@@ -2,13 +2,10 @@
 
 A list of applications using [Scatter](https://get-scatter.com)
 
-### Upgrading to Scatter Desktop
+### Are you a dapp developer and haven't added Desktop/Mobile support yet?
 
-If your app already supports Scatter Classic (the Chrome extension) you should upgrade it to handle the new Scatter Desktop. This is relatively simple but it does require manually adding a new javascript library to your website called Scatter JS.
-
-- Find out how to add desktop support here: [Adding Support for Scatter Desktop](https://github.com/GetScatter/scatter-js/blob/master/README.md#switching-from-extension-only-to-extensiondesktop-support)
-- Adding desktop support will not affect extension support.
-- Once your app **also** supports Scatter Desktop please help keep the list below updated.
+**Any dapp which doesn't support Desktop/Mobile will not be added to this list anymore. Go add support before requesting to be added.
+https://get-scatter.com/docs/dev/setting-up-for-web-apps**
 
 ### Adding new apps
 
