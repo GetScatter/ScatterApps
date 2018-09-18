@@ -17,19 +17,16 @@ If you want to add an app here that has Scatter integration or update its detail
 | -- | -- | -- | -- |
 | [Bloks.io](https://bloks.io/) | Block Explorer | :heavy_check_mark: | :heavy_check_mark: |
 | [Btuga](https://btuga.io/) | Block Explorer | :heavy_check_mark: | |
-| [buyeosram.io](https://buyeosram.io) | Exchange | | |
 | [DecenTwitter](http://decentwitter.com) | Social | :heavy_check_mark: | :heavy_check_mark: |
 | [DEXEOS](https://dexeos.io/) | Exchange | :heavy_check_mark: | :heavy_check_mark: |
 | [EOS Authority's Space Invaders](https://eosauthority.com/spaceMainnet) | Game | | |
 | [EOSavatarimg](https://eosavatarimg.now.sh) | Other | :heavy_check_mark: | |
 | [EOSBet Dice](https://dice.eosbet.io/) | Game | :heavy_check_mark: | :heavy_check_mark: |
 | [EOS Bingo](https://eosbingo.net) | Game | :heavy_check_mark: | |
-| [EOS Craft](http://eoscraft.online/) | Game | | |
 | [EOSfilestore](https://eosfilestore.now.sh) | Other | :heavy_check_mark: | |
 | [EOS Forum](https://eos-forum.org) | Other | :heavy_check_mark: | |
 | [EOS Knights](http://eosknights.io) | Game | :heavy_check_mark: | :heavy_check_mark: |
 | [EOS Names](http://eosnames.net) | Exchange | :heavy_check_mark: | |
-| [EOSPortal](http://eosportal.io) | Voting | | |
 | [EOSToolkit](https://eostoolkit.io) | Toolkit | :heavy_check_mark: | :heavy_check_mark: |
 | [EOSTools by franceos](https://tools.franceos.fr) | Toolkit | :heavy_check_mark: | :heavy_check_mark: |
 | [eosvoter.eosphere.io](https://eosvoter.eosphere.io) | Voting | | |
@@ -40,7 +37,6 @@ If you want to add an app here that has Scatter integration or update its detail
 | [King Of EOS](https://kingofeos.com) | Game | :heavy_check_mark: | |
 | [MonsterEOS](http://monstereos.io) | Game | :heavy_check_mark: | |
 | [MyEOSKit](https://www.myeoskit.com) | Toolkit | :heavy_check_mark: | |
-| [Newdex](https://newdex.io) | Exchange | | |
 | [PandaFun](http://game.pandafun.io) | Game | :heavy_check_mark: | |
 | [portal.eoseoul.io](https://portal.eoseoul.io) | Voting | :heavy_check_mark: | |
 | [RIDL AirGrab](https://ridl.get-scatter.com) | Other | :heavy_check_mark: | |
