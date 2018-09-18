@@ -37,7 +37,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | [FeeXplorer](https://eos.feexplorer.io) | Exchange | :heavy_check_mark: | |
 | [Finalnoob](https://finalnoob.com/) | Game | | |
 | [iRespo](https://www.irespo.com/) | Other | :heavy_check_mark: | |
-| [King Of EOS](https://kingofeos.com) | Game | | |
+| [King Of EOS](https://kingofeos.com) | Game | :heavy_check_mark: | |
 | [MonsterEOS](http://monstereos.io) | Game | | |
 | [MyEOSKit](https://www.myeoskit.com) | Toolkit | :heavy_check_mark: | |
 | [Newdex](https://newdex.io) | Exchange | | |
