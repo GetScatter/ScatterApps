@@ -27,6 +27,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | [EOS Forum](https://eos-forum.org) | Other | :heavy_check_mark: | |
 | [EOS Knights](http://eosknights.io) | Game | :heavy_check_mark: | :heavy_check_mark: |
 | [EOS Names](http://eosnames.net) | Exchange | :heavy_check_mark: | |
+| [EOS Name Swaps](https://www.eosnameswaps.com) | Exchange | :heavy_check_mark: | |
 | [EOSToolkit](https://eostoolkit.io) | Toolkit | :heavy_check_mark: | :heavy_check_mark: |
 | [EOSTools by franceos](https://tools.franceos.fr) | Toolkit | :heavy_check_mark: | :heavy_check_mark: |
 | [Everipedia](https://iqnetwork.io) | Social | | |
