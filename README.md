@@ -32,6 +32,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | [EOS Names](http://eosnames.net) | Exchange | :heavy_check_mark: | |
 | [EOSPortal](http://eosportal.io) | Voting | | |
 | [EOSToolkit](https://eostoolkit.io) | Toolkit | :heavy_check_mark: | :heavy_check_mark: |
+| [EOSTools by franceos](https://tools.franceos.fr) | Toolkit | :heavy_check_mark: | :heavy_check_mark: |
 | [eosvoter.eosphere.io](https://eosvoter.eosphere.io) | Voting | | |
 | [Everipedia](https://iqnetwork.io) | Social | | |
 | [FeeXplorer](https://eos.feexplorer.io) | Exchange | :heavy_check_mark: | |
