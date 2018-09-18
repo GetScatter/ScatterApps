@@ -29,10 +29,8 @@ If you want to add an app here that has Scatter integration or update its detail
 | [EOS Names](http://eosnames.net) | Exchange | :heavy_check_mark: | |
 | [EOSToolkit](https://eostoolkit.io) | Toolkit | :heavy_check_mark: | :heavy_check_mark: |
 | [EOSTools by franceos](https://tools.franceos.fr) | Toolkit | :heavy_check_mark: | :heavy_check_mark: |
-| [eosvoter.eosphere.io](https://eosvoter.eosphere.io) | Voting | | |
 | [Everipedia](https://iqnetwork.io) | Social | | |
 | [FeeXplorer](https://eos.feexplorer.io) | Exchange | :heavy_check_mark: | |
-| [Finalnoob](https://finalnoob.com/) | Game | | |
 | [iRespo](https://www.irespo.com/) | Other | :heavy_check_mark: | |
 | [King Of EOS](https://kingofeos.com) | Game | :heavy_check_mark: | |
 | [MonsterEOS](http://monstereos.io) | Game | :heavy_check_mark: | |
@@ -41,7 +39,5 @@ If you want to add an app here that has Scatter integration or update its detail
 | [portal.eoseoul.io](https://portal.eoseoul.io) | Voting | :heavy_check_mark: | |
 | [RIDL AirGrab](https://ridl.get-scatter.com) | Other | :heavy_check_mark: | |
 | [Scattellet](https://scattellet.com) | Wallet | :heavy_check_mark: | |
-| [vote.libertyblock.io](http://vote.libertyblock.io) | Voting | | |
-| [vote.liquideos.com](http://vote.liquideos.com) | Voting | | |
 | [WalletForEOS](http://www.walletforeos.com/) | Wallet | :heavy_check_mark: | |
 | [Wizards.one](https://game.wizards.one) | Game | :heavy_check_mark: | :heavy_check_mark: |
