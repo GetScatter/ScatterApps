@@ -21,6 +21,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | [DEXEOS](https://dexeos.io/) | Exchange | :heavy_check_mark: | :heavy_check_mark: |
 | [EOS Authority's Space Invaders](https://eosauthority.com/spaceMainnet) | Game | | |
 | [EOSavatarimg](https://eosavatarimg.now.sh) | Other | :heavy_check_mark: | |
+| [EOS Bancor](https://eos.bancor.network/) | Exchange | | |
 | [EOSBet Dice](https://dice.eosbet.io/) | Game | :heavy_check_mark: | :heavy_check_mark: |
 | [EOS Bingo](https://eosbingo.net) | Game | :heavy_check_mark: | |
 | [EOSfilestore](https://eosfilestore.now.sh) | Other | :heavy_check_mark: | |
