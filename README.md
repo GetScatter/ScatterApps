@@ -18,6 +18,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | [Bloks.io](https://bloks.io/) | Block Explorer | :heavy_check_mark: | :heavy_check_mark: |
 | [Btuga](https://btuga.io/) | Block Explorer | :heavy_check_mark: | |
 | [DecenTwitter](http://decentwitter.com) | Social | :heavy_check_mark: | :heavy_check_mark: |
+| [Deos Games](https://deosgames.com) | Game | :heavy_check_mark: | :heavy_check_mark: |
 | [DEXEOS](https://dexeos.io/) | Exchange | :heavy_check_mark: | :heavy_check_mark: |
 | [EOS Authority's Space Invaders](https://eosauthority.com/spaceMainnet) | Game | | |
 | [EOSavatarimg](https://eosavatarimg.now.sh) | Other | :heavy_check_mark: | |
