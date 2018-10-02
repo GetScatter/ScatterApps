@@ -13,34 +13,34 @@ If you want to add an app here that has Scatter integration or update its detail
 
 -------------
 
-| Application | Type | Desktop | Mobile | 
-| -- | -- | -- | -- |
-| [Bloks.io](https://bloks.io/) | Block Explorer | :heavy_check_mark: | :heavy_check_mark: |
-| [Btuga](https://btuga.io/) | Block Explorer | :heavy_check_mark: | |
-| [DecenTwitter](http://decentwitter.com) | Social | :heavy_check_mark: | :heavy_check_mark: |
-| [Deos Games](https://deosgames.com) | Game | :heavy_check_mark: | :heavy_check_mark: |
-| [DEXEOS](https://dexeos.io/) | Exchange | :heavy_check_mark: | :heavy_check_mark: |
-| [EOS Authority's Space Invaders](https://eosauthority.com/spaceMainnet) | Game | | |
-| [EOSavatarimg](https://eosavatarimg.now.sh) | Other | :heavy_check_mark: | |
-| [EOS Bancor](https://eos.bancor.network/) | Exchange | :heavy_check_mark: | :heavy_check_mark: |
-| [EOSBet Dice](https://dice.eosbet.io/) | Game | :heavy_check_mark: | :heavy_check_mark: |
-| [EOS Bingo](https://eosbingo.net) | Game | :heavy_check_mark: | |
-| [EOSfilestore](https://eosfilestore.now.sh) | Other | :heavy_check_mark: | |
-| [EOS Forum](https://eos-forum.org) | Other | :heavy_check_mark: | |
-| [EOS Knights](http://eosknights.io) | Game | :heavy_check_mark: | :heavy_check_mark: |
-| [EOS Names](http://eosnames.net) | Exchange | :heavy_check_mark: | |
-| [EOS Name Swaps](https://www.eosnameswaps.com) | Exchange | :heavy_check_mark: | |
-| [EOSToolkit](https://eostoolkit.io) | Toolkit | :heavy_check_mark: | :heavy_check_mark: |
-| [EOSTools by franceos](https://tools.franceos.fr) | Toolkit | :heavy_check_mark: | :heavy_check_mark: |
-| [Everipedia](https://everipedia.org/) | Social/Knowledge | :heavy_check_mark: | :heavy_check_mark: |
-| [FeeXplorer](https://eos.feexplorer.io) | Exchange | :heavy_check_mark: | |
-| [iRespo](https://www.irespo.com/) | Other | :heavy_check_mark: | |
-| [King Of EOS](https://kingofeos.com) | Game | :heavy_check_mark: | |
-| [MonsterEOS](http://monstereos.io) | Game | :heavy_check_mark: | |
-| [MyEOSKit](https://www.myeoskit.com) | Toolkit | :heavy_check_mark: | |
-| [PandaFun](http://game.pandafun.io) | Game | :heavy_check_mark: | |
-| [portal.eoseoul.io](https://portal.eoseoul.io) | Voting | :heavy_check_mark: | |
-| [RIDL AirGrab](https://ridl.get-scatter.com) | Other | :heavy_check_mark: | |
-| [Scattellet](https://scattellet.com) | Wallet | :heavy_check_mark: | |
-| [WalletForEOS](http://www.walletforeos.com/) | Wallet | :heavy_check_mark: | |
-| [Wizards.one](https://game.wizards.one) | Game | :heavy_check_mark: | :heavy_check_mark: |
+| Application | Type |
+| -- | -- |
+| [Bloks.io](https://bloks.io/) | Block Explorer |
+| [Btuga](https://btuga.io/) | Block Explorer |
+| [DecenTwitter](http://decentwitter.com) | Social |
+| [Deos Games](https://deosgames.com) | Game |
+| [DEXEOS](https://dexeos.io/) | Exchange |
+| [EOSavatarimg](https://eosavatarimg.now.sh) | Other |
+| [EOS Bancor](https://eos.bancor.network/) | Exchange |
+| [EOSBet Dice](https://dice.eosbet.io/) | Game |
+| [EOS Bingo](https://eosbingo.net) | Game |
+| [EOSfilestore](https://eosfilestore.now.sh) | Other |
+| [EOS Forum](https://eos-forum.org) | Other |
+| [EOS Knights](http://eosknights.io) | Game |
+| [EOS Names](http://eosnames.net) | Exchange |
+| [EOS Name Swaps](https://www.eosnameswaps.com) | Exchange |
+| [EOSToolkit](https://eostoolkit.io) | Toolkit |
+| [EOSTools by franceos](https://tools.franceos.fr) | Toolkit |
+| [Everipedia](https://everipedia.org/) | Social/Knowledge |
+| [FeeXplorer](https://eos.feexplorer.io) | Exchange |
+| [iRespo](https://www.irespo.com/) | Other |
+| [King Of EOS](https://kingofeos.com) | Game |
+| [LuckyWithMe](https://www.luckywith.me/) | Game |
+| [MonsterEOS](http://monstereos.io) | Game |
+| [MyEOSKit](https://www.myeoskit.com) | Toolkit |
+| [PandaFun](http://game.pandafun.io) | Game |
+| [portal.eoseoul.io](https://portal.eoseoul.io) | Voting |
+| [RIDL AirGrab](https://ridl.get-scatter.com) | Other |
+| [Scattellet](https://scattellet.com) | Wallet |
+| [WalletForEOS](http://www.walletforeos.com/) | Wallet |
+| [Wizards.one](https://game.wizards.one) | Game |
