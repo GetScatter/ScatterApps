@@ -29,6 +29,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | [EOS Knights](http://eosknights.io) | Game |
 | [EOS Names](http://eosnames.net) | Exchange |
 | [EOS Name Swaps](https://www.eosnameswaps.com) | Exchange |
+| [EOSPlay Lottery & Dice](https://eosplay.co) | Game |
 | [EOSToolkit](https://eostoolkit.io) | Toolkit |
 | [EOSTools by franceos](https://tools.franceos.fr) | Toolkit |
 | [Everipedia](https://everipedia.org/) | Social/Knowledge |
