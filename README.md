@@ -2,14 +2,22 @@
 
 A list of applications using [Scatter](https://get-scatter.com)
 
-### Are you a dapp developer and haven't added Desktop/Mobile support yet?
-
-**Any dapp which doesn't support Desktop/Mobile will not be added to this list anymore. Go add support before requesting to be added.
-https://get-scatter.com/docs/dev/setting-up-for-web-apps**
-
 ### Adding new apps
 
-If you want to add an app here that has Scatter integration or update its details feel free to create an issue or pull request.
+- Create a pull request adding your application to the correct blockchain in the "apps.json" file. 
+- **Fill out all of the fields, they are all required.**.
+- Add your logo to the `logos/` folder ( **.svg format only!** ). Make sure that the logo file's name matches the `applink` that you specified in the JSON. 
+
+```
+{
+  "applink":"", // This is the identifier you use when connecting to Scatter
+  "name":"", // This is the name of your application  
+  "type":"", // A small tag showing what type of application this is
+  "description":"", // Short description of your application.
+  "url":"" // The URL to your application, or it's landing page.
+}
+```
+
 
 -------------
 
