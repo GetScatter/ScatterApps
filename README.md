@@ -5,7 +5,7 @@ A list of applications using [Scatter](https://get-scatter.com)
 ### Adding new apps
 
 - Create a pull request adding your application to the correct blockchain in the "apps.json" file. 
-- **Fill out all of the fields, they are all required.**.
+- **Fill out all of the fields, they are all required.**
 - Add your logo to the `logos/` folder ( **.svg format only!** ). Make sure that the logo file's name matches the `applink` that you specified in the JSON. 
 
 ```
