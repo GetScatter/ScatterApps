@@ -190,6 +190,13 @@
       "url":"https://portal.eoseoul.io/"
     },
     {
+      "applink":"rowdyruckus",
+      "name":"EOS Sports Bets",
+      "type":"Game",
+      "description":"P2P Sports Betting",
+      "url":"https://www.eossportsbets.io/"
+    },
+    {
       "applink":"walletforeos",
       "name":"Wallet for EOS",
       "type":"Wallet",
@@ -203,13 +210,6 @@
       "description":"",
       "url":"https://game.wizards.one/"
     }
-    {
-   "applink":"rowdyruckus",
-   "name":"EOS Sports Bets",
-   "type":"Game",
-   "description":"P2P Sports Betting",
-   "url":"https://www.eossportsbets.io/"
-    },
   ],
   "Ethereum":[],
   "Tron":[]
