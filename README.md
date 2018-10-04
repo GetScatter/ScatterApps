@@ -17,6 +17,7 @@ If you want to add an app here that has Scatter integration or update its detail
 | -- | -- |
 | [Bloks.io](https://bloks.io/) | Block Explorer |
 | [Btuga](https://btuga.io/) | Block Explorer |
+| [Chintai](https://eos.chintai.io/) | Token Leasing Platform |
 | [DecenTwitter](http://decentwitter.com) | Social |
 | [Deos Games](https://deosgames.com) | Game |
 | [DEXEOS](https://dexeos.io/) | Exchange |
