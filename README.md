@@ -10,11 +10,11 @@ A list of applications using [Scatter](https://get-scatter.com)
 
 ```
 {
-  "applink":"", // This is the identifier you use when connecting to Scatter
-  "name":"", // This is the name of your application  
-  "type":"", // A small tag showing what type of application this is
-  "description":"", // Short description of your application.
-  "url":"" // The URL to your application, or it's landing page.
+  "applink":"",      // This is the identifier you use when connecting to Scatter
+  "name":"",         // This is the name of your application  
+  "type":"",         // A small tag showing what type of application this is
+  "description":"",  // Short description of your application.
+  "url":""           // The URL to your application, or it's landing page.
 }
 ```
 
