@@ -13,7 +13,7 @@ A list of applications using [Scatter](https://get-scatter.com)
   "applink":"",      // This is the identifier you use when connecting to Scatter
                      // For ScatterJS it is what you pass into ScatterJS.scatter.connect(applink)
                      // It should be only alphanumerical with no special characters.
-  "name":"",         // This is the name of your application  
+  "name":"",         // This is the name of your application, it should be in Title Case
   "type":"",         // A small tag showing what type of application this is
   "description":"",  // Short description of your application.
   "url":""           // The URL to your application, or it's landing page.
