@@ -1,6 +1,13 @@
 {
   "EOSIO":[
     {
+      "applink":"se7en",
+      "name":"Se7ens",
+      "type":"Game",
+      "description":"Interactive Dice Game",
+      "url":"https://se7ens.io/"
+    },
+    {
       "applink":"bloks",
       "name":"Bloks",
       "type":"Block Explorer",
