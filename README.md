@@ -1,6 +1,6 @@
 # ScatterApps
 
-A list of applications using [Scatter](https://get-scatter.com)
+## Check out https://get-scatter.com/Apps to see the link of apps.
 
 ### Adding new apps
 
@@ -24,4 +24,4 @@ A list of applications using [Scatter](https://get-scatter.com)
 
 -------------
 
-## Check out https://get-scatter.com/Apps to see the link of apps.
+
