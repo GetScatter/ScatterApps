@@ -88,11 +88,12 @@
       "url":"https://eosfilestore.now.sh/"
     },
     {
-      "applink":"eosforum",
+      "applink":"eos-forum.org",
       "name":"EOS Forum",
-      "type":"Other",
-      "description":"",
-      "url":"https://eos-forum.org/"
+      "type":"Social",
+      "description":"A decentralized censorship resistant Reddit-like forum",
+      "url":"https://eos-forum.org/",
+      "hasimage":"1"
     },
     {
       "applink":"eosknights",
