@@ -234,6 +234,13 @@
       "description":"The purpose of this site is to help the EOS community develop a way to discover the wishes of the tokenholders; where there is agreement and where there is controversy, based on the amount of support a given proposal attains. Here, you can let your voice be heard and your tokens be counted on any issue. You can show support for any proposal or comment, or start your own initiative to see if it is widely supported! Join us in our effort to help the EOS better communicate, with on-chain discussions, which can lead to referenda, worker proposals, changes to the constitution, system contracts or simply gauging the support for your ideas. Use your stake to make your opinion count!",
       "url":"https://voteos.info/",
       "hasimage":"1"
+    },
+    {
+      "applink":"dice.savepoors.com",
+      "name":"Super Dice",
+      "type":"Game",
+      "description":"Super Dice is a single six-sided die game by SP studio. Join the game and have fun.",
+      "url":"https://dice.savepoors.com",
     }
   ],
   "Ethereum":[],
