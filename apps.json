@@ -175,11 +175,12 @@
       "url":"https://www.luckywith.me/"
     },
     {
-      "applink":"monstereos",
+      "applink":"monstereos.io",
       "name":"MonsterEOS",
       "type":"Game",
       "description":"",
-      "url":"http://monstereos.io/"
+      "url":"http://monstereos.io/",
+      "hasimage":"1"
     },
     {
       "applink":"myeoskit",
