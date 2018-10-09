@@ -1,6 +1,6 @@
 # ScatterApps
 
-A list of applications using [Scatter](https://get-scatter.com)
+## Check out https://get-scatter.com/Apps to see the link of apps.
 
 ### Adding new apps
 
@@ -16,12 +16,11 @@ A list of applications using [Scatter](https://get-scatter.com)
   "name":"",         // This is the name of your application, it should be in Title Case
   "type":"",         // A small tag showing what type of application this is
   "description":"",  // Short description of your application.
-  "url":""           // The URL to your application, or it's landing page.
+  "url":"",          // The URL to your application, or it's landing page.
+  "hasimage":"1"     // Adding this specifies that you have added an image to the /images/ directory.
 }
 ```
 
-
--------------
 
 | Application | Type |
 | -- | -- |

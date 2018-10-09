@@ -1,11 +1,20 @@
 {
   "EOSIO":[
     {
+      "applink":"se7en",
+      "name":"Se7ens",
+      "type":"Game",
+      "description":"Interactive Dice Game",
+      "url":"https://se7ens.io/",
+      "hasimage":"1"
+    },
+    {
       "applink":"bloks",
       "name":"Bloks",
       "type":"Block Explorer",
-      "description":"",
-      "url":"https://bloks.io/"
+      "description":"Full featured Block Explorer and Toolkit for EOSIO Blockchains",
+      "url":"https://bloks.io/",
+      "hasimage":"1"
     },
     {
       "applink":"btuga",
@@ -61,7 +70,8 @@
       "name":"EOSBet Dice",
       "type":"Game",
       "description":"",
-      "url":"https://dice.eosbet.io/"
+      "url":"https://dice.eosbet.io/",
+      "hasimage":"1"
     },
     {
       "applink":"eosbingo",
@@ -103,7 +113,8 @@
       "name":"EOS Name Swaps",
       "type":"Exchange",
       "description":"",
-      "url":"https://www.eosnameswaps.com/"
+      "url":"https://www.eosnameswaps.com/",
+      "hasimage":"1"
     },
     {
       "applink":"eosplaylotteryanddice",
@@ -131,7 +142,8 @@
       "name":"Everipedia",
       "type":"Social / Knowledge",
       "description":"The world's first encyclopedia on the blockchain",
-      "url":"https://everipedia.org/"
+      "url":"https://everipedia.org/",
+      "hasimage":"1"
     },
     {
       "applink":"feexplorer",
@@ -208,7 +220,16 @@
       "name":"BetDice",
       "type":"Game",
       "description":"BetDice is the largest gaming platform on EOS blockchain. Users can earn DICE tokens from playing, and then get hourly dividends from staking. Both the platform and the token are based on user-centered design, which gives our users the best gaming experience.",
-      "url":"https://betdice.one/"
+      "url":"https://betdice.one/",
+      "hasimage":"1"
+    },
+    {
+      "applink":"voteos.info",
+      "name":"Voteos.info",
+      "type":"Forum",
+      "description":"The purpose of this site is to help the EOS community develop a way to discover the wishes of the tokenholders; where there is agreement and where there is controversy, based on the amount of support a given proposal attains. Here, you can let your voice be heard and your tokens be counted on any issue. You can show support for any proposal or comment, or start your own initiative to see if it is widely supported! Join us in our effort to help the EOS better communicate, with on-chain discussions, which can lead to referenda, worker proposals, changes to the constitution, system contracts or simply gauging the support for your ideas. Use your stake to make your opinion count!",
+      "url":"https://voteos.info/",
+      "hasimage":"1"
     }
   ],
   "Ethereum":[],
