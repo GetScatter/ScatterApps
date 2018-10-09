@@ -124,11 +124,12 @@
       "url":"https://eosplay.co/"
     },
     {
-      "applink":"eostoolkit",
+      "applink":"eostoolkit.io",
       "name":"EOSToolkit",
       "type":"Toolkit",
       "description":"",
-      "url":"https://eostoolkit.io/"
+      "url":"https://eostoolkit.io/",
+      "hasimage":"1"
     },
     {
       "applink":"eostoolsbyfranceos",
