@@ -5,14 +5,16 @@
       "name":"Se7ens",
       "type":"Game",
       "description":"Interactive Dice Game",
-      "url":"https://se7ens.io/"
+      "url":"https://se7ens.io/",
+      "hasimage":"1"
     },
     {
       "applink":"bloks",
       "name":"Bloks",
       "type":"Block Explorer",
       "description":"",
-      "url":"https://bloks.io/"
+      "url":"https://bloks.io/",
+      "hasimage":"1"
     },
     {
       "applink":"btuga",
@@ -68,7 +70,8 @@
       "name":"EOSBet Dice",
       "type":"Game",
       "description":"",
-      "url":"https://dice.eosbet.io/"
+      "url":"https://dice.eosbet.io/",
+      "hasimage":"1"
     },
     {
       "applink":"eosbingo",
@@ -110,7 +113,8 @@
       "name":"EOS Name Swaps",
       "type":"Exchange",
       "description":"",
-      "url":"https://www.eosnameswaps.com/"
+      "url":"https://www.eosnameswaps.com/",
+      "hasimage":"1"
     },
     {
       "applink":"eosplaylotteryanddice",
@@ -138,7 +142,8 @@
       "name":"Everipedia",
       "type":"Social / Knowledge",
       "description":"The world's first encyclopedia on the blockchain",
-      "url":"https://everipedia.org/"
+      "url":"https://everipedia.org/",
+      "hasimage":"1"
     },
     {
       "applink":"feexplorer",
