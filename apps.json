@@ -12,7 +12,7 @@
       "applink":"bloks",
       "name":"Bloks",
       "type":"Block Explorer",
-      "description":"",
+      "description":"Full featured Block Explorer and Toolkit for EOSIO Blockchains",
       "url":"https://bloks.io/",
       "hasimage":"1"
     },
