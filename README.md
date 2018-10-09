@@ -25,6 +25,7 @@ A list of applications using [Scatter](https://get-scatter.com)
 
 | Application | Type |
 | -- | -- |
+| [BetDice](https://betdice.one/) | Game |
 | [Bloks.io](https://bloks.io/) | Block Explorer |
 | [Btuga](https://btuga.io/) | Block Explorer |
 | [Chintai](https://eos.chintai.io/) | Token Leasing Platform |

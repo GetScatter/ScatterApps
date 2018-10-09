@@ -202,6 +202,13 @@
       "type":"Game",
       "description":"",
       "url":"https://game.wizards.one/"
+    },
+    {
+      "applink":"BetDice",
+      "name":"BetDice",
+      "type":"Game",
+      "description":"BetDice is the largest gaming platform on EOS blockchain. Users can earn DICE tokens from playing, and then get hourly dividends from staking. Both the platform and the token are based on user-centered design, which gives our users the best gaming experience.",
+      "url":"https://betdice.one/"
     }
   ],
   "Ethereum":[],
