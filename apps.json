@@ -211,11 +211,12 @@
       "url":"http://www.walletforeos.com/"
     },
     {
-      "applink":"wizardsone",
+      "applink":"game.wizards.one",
       "name":"Wizards One",
       "type":"Game",
       "description":"",
-      "url":"https://game.wizards.one/"
+      "url":"https://game.wizards.one/",
+      "hasimage":"1"
     },
     {
       "applink":"BetDice",
