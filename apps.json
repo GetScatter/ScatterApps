@@ -5,203 +5,232 @@
       "name":"Bloks",
       "type":"Block Explorer",
       "description":"",
-      "url":"https://bloks.io/"
+      "url":"https://bloks.io/",
+      "hasimage":"0"
     },
     {
       "applink":"btuga",
       "name":"Btuga",
       "type":"Block Explorer",
       "description":"",
-      "url":"https://btuga.io/"
+      "url":"https://btuga.io/",
+      "hasimage":"0"
     },
     {
       "applink":"chintai",
       "name":"Chintai",
       "type":"Token Leasing Platform",
       "description":"",
-      "url":"https://eos.chintai.io/"
+      "url":"https://eos.chintai.io/",
+      "hasimage":"0"
     },
     {
       "applink":"decentwitter",
       "name":"DecenTwitter",
       "type":"Social",
       "description":"",
-      "url":"http://decentwitter.com/"
+      "url":"http://decentwitter.com/",
+      "hasimage":"0"
     },
     {
       "applink":"deos",
       "name":"Deos Games",
       "type":"Game",
       "description":"",
-      "url":"https://deosgames.com/"
+      "url":"https://deosgames.com/",
+      "hasimage":"0"
     },
     {
       "applink":"dexeos",
       "name":"DEXEOS",
       "type":"Exchange",
       "description":"",
-      "url":"https://dexeos.io/"
+      "url":"https://dexeos.io/",
+      "hasimage":"0"
     },
     {
       "applink":"eosavatarimage",
       "name":"EOS Avatar Image",
       "type":"Other",
       "description":"",
-      "url":"https://eosavatarimg.now.sh/"
+      "url":"https://eosavatarimg.now.sh/",
+      "hasimage":"0"
     },
     {
       "applink":"eosbancor",
       "name":"EOS Bancor",
       "type":"Exchange",
       "description":"",
-      "url":"https://eos.bancor.network/"
+      "url":"https://eos.bancor.network/",
+      "hasimage":"0"
     },
     {
-      "applink":"eosbetdice",
+      "applink":"dice.eosbet.io",
       "name":"EOSBet Dice",
       "type":"Game",
       "description":"",
-      "url":"https://dice.eosbet.io/"
+      "url":"https://dice.eosbet.io/",
+      "hasimage":"0"
     },
     {
       "applink":"eosbingo",
       "name":"EOS Bingo",
       "type":"Game",
       "description":"",
-      "url":"https://eosbingo.net/"
+      "url":"https://eosbingo.net/",
+      "hasimage":"0"
     },
     {
       "applink":"eosfilestore",
       "name":"EOSFilestore",
       "type":"Other",
       "description":"",
-      "url":"https://eosfilestore.now.sh/"
+      "url":"https://eosfilestore.now.sh/",
+      "hasimage":"0"
     },
     {
       "applink":"eosforum",
       "name":"EOS Forum",
       "type":"Other",
       "description":"",
-      "url":"https://eos-forum.org/"
+      "url":"https://eos-forum.org/",
+      "hasimage":"0"
     },
     {
       "applink":"eosknights",
       "name":"EOS Knights",
       "type":"Game",
       "description":"",
-      "url":"http://eosknights.io/"
+      "url":"http://eosknights.io/",
+      "hasimage":"0"
     },
     {
       "applink":"eosnames",
       "name":"EOS Names",
       "type":"Exchange",
       "description":"",
-      "url":"http://eosnames.net/"
+      "url":"http://eosnames.net/",
+      "hasimage":"0"
     },
     {
       "applink":"eosnameswaps",
       "name":"EOS Name Swaps",
       "type":"Exchange",
       "description":"",
-      "url":"https://www.eosnameswaps.com/"
+      "url":"https://www.eosnameswaps.com/",
+      "hasimage":"0"
     },
     {
       "applink":"eosplaylotteryanddice",
       "name":"EOSPlay Lottery & Dice",
       "type":"Game",
       "description":"",
-      "url":"https://eosplay.co/"
+      "url":"https://eosplay.co/",
+      "hasimage":"0"
     },
     {
       "applink":"eostoolkit",
       "name":"EOSToolkit",
       "type":"Toolkit",
       "description":"",
-      "url":"https://eostoolkit.io/"
+      "url":"https://eostoolkit.io/",
+      "hasimage":"0"
     },
     {
       "applink":"eostoolsbyfranceos",
       "name":"EOSTools by Franceos",
       "type":"Toolkit",
       "description":"",
-      "url":"https://tools.franceos.fr/"
+      "url":"https://tools.franceos.fr/",
+      "hasimage":"0"
     },
     {
-      "applink":"everipedia",
+      "applink":"everipedia.org",
       "name":"Everipedia",
       "type":"Social / Knowledge",
-      "description":"",
-      "url":"https://everipedia.org/"
+      "description":"The world's first encyclopedia on the blockchain",
+      "url":"https://everipedia.org/",
+      "hasimage":"1"
     },
     {
       "applink":"feexplorer",
       "name":"FeeXplorer",
       "type":"Exchange",
       "description":"",
-      "url":"https://eos.feexplorer.io/"
+      "url":"https://eos.feexplorer.io/",
+      "hasimage":"0"
     },
     {
       "applink":"irepso",
       "name":"iRespo",
       "type":"Other",
       "description":"",
-      "url":"https://www.irespo.com/"
+      "url":"https://www.irespo.com/",
+      "hasimage":"0"
     },
     {
       "applink":"kingofeos",
       "name":"King of EOS",
       "type":"Game",
       "description":"",
-      "url":"https://kingofeos.com/"
+      "url":"https://kingofeos.com/",
+      "hasimage":"0"
     },
     {
       "applink":"luckywithme",
       "name":"Lucky With Me",
       "type":"Game",
       "description":"",
-      "url":"https://www.luckywith.me/"
+      "url":"https://www.luckywith.me/",
+      "hasimage":"0"
     },
     {
       "applink":"monstereos",
       "name":"MonsterEOS",
       "type":"Game",
       "description":"",
-      "url":"http://monstereos.io/"
+      "url":"http://monstereos.io/",
+      "hasimage":"0"
     },
     {
       "applink":"myeoskit",
       "name":"My EOS Kit",
       "type":"Toolkit",
       "description":"",
-      "url":"https://www.myeoskit.com/"
+      "url":"https://www.myeoskit.com/",
+      "hasimage":"0"
     },
     {
       "applink":"pandafun",
       "name":"PandaFun",
       "type":"Game",
       "description":"",
-      "url":"http://game.pandafun.io/"
+      "url":"http://game.pandafun.io/",
+      "hasimage":"0"
     },
     {
       "applink":"portaleosseoulio",
       "name":"EOSSeoul Voting Portal",
       "type":"Voting",
       "description":"",
-      "url":"https://portal.eoseoul.io/"
+      "url":"https://portal.eoseoul.io/",
+      "hasimage":"0"
     },
     {
       "applink":"walletforeos",
       "name":"Wallet for EOS",
       "type":"Wallet",
       "description":"",
-      "url":"http://www.walletforeos.com/"
+      "url":"http://www.walletforeos.com/",
+      "hasimage":"0"
     },
     {
       "applink":"wizardsone",
       "name":"Wizards One",
       "type":"Game",
       "description":"",
-      "url":"https://game.wizards.one/"
+      "url":"https://game.wizards.one/",
+      "hasimage":"0"
     }
   ],
   "Ethereum":[],
