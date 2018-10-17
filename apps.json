@@ -248,6 +248,14 @@
       "type":"Game",
       "description":"Super Dice is a single six-sided die game by SP studio. Join the game and have fun.",
       "url":"https://dice.savepoors.com"
+    },
+    {
+      "applink":"playeosworld",
+      "name":"Playeos World",
+      "type":"Game",
+      "description":"Own the world on EOS blockchain",
+      "url":"https://playeos.co/",
+      "hasimage":"1"
     }
   ],
   "Ethereum":[],
