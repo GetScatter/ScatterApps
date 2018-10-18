@@ -256,6 +256,14 @@
       "description":"Own the world on EOS blockchain",
       "url":"https://playeos.co/",
       "hasimage":"1"
+    },
+    {
+      "applink":"eoshub.io",
+      "name":"eoshub",
+      "type":"Toolkit",
+      "description":"UX-focused EOS toolkit service.",
+      "url":"https://eoshub.io",
+      "hasimage":"1"
     }
   ],
   "Ethereum":[],
