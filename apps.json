@@ -74,6 +74,13 @@
       "hasimage":"1"
     },
     {
+      "applink":"eosbooks.io",
+      "name":"EOS Books",
+      "type":"Game",
+      "description":"The collaborative decentralized book writing game.",
+      "url":"https://eosbooks.io/"
+    },
+    {
       "applink":"eosbingo",
       "name":"EOS Bingo",
       "type":"Game",
