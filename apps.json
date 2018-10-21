@@ -271,6 +271,14 @@
       "description":"UX-focused EOS toolkit service.",
       "url":"https://eoshub.io",
       "hasimage":"1"
+    },
+    {
+      "applink":"wallet.trybe.one",
+      "name":"Trybe",
+      "type":"Wallet",
+      "description":"Trybe Web Wallet",
+      "url":"https://wallet.trybe.one",
+      "hasimage":"1"
     }
   ],
   "Ethereum":[],
