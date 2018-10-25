@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 188 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;">
+    <g id="分组-10">
+        <path id="矩形-copy-2" d="M188,25C188,11.202 176.798,0 163,0L25,0C11.202,0 0,11.202 0,25L0,163C0,176.798 11.202,188 25,188L163,188C176.798,188 188,176.798 188,163L188,25Z"/>
+        <g id="分组-6" transform="matrix(1,0,0,1,7.25739,7.25739)">
+            <g id="椭圆形-copy-2" transform="matrix(-0.5,0.866025,-0.866025,-0.5,205.235,54.9926)">
+                <path d="M86.743,150.243C121.813,150.243 150.243,121.813 150.243,86.743C150.243,51.673 121.813,23.243 86.743,23.243C51.673,23.243 23.243,51.673 23.243,86.743C23.243,121.813 51.673,150.243 86.743,150.243Z" style="fill:none;stroke:rgb(233,182,45);stroke-width:6px;stroke-dasharray:350,350;"/>
+            </g>
+            <g id="椭圆形-copy-3" transform="matrix(1.27059,0,0,1.27059,-12.3094,-9.67858)">
+                <circle cx="48" cy="37" r="6" style="fill:rgb(233,182,45);"/>
+            </g>
+            <g id="椭圆形-copy-4" transform="matrix(1.27059,0,0,1.27059,-12.3094,-9.67858)">
+                <circle cx="48" cy="37" r="8" style="fill:none;stroke:rgb(193,149,29);stroke-width:1px;stroke-linecap:butt;"/>
+            </g>
+            <g id="椭圆形-copy-5" transform="matrix(1.27059,0,0,1.27059,-12.3094,-9.67858)">
+                <circle cx="48" cy="37" r="10" style="fill:none;stroke:rgb(136,105,22);stroke-width:1px;stroke-linecap:butt;"/>
+            </g>
+            <g id="椭圆形-copy-6" transform="matrix(1.27059,0,0,1.27059,-12.3094,-9.67858)">
+                <circle cx="48" cy="37" r="12" style="fill:none;stroke:rgb(89,71,22);stroke-width:1px;stroke-linecap:butt;"/>
+            </g>
+            <path id="路径-copy" d="M107.886,92.387C102.698,96.184 97.969,100.704 92.323,103.778C87.778,106.253 81.879,105.868 77.649,108.849C58.397,122.417 93.459,136.216 106.702,128.249C119.44,120.585 135.603,94.113 110.793,92L107.886,92.387Z" style="fill:none;stroke:rgb(233,182,45);stroke-width:6px;stroke-linecap:butt;"/>
+            <path id="路径-3-copy" d="M49.005,75.511C51.21,72.381 53.043,68.954 55.619,66.121C65.695,55.042 74.784,90.7 66.731,96.385C54.177,105.246 45.463,81.507 50.407,72.69" style="fill:none;stroke:rgb(233,182,45);stroke-width:6px;stroke-linecap:butt;"/>
+            <path id="路径-2-copy" d="M118.686,33C118.467,37.574 117.86,42.146 118.029,46.722C119.424,84.425 127.215,59.481 142.92,59.481" style="fill:none;stroke:rgb(233,182,45);stroke-width:6px;stroke-linecap:butt;"/>
+        </g>
+    </g>
+</svg>
