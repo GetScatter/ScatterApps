@@ -1,13 +1,14 @@
 {
   "EOSIO":[
     {
-
-      "applink":"WORBLI",
+      "applink":"worbli",
       "name":"WORBLI",
       "type":"Sister Chain",
       "description":"Financial Services Network",
       "url":"https://worbli.io/",
+      "hasimage":"1"
     },
+    {
       "applink":"cryptomeetup",
       "name":"CryptoMeetUp",
       "type":"Game",
