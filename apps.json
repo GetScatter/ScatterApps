@@ -1,6 +1,14 @@
 {
   "EOSIO":[
     {
+      "applink":"app.nebulaprotocol.com",
+      "name":"Nebula",
+      "type":"Dapps",
+      "description":"Building decentralized apps",
+      "url":"https://app.nebulaprotocol.com/",
+      "hasimage":"1"
+    },
+    {
       "applink":"worbli",
       "name":"WORBLI",
       "type":"Sister Chain",
