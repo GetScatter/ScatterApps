@@ -9,6 +9,14 @@
       "hasimage":"1"
     },
     {
+      "applink":"farmeos.io",
+      "name":"FarmEOS",
+      "type":"Game",
+      "description":"FarmEOS is the world's first DApp gaming eco-platform that combines game mining, Bancor and price dividend weight. PoB（Proof of Bancor) and DoP (Dividend of Price) are also the new mining modes pioneered by FarmEOS team. ",
+      "url":"https://www.farmeos.io/",
+      "hasimage":"1"
+    },
+    {
       "applink":"se7en",
       "name":"Se7ens",
       "type":"Game",
