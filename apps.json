@@ -247,8 +247,9 @@
       "applink":"walletforeos",
       "name":"Wallet for EOS",
       "type":"Wallet",
-      "description":"",
-      "url":"http://www.walletforeos.com/"
+      "description":"Wallet for EOS is a smart tool to check the EOS Token Balance and transferring of EOS tokens. Now you can check your EOS balance in a user-friendly platform.",
+      "url":"http://www.walletforeos.com/",
+      "hasimage":"1"
     },
     {
       "applink":"game.wizards.one",
