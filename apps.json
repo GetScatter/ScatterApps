@@ -1,6 +1,14 @@
 {
   "EOSIO":[
     {
+      "applink":"cryptomeetup",
+      "name":"CryptoMeetUp",
+      "type":"Game",
+      "description":"Cryptomeetup is the world's first decentralized event platform powered by EOS.IO blockchain technology!",
+      "url":"https://cryptomeetup.io/",
+      "hasimage":"1"
+    },
+    {
       "applink":"farmeos.io",
       "name":"FarmEOS",
       "type":"Game",
