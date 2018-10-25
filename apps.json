@@ -1,6 +1,14 @@
 {
   "EOSIO":[
     {
+      "applink":"worbli",
+      "name":"WORBLI",
+      "type":"Sister Chain",
+      "description":"Financial Services Network",
+      "url":"https://worbli.io/",
+      "hasimage":"1"
+    },
+    {
       "applink":"cryptomeetup",
       "name":"CryptoMeetUp",
       "type":"Game",
@@ -14,6 +22,7 @@
       "type":"Game",
       "description":"FarmEOS is the world's first DApp gaming eco-platform that combines game mining, Bancor and price dividend weight. PoB（Proof of Bancor) and DoP (Dividend of Price) are also the new mining modes pioneered by FarmEOS team. ",
       "url":"https://www.farmeos.io/",
+
       "hasimage":"1"
     },
     {
