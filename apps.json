@@ -316,5 +316,14 @@
     }
   ],
   "Ethereum":[],
-  "Tron":[]
+  "Tron":[
+    {
+      "applink":"tronbet.io",
+      "name":"TRONbet",
+      "type":"Game",
+      "description":"",
+      "url":"https://www.tronbet.io",
+      "hasimage":"1"
+    }
+  ]
 }
