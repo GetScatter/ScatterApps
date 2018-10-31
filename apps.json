@@ -313,6 +313,13 @@
       "description":"Trybe Web Wallet",
       "url":"https://wallet.trybe.one",
       "hasimage":"1"
+    },
+    {
+      "applink":"bet24.one",
+      "name":"BET24",
+      "type":"Game",
+      "description":"Roll the dice on the EOS blockchain platform",
+      "url":"https://bet24.one/"
     }
   ],
   "Ethereum":[],
