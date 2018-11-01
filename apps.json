@@ -320,6 +320,14 @@
       "type":"Game",
       "description":"Roll the dice on the EOS blockchain platform",
       "url":"https://bet24.one/"
+    },
+    {
+      "applink":"btex.org",
+      "name":"BTEX",
+      "type":"Exchange",
+      "description":"BTEX是EOS上的通证交易所，将上币、撮合、结算全部放于链上，做到交易所功能全上链。BT是平台代币，通过持有BT享有相关权益，包括手续费100%分红、增值获利等。",
+      "url":"https://www.btex.org/",
+      "hasimage":"1"
     }
   ],
   "Ethereum":[],
