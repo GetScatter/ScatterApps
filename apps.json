@@ -1,5 +1,13 @@
 {
   "EOSIO":[
+     {
+      "applink":"dc.zhaopeiyu.com",
+      "name":"ZhaoPeiYu",
+      "type":"Dapps",
+      "description":"Building decentralized apps",
+      "url":"http://dc.zhaopeiyu.com",
+      "hasimage":"1"
+    },
     {
       "applink":"app.nebulaprotocol.com",
       "name":"Nebula",
