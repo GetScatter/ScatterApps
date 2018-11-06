@@ -1,5 +1,12 @@
 {
   "EOSIO":[
+     {
+    "applink":"www.criptorevolucionmexico.com",
+    "name":"CriptoRevolución México",
+    "type":"financial services, savings, investment and loans",
+    "url":"https://www.criptorevolucionmexico.com/inicio",
+    "hasimage":"1"
+    }
     {
       "applink":"app.nebulaprotocol.com",
       "name":"Nebula",
