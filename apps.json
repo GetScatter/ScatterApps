@@ -336,6 +336,14 @@
       "description":"EOSDAQ is an EOS-based on-chain DEX, providing the safest and most user-friendly platform to trade EOS-based tokens.",
       "url":"https://eosdaq.com/",
       "hasimage":"1"
+    },
+    {
+      "applink" : "play.0xwarriors.com",     
+      "name" : "0xWarriors",         
+      "type":"Game",         
+      "description":"Combining multiple blockchains in the perfect synergy between technology and games in one epic world where players will decide who’s tougher! 0xWarriors is a Multi Blockchain-based game releasing on EOS first and Ethereum in the coming months! More cryptocurrencies to be added in the near future!",
+      "url":"https://0xwarriors.com",
+      "hasimage":"1"
     }
   ],
   "Ethereum":[],
