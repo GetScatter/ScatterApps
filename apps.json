@@ -1,20 +1,58 @@
 {
-  "EOSIO":[
+  "Apps":[
+    {
+      "applink":"app.nebulaprotocol.com",
+      "name":"Nebula",
+      "type":"Dapps",
+      "description":"Building decentralized apps",
+      "url":"https://app.nebulaprotocol.com/",
+      "hasimage":"1",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"worbli",
+      "name":"WORBLI",
+      "type":"Sister Chain",
+      "description":"Financial Services Network",
+      "url":"https://worbli.io/",
+      "hasimage":"1",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"cryptomeetup",
+      "name":"CryptoMeetUp",
+      "type":"Game",
+      "description":"Cryptomeetup is the world's first decentralized event platform powered by EOS.IO blockchain technology!",
+      "url":"https://cryptomeetup.io/",
+      "hasimage":"1",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"farmeos.io",
+      "name":"FarmEOS",
+      "type":"Game",
+      "description":"FarmEOS is the world's first DApp gaming eco-platform that combines game mining, Bancor and price dividend weight. PoB（Proof of Bancor) and DoP (Dividend of Price) are also the new mining modes pioneered by FarmEOS team. ",
+      "url":"https://www.farmeos.io/",
+      "hasimage":"1",
+      "blockchain":"EOSIO"
+    },
     {
       "applink":"se7en",
       "name":"Se7ens",
       "type":"Game",
       "description":"Interactive Dice Game",
       "url":"https://se7ens.io/",
-      "hasimage":"1"
+      "hasimage":"1",
+      "blockchain":"EOSIO"
     },
     {
-      "applink":"bloks",
+      "applink":"bloks.io",
       "name":"Bloks",
       "type":"Block Explorer",
-      "description":"",
+      "description":"Full featured Block Explorer and Toolkit for EOSIO Blockchains",
       "url":"https://bloks.io/",
-      "hasimage":"0"
+      "hasimage":"1",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"btuga",
@@ -22,15 +60,17 @@
       "type":"Block Explorer",
       "description":"",
       "url":"https://btuga.io/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
-      "applink":"chintai",
+      "applink":"chintai.io",
       "name":"Chintai",
       "type":"Token Leasing Platform",
       "description":"",
       "url":"https://eos.chintai.io/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"decentwitter",
@@ -38,7 +78,8 @@
       "type":"Social",
       "description":"",
       "url":"http://decentwitter.com/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"deos",
@@ -46,7 +87,8 @@
       "type":"Game",
       "description":"",
       "url":"https://deosgames.com/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"dexeos",
@@ -54,7 +96,8 @@
       "type":"Exchange",
       "description":"",
       "url":"https://dexeos.io/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"eosavatarimage",
@@ -62,7 +105,8 @@
       "type":"Other",
       "description":"",
       "url":"https://eosavatarimg.now.sh/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"eosbancor",
@@ -70,7 +114,8 @@
       "type":"Exchange",
       "description":"",
       "url":"https://eos.bancor.network/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"dice.eosbet.io",
@@ -78,7 +123,17 @@
       "type":"Game",
       "description":"",
       "url":"https://dice.eosbet.io/",
-      "hasimage":"1"
+      "hasimage":"1",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"eosbooks.io",
+      "name":"EOS Books",
+      "type":"Game",
+      "description":"The collaborative decentralized book writing game.",
+      "url":"https://eosbooks.io/",
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"eosbingo",
@@ -86,7 +141,8 @@
       "type":"Game",
       "description":"",
       "url":"https://eosbingo.net/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"eosfilestore",
@@ -94,15 +150,17 @@
       "type":"Other",
       "description":"",
       "url":"https://eosfilestore.now.sh/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
-      "applink":"eosforum",
+      "applink":"eos-forum.org",
       "name":"EOS Forum",
-      "type":"Other",
-      "description":"",
+      "type":"Social",
+      "description":"A decentralized censorship resistant Reddit-like forum",
       "url":"https://eos-forum.org/",
-      "hasimage":"0"
+      "hasimage":"1",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"eosknights",
@@ -110,7 +168,8 @@
       "type":"Game",
       "description":"",
       "url":"http://eosknights.io/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"eosnames",
@@ -118,15 +177,17 @@
       "type":"Exchange",
       "description":"",
       "url":"http://eosnames.net/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
-      "applink":"eosnameswaps",
+      "applink":"eosnameswaps.com",
       "name":"EOS Name Swaps",
       "type":"Exchange",
       "description":"",
       "url":"https://www.eosnameswaps.com/",
-      "hasimage":"0"
+      "hasimage":"1",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"eosplaylotteryanddice",
@@ -134,15 +195,17 @@
       "type":"Game",
       "description":"",
       "url":"https://eosplay.co/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
-      "applink":"eostoolkit",
+      "applink":"eostoolkit.io",
       "name":"EOSToolkit",
       "type":"Toolkit",
       "description":"",
       "url":"https://eostoolkit.io/",
-      "hasimage":"0"
+      "hasimage":"1",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"eostoolsbyfranceos",
@@ -150,7 +213,8 @@
       "type":"Toolkit",
       "description":"",
       "url":"https://tools.franceos.fr/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"everipedia.org",
@@ -158,7 +222,8 @@
       "type":"Social / Knowledge",
       "description":"The world's first encyclopedia on the blockchain",
       "url":"https://everipedia.org/",
-      "hasimage":"1"
+      "hasimage":"1",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"feexplorer",
@@ -166,7 +231,8 @@
       "type":"Exchange",
       "description":"",
       "url":"https://eos.feexplorer.io/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"irepso",
@@ -174,7 +240,8 @@
       "type":"Other",
       "description":"",
       "url":"https://www.irespo.com/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"kingofeos",
@@ -182,7 +249,8 @@
       "type":"Game",
       "description":"",
       "url":"https://kingofeos.com/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"luckywithme",
@@ -190,15 +258,17 @@
       "type":"Game",
       "description":"",
       "url":"https://www.luckywith.me/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
-      "applink":"monstereos",
+      "applink":"monstereos.io",
       "name":"MonsterEOS",
       "type":"Game",
       "description":"",
       "url":"http://monstereos.io/",
-      "hasimage":"0"
+      "hasimage":"1",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"myeoskit",
@@ -206,7 +276,8 @@
       "type":"Toolkit",
       "description":"",
       "url":"https://www.myeoskit.com/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"pandafun",
@@ -214,7 +285,8 @@
       "type":"Game",
       "description":"",
       "url":"http://game.pandafun.io/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"portaleosseoulio",
@@ -222,33 +294,132 @@
       "type":"Voting",
       "description":"",
       "url":"https://portal.eoseoul.io/",
-      "hasimage":"0"
+      "hasimage":"0",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"eossportsbets.io",
+      "name":"EOS Sports Bets",
+      "type":"Game",
+      "description":"P2P Sports Betting",
+      "url":"https://www.eossportsbets.io/",
+      "hasimage":"0",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"walletforeos",
       "name":"Wallet for EOS",
       "type":"Wallet",
-      "description":"",
+      "description":"Wallet for EOS is a smart tool to check the EOS Token Balance and transferring of EOS tokens. Now you can check your EOS balance in a user-friendly platform.",
       "url":"http://www.walletforeos.com/",
-      "hasimage":"0"
+      "hasimage":"1",
+      "blockchain":"EOSIO"
     },
     {
-      "applink":"wizardsone",
+      "applink":"game.wizards.one",
       "name":"Wizards One",
       "type":"Game",
       "description":"",
       "url":"https://game.wizards.one/",
-      "hasimage":"0"
+      "hasimage":"1",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"betdice.one",
+      "name":"BetDice",
+      "type":"Game",
+      "description":"BetDice is the largest gaming platform on EOS blockchain. Users can earn DICE tokens from playing, and then get hourly dividends from staking. Both the platform and the token are based on user-centered design, which gives our users the best gaming experience.",
+      "url":"https://betdice.one/",
+      "hasimage":"1",
+      "blockchain":"EOSIO"
     },
     {
       "applink":"voteos.info",
       "name":"Voteos.info",
       "type":"Forum",
-      "description":"Helping the EOS community develop a way to discover the wishes of the tokenholders; where there is agreement and where there is controversy, based on the amount of support a given proposal attains.",
+      "description":"The purpose of this site is to help the EOS community develop a way to discover the wishes of the tokenholders; where there is agreement and where there is controversy, based on the amount of support a given proposal attains. Here, you can let your voice be heard and your tokens be counted on any issue. You can show support for any proposal or comment, or start your own initiative to see if it is widely supported! Join us in our effort to help the EOS better communicate, with on-chain discussions, which can lead to referenda, worker proposals, changes to the constitution, system contracts or simply gauging the support for your ideas. Use your stake to make your opinion count!",
       "url":"https://voteos.info/",
-      "hasimage":"1"
+      "hasimage":"1",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"dice.savepoors.com",
+      "name":"Super Dice",
+      "type":"Game",
+      "description":"Super Dice is a single six-sided die game by SP studio. Join the game and have fun.",
+      "url":"https://dice.savepoors.com",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"playeos.co",
+      "name":"EOS World",
+      "type":"Game",
+      "description":"Own the world on EOS blockchain",
+      "url":"https://playeos.co/",
+      "hasimage":"1",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"eoshub.io",
+      "name":"eoshub",
+      "type":"Toolkit",
+      "description":"UX-focused EOS toolkit service.",
+      "url":"https://eoshub.io",
+      "hasimage":"1",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"wallet.trybe.one",
+      "name":"Trybe",
+      "type":"Wallet",
+      "description":"Trybe Web Wallet",
+      "url":"https://wallet.trybe.one",
+      "hasimage":"1",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"bet24.one",
+      "name":"BET24",
+      "type":"Game",
+      "description":"Roll the dice on the EOS blockchain platform",
+      "url":"https://bet24.one/",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"btex.org",
+      "name":"BTEX",
+      "type":"Exchange",
+      "description":"BTEX是EOS上的通证交易所，将上币、撮合、结算全部放于链上，做到交易所功能全上链。BT是平台代币，通过持有BT享有相关权益，包括手续费100%分红、增值获利等。",
+      "url":"https://www.btex.org/",
+      "hasimage":"1",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"eosdaq.com",
+      "name":"EOSDAQ",
+      "type":"Exchange",
+      "description":"EOSDAQ is an EOS-based on-chain DEX, providing the safest and most user-friendly platform to trade EOS-based tokens.",
+      "url":"https://eosdaq.com/",
+      "hasimage":"1",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink" : "play.0xwarriors.com",     
+      "name" : "0xWarriors",         
+      "type":"Game",         
+      "description":"Combining multiple blockchains in the perfect synergy between technology and games in one epic world where players will decide who’s tougher! 0xWarriors is a Multi Blockchain-based game releasing on EOS first and Ethereum in the coming months! More cryptocurrencies to be added in the near future!",
+      "url":"https://0xwarriors.com",
+      "hasimage":"1",
+      "blockchain":"EOSIO"
+    },
+    {
+      "applink":"tronbet.io",
+      "name":"TRONbet",
+      "type":"Game",
+      "description":"",
+      "url":"https://www.tronbet.io",
+      "hasimage":"1",
+      "blockchain":"Tron"
     }
-  ],
-  "Ethereum":[],
-  "Tron":[]
+  ]
 }
