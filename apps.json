@@ -344,6 +344,14 @@
       "description":"Combining multiple blockchains in the perfect synergy between technology and games in one epic world where players will decide who’s tougher! 0xWarriors is a Multi Blockchain-based game releasing on EOS first and Ethereum in the coming months! More cryptocurrencies to be added in the near future!",
       "url":"https://0xwarriors.com",
       "hasimage":"1"
+    },
+    {
+      "applink" : "eosgameboy.io",
+      "name" : "EOSGameBoy",
+      "type":"Game",
+      "description":"EOSGameboy is retro-style dapp game that trustworthy and entertaining.",
+      "url":"https://eosgameboy.io",
+      "hasimage":"1"
     }
   ],
   "Ethereum":[],
