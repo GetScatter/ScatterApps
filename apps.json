@@ -1,6 +1,14 @@
 {
   "EOSIO":[
     {
+      "applink":"eosfun.win",
+      "name":"eosCrash",
+      "type":"Game",
+      "description":"EOS crash game",
+      "url":"https://eosfun.win/",
+      "hasimage":"1"
+    },
+    {
       "applink":"app.nebulaprotocol.com",
       "name":"Nebula",
       "type":"Dapps",
