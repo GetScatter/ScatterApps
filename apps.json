@@ -1,6 +1,14 @@
 {
   "EOSIO":[
     {
+      "applink":"horuspaymarket",
+      "name":"HorusPay Market",
+      "type":"Payroll Dapp",
+      "description":"EOS-based decentralized Global Payroll Portal that allows companies to exchange private encrypted secured data with international payroll vendors using the Blockchain.",
+      "url":"https://horuspay.io/",
+      "hasimage":"1"
+    },
+    {
       "applink":"eosfun.win",
       "name":"eosCrash",
       "type":"Game",
