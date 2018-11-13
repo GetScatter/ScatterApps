@@ -1,6 +1,14 @@
 {
   "EOSIO":[
     {
+      "applink":"fiat.carbon.money",
+      "name":"Carbon Wallet",
+      "type":"Wallet",
+      "description":"Multicurrency wallet with fiat on-ramp",
+      "url":"https://fiat.carbon.money/",
+      "hasimage":"1"
+    },
+    {
       "applink":"horuspaymarket",
       "name":"HorusPay Market",
       "type":"Payroll Dapp",
