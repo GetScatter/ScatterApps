@@ -1,5 +1,13 @@
 {
   "EOSIO":[
+     {
+      "applink":"eosmax.io",
+      "name":"EOS Max",
+      "type":"Game",
+      "description":"SLOT and DICE on blockchain, all results can be verified. 100% of all game profit is distributed to holders of our MAX token.",
+      "url":"https://eosmax.io",
+      "hasimage":"1"
+    },
     {
       "applink":"fiat.carbon.money",
       "name":"Carbon Wallet",
