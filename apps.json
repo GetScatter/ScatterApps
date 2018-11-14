@@ -392,6 +392,14 @@
       "description":"EOSGameboy is retro-style dapp game that trustworthy and entertaining.",
       "url":"https://eosgameboy.io",
       "hasimage":"1"
+    },
+    {
+      "applink":"game.kakuka.com",
+      "name":"Kakuka",
+      "type":"Game",
+      "description":"A Bet Game",
+      "url":"http://47.97.186.48:9999/",
+      "hasimage":"1"
     }
   ],
   "Ethereum":[],
