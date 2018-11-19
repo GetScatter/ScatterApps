@@ -1,5 +1,13 @@
 {
   "EOSIO":[
+    {
+      "applink": "sendeosdotio",
+      "name": "SendEOS",
+      "type": "Payments",
+      "description": "Send EOS to anyone with just an email address",
+      "url": "https://sendeos.io",
+      "hasimage": "1"
+    },
       {
       "applink":"eostiger.io",
       "name":"EOSTiger",
