@@ -2,7 +2,7 @@
   "EOSIO":[
     {
       "applink":"members.eosdac.io",
-      "name":"EOSDAC Member Client",
+      "name":"EosDAC Member Client",
       "type":"DAC",
       "description":"Register and interact with eosDAC, the community-owned EOS blocker producer and Decentralized Autonomous Community enabler.",
       "url":"https://members.eosdac.io/",
