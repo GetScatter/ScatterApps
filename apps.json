@@ -4,7 +4,7 @@
       "applink":"members.eosdac.io",
       "name":"EOSDAC Member Client",
       "type":"DAC",
-      "description":"Register and interact with the DAC-enabling Decentralized Autonomous Community.",
+      "description":"Register and interact with eosDAC, the community-owned EOS blocker producer and DAC Enabler.",
       "url":"https://members.eosdac.io/",
       "hasimage":"1"
     },
