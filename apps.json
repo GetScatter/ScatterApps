@@ -1,14 +1,22 @@
 {
   "EOSIO":[
-      {
+    {
+      "applink":"members.eosdac.io",
+      "name":"EOSDAC Member Client",
+      "type":"DAC",
+      "description":"Register and interact with the DAC-enabling Decentralized Autonomous Community.",
+      "url":"https://members.eosdac.io/",
+      "hasimage":"1"
+    },
+    {
       "applink":"eostiger.io",
       "name":"EOSTiger",
       "type":"Game",
       "description":"EOSTiger is a classic entertainment platform based on the EOS.IO blockchain， rules are written by Smart Contracts.It is a collection of classic games with different senses, such as slot machines, Texas hold 'em, roulette, and blackjack. ",
       "url":"https://eostiger.io/",
       "hasimage":"1"
-     },
-     {
+    },
+    {
       "applink":"eosmax.io",
       "name":"EOS Max",
       "type":"Game",
