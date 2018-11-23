@@ -1,5 +1,13 @@
 {
   "EOSIO":[
+    {
+      "applink": "enjoy.bet",
+      "name": "ENJOY",
+      "type": "Game",
+      "description": "ENJOY.BET is a platform for trusted, profit sharing and high performance gaming experiences based on the EOS.IO blockchain. It solves the problems of traditional online gaming platforms and other online cryptocurrency casinos, including high fees, slow recharge/cash out and lack of trust. Our goal is to create the largest cryptocurrency gaming platform with platform token holders and share the platform's profits. We welcome everyone to join our community and build and grow together. We believe that value is ultimately created by our users, not just our team.",
+      "url": "https://enjoy.bet/",
+      "hasimage": "1"
+    },
       {
       "applink":"eostiger.io",
       "name":"EOSTiger",
