@@ -391,6 +391,14 @@
       "description":"EOSGameboy is retro-style dapp game that trustworthy and entertaining.",
       "url":"https://eosgameboy.io",
       "hasimage":"1"
+    },
+    {
+      "applink":"buyname.io",
+      "name":"Buyname",
+      "type":"Exchange",
+      "description":"Welcome to register short .e for EOS account",
+      "url":"http://buyname.io/English/Index",
+      "hasimage":"1"
     }
   ],
   "Ethereum":[],
