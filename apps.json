@@ -1,6 +1,14 @@
 {
   "EOSIO":[
       {
+      "applink":"chestnut",
+      "name":"Chestnut",
+      "type":"Toolkit",
+      "description":"A chestnut account is hard to crack – improving security and automation of accounts on the EOS blockchain network",
+      "url":"https://www.chestnutaccounts.com/",
+      "hasimage":"1"
+     },
+      {
       "applink":"eostiger.io",
       "name":"EOSTiger",
       "type":"Game",
