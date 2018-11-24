@@ -1,6 +1,14 @@
 {
   "EOSIO":[
       {
+        "applink":"3d-eos.qiulot.io",
+        "name":"球乐3D",
+        "type":"HighRisk",
+        "description":"球乐3D是结合了传统资金盘以及赌球的创新型零和游戏，在这里，有人赢就会有人输，你是战到最后的那一个么？Bet for your favorite football team.",
+        "url":"https://3d-eos.qiulot.io",
+        "hasimage":"1"
+      },
+      {
       "applink":"eostiger.io",
       "name":"EOSTiger",
       "type":"Game",
