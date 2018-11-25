@@ -16,6 +16,14 @@
          "url":"https://members.eosdac.io/",
          "hasimage":"1"
       },
+      {
+         "applink":"catchthefrog.com",     
+         "name":"CatchTheFrog",        
+         "type":"Game",        
+         "description":"CatchTheFrog, get FROG-Token and don't be a frog... catch'm!", 
+         "url":"https://www.catchthefrog.com",  
+         "hasimage":"1"    
+      },
       {  
          "applink":"enjoy.bet",
          "name":"ENJOY",
