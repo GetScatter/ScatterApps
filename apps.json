@@ -446,6 +446,14 @@
          "description":"Welcome to register short .e for EOS account",
          "url":"http://buyname.io/English/Index",
          "hasimage":"1"
+      },
+      {  
+         "applink":"tobet.io",
+         "name":"Tobet",
+         "type":"Game",
+         "description":"Tobet is a gaming platform on EOS blockchain. Users can earn TOB tokens from playing.Tobet gives users the best gaming experience.",
+         "url":"https://tobet.io/",
+         "hasimage":"1"
       }
    ],
    "Ethereum":[  
