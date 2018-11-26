@@ -1,5 +1,13 @@
 {  
-   "EOSIO":[  
+   "EOSIO":[
+      {
+         "applink":"infiniverse",
+         "name":"Infiniverse",
+         "type":"Game",
+         "description":"Infiniverse is an augmented reality platform and virtual world on top of the real world. It combines the entire world's digital space into a single, persistent, interactive, virtual layer.",
+         "url":"https://www.infiniverse.net/",
+         "hasimage":"1"
+      },
       {
          "applink":"jacks.rovegas.com",
          "name":"Royal Online Vegas",
