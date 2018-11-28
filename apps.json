@@ -462,6 +462,14 @@
          "description":"Tobet is a gaming platform on EOS blockchain. Users can earn TOB tokens from playing.Tobet gives users the best gaming experience.",
          "url":"https://tobet.io/",
          "hasimage":"1"
+      },
+      {
+         "applink":"big.game",
+         "name":"Big Game",
+         "type":"Game",
+         "description":"Fair & Exciting EOS Gaming Platform!",
+         "url":"https://big.game/",
+         "hasimage":"1"
       }
    ],
    "Ethereum":[  
