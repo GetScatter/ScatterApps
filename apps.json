@@ -454,6 +454,14 @@
          "description":"Welcome to register short .e for EOS account",
          "url":"http://buyname.io/English/Index",
          "hasimage":"1"
+      },
+      {
+         "applink":"big.game",
+         "name":"Big Game",
+         "type":"Game",
+         "description":"Fair & Exciting EOS Gaming Platform!",
+         "url":"https://big.game/",
+         "hasimage":"1"
       }
    ],
    "Ethereum":[  
