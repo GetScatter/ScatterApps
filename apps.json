@@ -1,6 +1,14 @@
 {  
    "EOSIO":[
       {
+         "applink":"fintecapp.com",
+         "name":"EOS Comic Miner",
+         "type":"Invest",
+         "description":"Publich Public Platform.",
+         "url":"https://www.fintecapp.com/",
+         "hasimage":"1"
+      },
+      {
          "applink":"infiniverse.net",
          "name":"Infiniverse",
          "type":"Game",
