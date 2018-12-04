@@ -1,6 +1,14 @@
 {  
    "EOSIO":[
       {
+         "applink":"fintecapp.com",
+         "name":"Comic Fintec",
+         "type":"Platform",
+         "description":"Fintec Game .",
+         "url":"https://www.fintecapp.com/",
+         "hasimage":"1"
+      },
+      {
          "applink":"infiniverse.net",
          "name":"Infiniverse",
          "type":"Game",
