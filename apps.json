@@ -8,6 +8,14 @@
          "url":"https://www.infiniverse.net/",
          "hasimage":"1"
       },
+    {
+      "applink": "sendeosdotio",
+      "name": "SendEOS",
+      "type": "Payments",
+      "description": "Send EOS to anyone with just an email address. We are a viral payment and referrel system for EOS.",
+      "url": "https://sendeos.io",
+      "hasimage": "1"
+    },
       {
          "applink":"jacks.rovegas.com",
          "name":"Royal Online Vegas",
