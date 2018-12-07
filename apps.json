@@ -471,6 +471,14 @@
          "url":"http://buyname.io/English/Index",
          "hasimage":"1"
       },
+	  {  
+         "applink":"bingobet.one",
+         "name":"BingoBet",
+         "type":"Game",
+         "description":"BingoBet.one is the first American Roulette on EOS blockchain! Dice, Jackpot, Dividends and others! Contact to us via t.me/bingobet_one",
+         "url":"https://bingobet.one/",
+         "hasimage":"1"
+      },
       {  
          "applink":"tobet.one",
          "name":"Tobet",
