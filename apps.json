@@ -486,6 +486,14 @@
          "description":"Fair & Exciting EOS Gaming Platform!",
          "url":"https://big.game/",
          "hasimage":"1"
+      },
+      {
+         "applink":"groweos.io",
+         "name":"Grow Eos",
+         "type":"Game",
+         "description":"Challenge your friends in blockchain!",
+         "url":"https://groweos.io/",
+         "hasimage":"1"
       }
    ],
    "Ethereum":[  
