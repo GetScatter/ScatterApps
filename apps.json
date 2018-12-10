@@ -2,10 +2,10 @@
    "EOSIO":[
       {
          "applink":"fintecapp.com",
-         "name":"Comic Fintec",
+         "name":"EOS Comic Fintec",
          "type":"Platform",
-         "description":"Fintec Game .",
-         "url":"https://www.fintecapp.com/",
+         "description":"EOS Comic Store .",
+         "url":"http://www.fintecapp.com/",
          "hasimage":"1"
       },
       {
