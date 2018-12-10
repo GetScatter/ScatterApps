@@ -1,4 +1,4 @@
-{  
+{
    "EOSIO":[
       {
          "applink":"fintecapp.com",
@@ -40,7 +40,7 @@
          "url":"https://www.chestnutaccounts.com/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"members.eosdac.io",
          "name":"EosDAC Member Client",
          "type":"DAC",
@@ -49,14 +49,14 @@
          "hasimage":"1"
       },
       {
-         "applink":"catchthefrog.com",     
-         "name":"CatchTheFrog",        
-         "type":"Game",        
-         "description":"CatchTheFrog, get FROG-Token and don't be a frog... catch'm!", 
-         "url":"https://www.catchthefrog.com",  
-         "hasimage":"1"    
+         "applink":"catchthefrog.com",
+         "name":"CatchTheFrog",
+         "type":"Game",
+         "description":"CatchTheFrog, get FROG-Token and don't be a frog... catch'm!",
+         "url":"https://www.catchthefrog.com",
+         "hasimage":"1"
       },
-      {  
+      {
          "applink":"enjoy.bet",
          "name":"ENJOY",
          "type":"Game",
@@ -64,7 +64,7 @@
          "url":"https://enjoy.bet/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"3d-eos.qiulot.io",
          "name":"球乐3D",
          "type":"HighRisk",
@@ -72,7 +72,7 @@
          "url":"https://3d-eos.qiulot.io",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"eostiger.io",
          "name":"EOSTiger",
          "type":"Game",
@@ -80,14 +80,14 @@
          "url":"https://eostiger.io/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"eosmax.io",
          "name":"EOS Max",
          "type":"Game",
          "description":"SLOT and DICE on blockchain, all results can be verified. 100% of all game profit is distributed to holders of our MAX token.",
          "url":"https://eosmax.io"
       },
-      {  
+      {
          "applink":"fiat.carbon.money",
          "name":"Carbon Wallet",
          "type":"Wallet",
@@ -95,7 +95,7 @@
          "url":"https://fiat.carbon.money/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"horuspaymarket",
          "name":"HorusPay Market",
          "type":"Payroll Dapp",
@@ -103,7 +103,7 @@
          "url":"https://horuspay.io/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"eosfun.win",
          "name":"EOSFun",
          "type":"Game",
@@ -111,7 +111,7 @@
          "url":"https://eosfun.win/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"app.nebulaprotocol.com",
          "name":"Nebula",
          "type":"Dapps",
@@ -119,7 +119,7 @@
          "url":"https://app.nebulaprotocol.com/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"worbli",
          "name":"WORBLI",
          "type":"Sister Chain",
@@ -127,7 +127,7 @@
          "url":"https://worbli.io/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"cryptomeetup",
          "name":"CryptoMeetUp",
          "type":"Game",
@@ -135,7 +135,7 @@
          "url":"https://cryptomeetup.io/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"farmeos.io",
          "name":"FarmEOS",
          "type":"Game",
@@ -143,7 +143,7 @@
          "url":"https://www.farmeos.io/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"se7en",
          "name":"Se7ens",
          "type":"Game",
@@ -151,7 +151,7 @@
          "url":"https://se7ens.io/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"bloks.io",
          "name":"Bloks",
          "type":"Block Explorer",
@@ -159,56 +159,56 @@
          "url":"https://bloks.io/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"btuga",
          "name":"Btuga",
          "type":"Block Explorer",
          "description":"",
          "url":"https://btuga.io/"
       },
-      {  
+      {
          "applink":"chintai.io",
          "name":"Chintai",
          "type":"Token Leasing Platform",
          "description":"",
          "url":"https://eos.chintai.io/"
       },
-      {  
+      {
          "applink":"decentwitter",
          "name":"DecenTwitter",
          "type":"Social",
          "description":"",
          "url":"http://decentwitter.com/"
       },
-      {  
+      {
          "applink":"deos",
          "name":"Deos Games",
          "type":"Game",
          "description":"",
          "url":"https://deosgames.com/"
       },
-      {  
+      {
          "applink":"dexeos",
          "name":"DEXEOS",
          "type":"Exchange",
          "description":"",
          "url":"https://dexeos.io/"
       },
-      {  
+      {
          "applink":"eosavatarimage",
          "name":"EOS Avatar Image",
          "type":"Other",
          "description":"",
          "url":"https://eosavatarimg.now.sh/"
       },
-      {  
+      {
          "applink":"eosbancor",
          "name":"EOS Bancor",
          "type":"Exchange",
          "description":"",
          "url":"https://eos.bancor.network/"
       },
-      {  
+      {
          "applink":"dice.eosbet.io",
          "name":"EOSBet Dice",
          "type":"Game",
@@ -216,28 +216,28 @@
          "url":"https://dice.eosbet.io/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"eosbooks.io",
          "name":"EOS Books",
          "type":"Game",
          "description":"The collaborative decentralized book writing game.",
          "url":"https://eosbooks.io/"
       },
-      {  
+      {
          "applink":"eosbingo",
          "name":"EOS Bingo",
          "type":"Game",
          "description":"",
          "url":"https://eosbingo.net/"
       },
-      {  
+      {
          "applink":"eosfilestore",
          "name":"EOSFilestore",
          "type":"Other",
          "description":"",
          "url":"https://eosfilestore.now.sh/"
       },
-      {  
+      {
          "applink":"eos-forum.org",
          "name":"EOS Forum",
          "type":"Social",
@@ -245,21 +245,21 @@
          "url":"https://eos-forum.org/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"eosknights",
          "name":"EOS Knights",
          "type":"Game",
          "description":"",
          "url":"http://eosknights.io/"
       },
-      {  
+      {
          "applink":"eosnames",
          "name":"EOS Names",
          "type":"Exchange",
          "description":"",
          "url":"http://eosnames.net/"
       },
-      {  
+      {
          "applink":"eosnameswaps.com",
          "name":"EOS Name Swaps",
          "type":"Exchange",
@@ -267,14 +267,14 @@
          "url":"https://www.eosnameswaps.com/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"eosplaylotteryanddice",
          "name":"EOSPlay Lottery & Dice",
          "type":"Game",
          "description":"",
          "url":"https://eosplay.co/"
       },
-      {  
+      {
          "applink":"eostoolkit.io",
          "name":"EOSToolkit",
          "type":"Toolkit",
@@ -282,14 +282,14 @@
          "url":"https://eostoolkit.io/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"eostoolsbyfranceos",
          "name":"EOSTools by Franceos",
          "type":"Toolkit",
          "description":"",
          "url":"https://tools.franceos.fr/"
       },
-      {  
+      {
          "applink":"everipedia.org",
          "name":"Everipedia",
          "type":"Social / Knowledge",
@@ -297,35 +297,35 @@
          "url":"https://everipedia.org/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"feexplorer",
          "name":"FeeXplorer",
          "type":"Exchange",
          "description":"",
          "url":"https://eos.feexplorer.io/"
       },
-      {  
+      {
          "applink":"irepso",
          "name":"iRespo",
          "type":"Other",
          "description":"",
          "url":"https://www.irespo.com/"
       },
-      {  
+      {
          "applink":"kingofeos",
          "name":"King of EOS",
          "type":"Game",
          "description":"",
          "url":"https://kingofeos.com/"
       },
-      {  
+      {
          "applink":"luckywithme",
          "name":"Lucky With Me",
          "type":"Game",
          "description":"",
          "url":"https://www.luckywith.me/"
       },
-      {  
+      {
          "applink":"monstereos.io",
          "name":"MonsterEOS",
          "type":"Game",
@@ -333,35 +333,35 @@
          "url":"http://monstereos.io/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"myeoskit",
          "name":"My EOS Kit",
          "type":"Toolkit",
          "description":"",
          "url":"https://www.myeoskit.com/"
       },
-      {  
+      {
          "applink":"pandafun",
          "name":"PandaFun",
          "type":"Game",
          "description":"",
          "url":"http://game.pandafun.io/"
       },
-      {  
+      {
          "applink":"portaleosseoulio",
          "name":"EOSSeoul Voting Portal",
          "type":"Voting",
          "description":"",
          "url":"https://portal.eoseoul.io/"
       },
-      {  
+      {
          "applink":"eossportsbets.io",
          "name":"EOS Sports Bets",
          "type":"Game",
          "description":"P2P Sports Betting",
          "url":"https://www.eossportsbets.io/"
       },
-      {  
+      {
          "applink":"walletforeos",
          "name":"Wallet for EOS",
          "type":"Wallet",
@@ -369,7 +369,7 @@
          "url":"http://www.walletforeos.com/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"game.wizards.one",
          "name":"Wizards One",
          "type":"Game",
@@ -377,7 +377,7 @@
          "url":"https://game.wizards.one/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"betdice.one",
          "name":"BetDice",
          "type":"Game",
@@ -385,7 +385,7 @@
          "url":"https://betdice.one/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"voteos.info",
          "name":"Voteos.info",
          "type":"Forum",
@@ -393,14 +393,14 @@
          "url":"https://voteos.info/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"dice.savepoors.com",
          "name":"Super Dice",
          "type":"Game",
          "description":"Super Dice is a single six-sided die game by SP studio. Join the game and have fun.",
          "url":"https://dice.savepoors.com"
       },
-      {  
+      {
          "applink":"playeos.co",
          "name":"EOS World",
          "type":"Game",
@@ -408,7 +408,7 @@
          "url":"https://playeos.co/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"eoshub.io",
          "name":"eoshub",
          "type":"Toolkit",
@@ -416,7 +416,7 @@
          "url":"https://eoshub.io",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"wallet.trybe.one",
          "name":"Trybe",
          "type":"Wallet",
@@ -424,14 +424,14 @@
          "url":"https://wallet.trybe.one",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"bet24.one",
          "name":"BET24",
          "type":"Game",
          "description":"Roll the dice on the EOS blockchain platform",
          "url":"https://bet24.one/"
       },
-      {  
+      {
          "applink":"btex.org",
          "name":"BTEX",
          "type":"Exchange",
@@ -439,7 +439,7 @@
          "url":"https://www.btex.org/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"eosdaq.com",
          "name":"EOSDAQ",
          "type":"Exchange",
@@ -447,7 +447,7 @@
          "url":"https://eosdaq.com/",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"play.0xwarriors.com",
          "name":"0xWarriors",
          "type":"Game",
@@ -455,7 +455,7 @@
          "url":"https://0xwarriors.com",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"eosgameboy.io",
          "name":"EOSGameBoy",
          "type":"Game",
@@ -463,7 +463,7 @@
          "url":"https://eosgameboy.io",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"buyname.io",
          "name":"Buyname",
          "type":"Exchange",
@@ -471,7 +471,7 @@
          "url":"http://buyname.io/English/Index",
          "hasimage":"1"
       },
-      {  
+      {
          "applink":"tobet.one",
          "name":"Tobet",
          "type":"Game",
@@ -486,13 +486,21 @@
          "description":"Fair & Exciting EOS Gaming Platform!",
          "url":"https://big.game/",
          "hasimage":"1"
+      },
+      {
+         "applink":"dealin.io",
+         "name":"DealIN",
+         "type":"Other",
+         "description":"Loyalty and Reward platform",
+         "url":"https://www.dealin.io/",
+         "hasimage":"1"
       }
    ],
-   "Ethereum":[  
+   "Ethereum":[
 
    ],
-   "Tron":[  
-      {  
+   "Tron":[
+      {
          "applink":"tronbet.io",
          "name":"TRONbet",
          "type":"Game",
