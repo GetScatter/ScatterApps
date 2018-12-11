@@ -510,7 +510,15 @@
          "description":"Challenge your friends in blockchain!",
          "url":"https://groweos.io/",
          "hasimage":"1"
-      }
+      },
+	{
+         "applink":"dealin.io",
+         "name":"DealIN",
+         "type":"Other",
+         "description":"Loyalty and Reward platform",
+         "url":"https://www.dealin.io/",
+         "hasimage":"1"
+      }   
    ],
    "Ethereum":[  
 
