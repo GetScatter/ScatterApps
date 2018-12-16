@@ -1,5 +1,13 @@
 {  
    "EOSIO":[
+   	  {
+         "applink":"luckynuts.one",
+         "name":"Lucky Nuts",
+         "type":"Gambling",
+         "description":"True decentralized eos gambling",
+         "url":"http://www.luckynuts.one/",
+         "hasimage":"1"
+      },
       {
          "applink":"fintecapp.com",
          "name":"EOS Comic Fintec",
