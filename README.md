@@ -21,5 +21,5 @@
 }
 ```
 
-##Important note about the applink key: 
+## Important note about the applink key: 
 If you are a web app, you will need to use your FQDN ( ie. get-scatter.com ) and not what you are passing into the connection.
