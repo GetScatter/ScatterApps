@@ -547,6 +547,14 @@
          "description":"",
          "url":"https://www.tronbet.io",
          "hasimage":"1"
-      }
+      },
+      {
+        "applink":"trxanthill.farm",
+        "name":"TRONAntHills",
+        "type":"Game",
+        "description":"",
+        "url":"https://trxanthill.farm",
+        "hasimage":"1"
+     }
    ]
 }
