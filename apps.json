@@ -1,4 +1,4 @@
-{  
+﻿{  
    "EOSIO":[
    	  {
          "applink":"luckynuts.one",
@@ -554,6 +554,14 @@
         "type":"Game",
         "description":"",
         "url":"https://trxanthill.farm",
+        "hasimage":"1"
+     },
+      {
+        "applink":"block.tronlegacy.org",
+        "name":"TronBlock",
+        "type":"Game",
+        "description":"First dApp empowered by Bancor Protocol on TRON",
+        "url":"https://block.tronlegacy.org/",
         "hasimage":"1"
      }
    ]
