@@ -1,5 +1,13 @@
 {  
    "EOSIO":[
+      {
+         "applink":"honordapp.online",
+         "name":"Honor Dice",
+         "type":"Game",
+         "description":"Honor Dice is a dice game built using blockchain technology, based on Smart Contract and the game process is fully transparent. Register to get 1000 HON today!",
+         "url":"http://honordapp.online",
+         "hasimage":"1"
+      },
    	  {
          "applink":"luckynuts.one",
          "name":"Lucky Nuts",
