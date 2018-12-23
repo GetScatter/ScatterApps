@@ -241,11 +241,11 @@
          "url":"https://eos.bancor.network/"
       },
       {  
-         "applink":"dice.eosbet.io",
+         "applink":"eosbet.io",
          "name":"EOSBet Dice",
          "type":"Game",
          "description":"",
-         "url":"https://dice.eosbet.io/",
+         "url":"https://eosbet.io/",
          "hasimage":"1"
       },
       {  
