@@ -1,5 +1,13 @@
 {  
    "EOSIO":[
+      {
+         "applink":"eoslots.com",
+         "name":"EOSlots",
+         "type":"Gambling",
+         "description":"Decentralized Slots Game",
+         "url":"https://eoslots.com/",
+         "hasimage":"1"
+      },
       {  
          "applink":"eosx.io",
          "name":"EOSX",
