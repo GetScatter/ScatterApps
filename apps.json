@@ -1,5 +1,13 @@
 {  
    "EOSIO":[
+      {
+         "applink":"eoslots.com",
+         "name":"EOSlots",
+         "type":"Gambling",
+         "description":"EOSlots is the largest Slots platform on EOS blockchain.",
+         "url":"https://eoslots.com/",
+         "hasimage":"1"
+      },
       {  
          "applink":"eosx.io",
          "name":"EOSX",
