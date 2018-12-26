@@ -1,5 +1,13 @@
 {  
    "EOSIO":[
+      {  
+         "applink":"eosx.io",
+         "name":"EOSX",
+         "type":"Block Explorer",
+         "description":"Fastest Block Explorer and Toolkit for EOSIO Blockchains",
+         "url":"https://www.eosx.io/",
+         "hasimage":"1"
+      },
       {
          "applink":"honordapp.online",
          "name":"Honor Dice",
