@@ -558,6 +558,22 @@
         "description":"Not Only EOS Explorer",
         "url":"https://eospark.com/",
         "hasimage":"1"
+      },
+      {  
+        "applink":"eospoker.win",
+        "name":"EOS Poker: Blackjack",
+        "type":"Game",
+        "description":"EOS Poker is the first ever decentralized poker gaming platform on the EOS blockchain. It is provably fair and totally transparent. Blackjack is our first game. Stay tuned as more are coming! In addition to being on the blockchain, EOS Poker is also decentralized in the sense that it is owned by the community of POKER holders. POKER holders own the platform, both its profits and decisions.",
+        "url":"https://eospoker.win/",
+        "hasimage":"1"
+      },
+      {  
+        "applink":"tcp.eospoker.win",
+        "name":"EOS Poker: 3 Card Poker",
+        "type":"Game",
+        "description":"EOS Poker is the first ever decentralized poker gaming platform on the EOS blockchain. It is provably fair and totally transparent. Three Card Poker is our second game. Stay tuned as more are coming! In addition to being on the blockchain, EOS Poker is also decentralized in the sense that it is owned by the community of POKER holders. POKER holders own the platform, both its profits and decisions.",
+        "url":"https://tcp.eospoker.win/",
+        "hasimage":"1"
       }
    ],
    "Ethereum":[  
