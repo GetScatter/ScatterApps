@@ -1,5 +1,13 @@
 {  
    "EOSIO":[
+      {  
+         "applink":"eostime.io",
+         "name":"EOS Time",
+         "type":"Game",
+         "description":"Play EOS Time to win EOS in real-time auctions - share the profits with TIME tokens",
+         "url":"https://eostime.io/",
+         "hasimage":"1"
+      },
       {
          "applink":"eoslots.com",
          "name":"EOSlots",
