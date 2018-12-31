@@ -558,7 +558,15 @@
         "description":"Not Only EOS Explorer",
         "url":"https://eospark.com/",
         "hasimage":"1"
-      }
+      },
+      {
+        "applink":"eosjango.com",
+        "name":"EOSJango",
+        "type":"Game",
+        "description":"Decentralized donation referral system",
+        "url":"https://eosjango.com/",
+        "hasimage":"1"
+      },
    ],
    "Ethereum":[  
 
