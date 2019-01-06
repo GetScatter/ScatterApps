@@ -1,6 +1,14 @@
 {  
    "EOSIO":[
       {  
+         "applink":"eosminerbot.io",
+         "name":"EOS Miner Bot",
+         "type":"Toolkit",
+         "description":"Mining utility bot for EOS based dice tokens.",
+         "url":"https://www.eosminerbot.io/",
+         "hasimage":"1"
+      },
+      {  
          "applink":"eostime.io",
          "name":"EOS Time",
          "type":"Game",
