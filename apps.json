@@ -73,12 +73,12 @@
          "hasimage":"1"
       },
     {
-      "applink": "sendeosdotio",
-      "name": "SendEOS",
-      "type": "Payments",
-      "description": "Send EOS to anyone with just an email address. We are a viral payment and referrel system for EOS.",
-      "url": "https://sendeos.io",
-      "hasimage": "1"
+         "applink": "sendeosdotio",
+         "name": "SendEOS",
+         "type": "Payments",
+         "description": "Send EOS to anyone with just an email address. We are a viral payment and referrel system for EOS.",
+         "url": "https://sendeos.io",
+         "hasimage": "1"
     },
       {
          "applink":"play.lelego.io",
@@ -149,7 +149,8 @@
          "name":"EOS Max",
          "type":"Game",
          "description":"SLOT and DICE on blockchain, all results can be verified. 100% of all game profit is distributed to holders of our MAX token.",
-         "url":"https://eosmax.io"
+         "url":"https://eosmax.io",
+         "hasimage":"1"
       },
       {  
          "applink":"fiat.carbon.money",
@@ -224,53 +225,60 @@
          "hasimage":"1"
       },
       {  
-         "applink":"btuga",
+         "applink":"btuga.io",
          "name":"Btuga",
          "type":"Block Explorer",
          "description":"",
-         "url":"https://btuga.io/"
+         "url":"https://btuga.io/",
+         "hasimage":"1"
       },
       {  
          "applink":"chintai.io",
          "name":"Chintai",
          "type":"Token Leasing Platform",
          "description":"",
-         "url":"https://eos.chintai.io/"
+         "url":"https://eos.chintai.io/",
+         "hasimage":"1"
       },
       {  
-         "applink":"decentwitter",
+         "applink":"decentwitter.com",
          "name":"DecenTwitter",
          "type":"Social",
          "description":"",
-         "url":"http://decentwitter.com/"
+         "url":"http://decentwitter.com/",
+         "hasimage":"1"
       },
       {  
-         "applink":"deos",
+         "applink":"deosgames.com",
          "name":"Deos Games",
          "type":"Game",
          "description":"",
-         "url":"https://deosgames.com/"
+         "url":"https://deosgames.com/",
+         "hasimage":"1"
       },
       {  
-         "applink":"dexeos",
+         "applink":"dexeos.io",
          "name":"DEXEOS",
          "type":"Exchange",
          "description":"",
-         "url":"https://dexeos.io/"
+         "url":"https://dexeos.io/",
+         "hasimage":"1"
       },
       {  
-         "applink":"eosavatarimage",
+         "applink":"eosavatarimg.now.sh",
          "name":"EOS Avatar Image",
          "type":"Other",
          "description":"",
-         "url":"https://eosavatarimg.now.sh/"
+         "url":"https://eosavatarimg.now.sh/",
+         "hasimage":"1"
       },
       {  
          "applink":"eos.bancor.network",
          "name":"EOS Bancor",
          "type":"Exchange",
          "description":"",
-         "url":"https://eos.bancor.network/"
+         "url":"https://eos.bancor.network/",
+         "hasimage":"1"
       },
       {  
          "applink":"eosbet.io",
@@ -285,21 +293,24 @@
          "name":"EOS Books",
          "type":"Game",
          "description":"The collaborative decentralized book writing game.",
-         "url":"https://eosbooks.io/"
+         "url":"https://eosbooks.io/",
+         "hasimage":"1"
       },
       {  
-         "applink":"eosbingo",
+         "applink":"eosbingo.net",
          "name":"EOS Bingo",
          "type":"Game",
          "description":"",
-         "url":"https://eosbingo.net/"
+         "url":"https://eosbingo.net/",
+         "hasimage":"1"
       },
       {  
-         "applink":"eosfilestore",
+         "applink":"eosfilestore.now.sh",
          "name":"EOSFilestore",
          "type":"Other",
          "description":"",
-         "url":"https://eosfilestore.now.sh/"
+         "url":"https://eosfilestore.now.sh/",
+         "hasimage":"1"
       },
       {  
          "applink":"eos-forum.org",
@@ -310,18 +321,20 @@
          "hasimage":"1"
       },
       {  
-         "applink":"eosknights",
+         "applink":"eosknights.io",
          "name":"EOS Knights",
          "type":"Game",
          "description":"",
-         "url":"http://eosknights.io/"
+         "url":"http://eosknights.io/",
+         "hasimage":"1"
       },
       {  
-         "applink":"eosnames",
+         "applink":"eosnames.net",
          "name":"EOS Names",
          "type":"Exchange",
          "description":"",
-         "url":"http://eosnames.net/"
+         "url":"http://eosnames.net/",
+         "hasimage":"1"
       },
       {  
          "applink":"eosnameswaps.com",
@@ -332,11 +345,12 @@
          "hasimage":"1"
       },
       {  
-         "applink":"eosplaylotteryanddice",
+         "applink":"eosplay.co",
          "name":"EOSPlay Lottery & Dice",
          "type":"Game",
          "description":"",
-         "url":"https://eosplay.co/"
+         "url":"https://eosplay.co/",
+         "hasimage":"1"
       },
       {  
          "applink":"eostoolkit.io",
@@ -347,11 +361,12 @@
          "hasimage":"1"
       },
       {  
-         "applink":"eostoolsbyfranceos",
+         "applink":"tools.franceos.fr",
          "name":"EOSTools by Franceos",
          "type":"Toolkit",
          "description":"",
-         "url":"https://tools.franceos.fr/"
+         "url":"https://tools.franceos.fr/",
+         "hasimage":"1"
       },
       {  
          "applink":"everipedia.org",
@@ -362,32 +377,34 @@
          "hasimage":"1"
       },
       {  
-         "applink":"feexplorer",
+         "applink":"eos.feexplorer.io",
          "name":"FeeXplorer",
          "type":"Exchange",
          "description":"",
-         "url":"https://eos.feexplorer.io/"
+         "url":"https://eos.feexplorer.io/",
+         "hasimage":"1"
       },
-      {  
+      /* not loading {  
          "applink":"irepso",
          "name":"iRespo",
          "type":"Other",
          "description":"",
          "url":"https://www.irespo.com/"
-      },
-      {  
-         "applink":"kingofeos",
+      },*/
+      /* not running anymore {  
+         "applink":"kingofeos.com",
          "name":"King of EOS",
          "type":"Game",
          "description":"",
          "url":"https://kingofeos.com/"
-      },
+      },*/
       {  
-         "applink":"luckywithme",
+         "applink":"www.luckywith.me",
          "name":"Lucky With Me",
          "type":"Game",
          "description":"",
-         "url":"https://www.luckywith.me/"
+         "url":"https://www.luckywith.me/",
+         "hasimage":"1"
       },
       {  
          "applink":"monstereos.io",
@@ -398,32 +415,28 @@
          "hasimage":"1"
       },
       {  
-         "applink":"myeoskit",
-         "name":"My EOS Kit",
-         "type":"Toolkit",
-         "description":"",
-         "url":"https://www.myeoskit.com/"
-      },
-      {  
-         "applink":"pandafun",
+         "applink":"game.pandafun.io",
          "name":"PandaFun",
          "type":"Game",
          "description":"",
-         "url":"http://game.pandafun.io/"
+         "url":"http://game.pandafun.io/",
+         "hasimage":"1"
       },
       {  
-         "applink":"portaleosseoulio",
+         "applink":"portal.eoseoul.io",
          "name":"EOSSeoul Voting Portal",
          "type":"Voting",
          "description":"",
-         "url":"https://portal.eoseoul.io/"
+         "url":"https://portal.eoseoul.io/",
+         "hasimage":"1"
       },
       {  
-         "applink":"eossportsbets.io",
+         "applink":"www.eossportsbets.io",
          "name":"EOS Sports Bets",
          "type":"Game",
          "description":"P2P Sports Betting",
-         "url":"https://www.eossportsbets.io/"
+         "url":"https://www.eossportsbets.io/",
+         "hasimage":"1"
       },
       {  
          "applink":"walletforeos",
@@ -457,13 +470,13 @@
          "url":"https://voteos.info/",
          "hasimage":"1"
       },
-      {  
+      /* https certificate is expired {  
          "applink":"dice.savepoors.com",
          "name":"Super Dice",
          "type":"Game",
          "description":"Super Dice is a single six-sided die game by SP studio. Join the game and have fun.",
          "url":"https://dice.savepoors.com"
-      },
+      },*/
       {  
          "applink":"playeos.co",
          "name":"EOS World",
@@ -493,7 +506,8 @@
          "name":"BET24",
          "type":"Game",
          "description":"Roll the dice on the EOS blockchain platform",
-         "url":"https://bet24.one/"
+         "url":"https://bet24.one/",
+         "hasimage":"1"
       },
       {  
          "applink":"btex.org",

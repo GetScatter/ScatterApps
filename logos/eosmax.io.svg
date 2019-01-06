@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="98px" viewBox="0 0 90 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-6.000000, -2.000000)">
+            <path d="M59,4.61880215 L87.1672956,20.8811978 C92.1177128,23.7393226 95.1672956,29.0213549 95.1672956,34.7376043 L95.1672956,67.2623957 C95.1672956,72.9786451 92.1177128,78.2606774 87.1672956,81.1188022 L59,97.3811978 C54.0495828,100.239323 47.9504172,100.239323 43,97.3811978 L14.8327044,81.1188022 C9.88228718,78.2606774 6.83270441,72.9786451 6.83270441,67.2623957 L6.83270441,34.7376043 C6.83270441,29.0213549 9.88228718,23.7393226 14.8327044,20.8811978 L43,4.61880215 C47.9504172,1.76067743 54.0495828,1.76067743 59,4.61880215 Z" id="Polygon" fill="#29ABE2"></path>
+            <path d="M12,70 L12,60 L27,24 L29,24 L35,41 L26,60 L26,70 L12,70 Z M44,66 L31,24 L43,24 L57,66 L44,66 Z M59,63 L51,42 L58,23 L71,23 L59,63 Z M67,42 L73,24 L75,24 L89,58 L89,69 L75,69 L75,59 L67,42 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
