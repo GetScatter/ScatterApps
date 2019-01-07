@@ -384,20 +384,6 @@
          "url":"https://eos.feexplorer.io/",
          "hasimage":"1"
       },
-      /* not loading {  
-         "applink":"irepso",
-         "name":"iRespo",
-         "type":"Other",
-         "description":"",
-         "url":"https://www.irespo.com/"
-      },*/
-      /* not running anymore {  
-         "applink":"kingofeos.com",
-         "name":"King of EOS",
-         "type":"Game",
-         "description":"",
-         "url":"https://kingofeos.com/"
-      },*/
       {  
          "applink":"www.luckywith.me",
          "name":"Lucky With Me",
@@ -470,13 +456,6 @@
          "url":"https://voteos.info/",
          "hasimage":"1"
       },
-      /* https certificate is expired {  
-         "applink":"dice.savepoors.com",
-         "name":"Super Dice",
-         "type":"Game",
-         "description":"Super Dice is a single six-sided die game by SP studio. Join the game and have fun.",
-         "url":"https://dice.savepoors.com"
-      },*/
       {  
          "applink":"playeos.co",
          "name":"EOS World",
