@@ -289,6 +289,14 @@
          "hasimage":"1"
       },
       {  
+         "applink":"endless.game",
+         "name":"Endless Game",
+         "type":"Game",
+         "description":"The highest-yeilding profit-sharing game (at least 40% of the daily profit) on EOS Provable Fairness.",
+         "url":"https://endless.game",
+         "hasimage":"1"
+      },   
+      {  
          "applink":"eosbooks.io",
          "name":"EOS Books",
          "type":"Game",
