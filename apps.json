@@ -596,6 +596,14 @@
       "description":"Wheel Of Tron. Spin the wheel or invest in the bankroll and get house profits! The first wheel of tron with active staking!",
       "url":"https://wheeloftron.co",
       "hasimage":"1"
+     },
+	{
+      "applink":"rsplsgame",
+      "name":"Dungeon Hunt",
+      "type":"Game",
+      "description":"Dungeon Hunt, an EOS & TRYBE game to go deep into the dungeons and hunt orcs!",
+      "url":"http://www.dungeon-hunt.ga",
+      "hasimage":"1"
      }
    ]
 }
