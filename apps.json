@@ -1,5 +1,13 @@
 {  
    "EOSIO":[
+      { 
+	       "applink":"dapps.luckycoin.live", 
+	       "name":"Lucky Coin", 
+	       "type":"Gambling", 
+	       "description":"Lucky Coin is a new generation PVP betting platform. Players determine the outcome!", 
+	       "url":"https://dapps.luckycoin.live", 
+	       "hasimage":"1"
+      },
       {  
          "applink":"eosminerbot.io",
          "name":"EOS Miner Bot",
@@ -288,6 +296,14 @@
          "url":"https://eosbet.io/",
          "hasimage":"1"
       },
+      {  
+         "applink":"endless.game",
+         "name":"Endless Game",
+         "type":"Game",
+         "description":"The highest-yeilding profit-sharing game (at least 40% of the daily profit) on EOS Provable Fairness.",
+         "url":"https://endless.game",
+         "hasimage":"1"
+      },   
       {  
          "applink":"eosbooks.io",
          "name":"EOS Books",
