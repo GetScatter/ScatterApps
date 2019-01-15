@@ -591,6 +591,14 @@
          "description":"Blockchain Cuties is the collectible crypto game with adventures where you get to play with puppies, lizards, bear cubs, cats and other real and fantasy creatures alike.",
          "url":"https://blockchaincuties.com/",
          "hasimage":"1"
+      },
+      {  
+         "applink":"eosluck.one",
+         "name":"EOSLUCK",
+         "type":"Gambling",
+         "description":"EOSLUCK is a betting platform based on EOS.",
+         "url":"https://eosluck.one/",
+         "hasimage":"1"
       }
    ],
    "Ethereum":[  
