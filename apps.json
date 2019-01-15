@@ -591,6 +591,14 @@
          "description":"Blockchain Cuties is the collectible crypto game with adventures where you get to play with puppies, lizards, bear cubs, cats and other real and fantasy creatures alike.",
          "url":"https://blockchaincuties.com/",
          "hasimage":"1"
+      },
+      {
+         "applink":"p2p.game",
+         "name":"Rock Paper Scissors",
+         "type":"Game",
+         "description":"Multiplayer game on EOS blockchain, earn crypto when you win in the game, and receive game reward tokens.",
+         "url":"https://rps.p2p.game/",
+         "hasimage":"1"
       }
    ],
    "Ethereum":[  
