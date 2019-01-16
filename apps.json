@@ -1,5 +1,12 @@
 {
 	"EOSIO": [{
+			"applink": "eoshash.win",
+			"name": "EOSHash",
+			"type": "Gambling",
+			"description": "The FAIREST Decentralized Crypto Casino Built on EOS, use hash to draw winning numbers to guarantee absolute Fairness, No Chance for Cheating at All! Generous rewards, high referral bonus!",
+			"url": "https://eoshash.win",
+			"hasimage": "1"
+		},{
 			"applink": "dapps.luckycoin.live",
 			"name": "Lucky Coin",
 			"type": "Gambling",
