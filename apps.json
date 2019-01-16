@@ -630,6 +630,14 @@
       "description": "Dungeon Hunt, an EOS & TRYBE game to go deep into the dungeons and hunt orcs!",
       "url": "http://www.dungeon-hunt.ga",
       "hasimage": "1"
+    },
+    {
+      "applink": "alerts.eosauthority.com",
+      "name": "EOS Alerts",
+      "type": "Tools",
+      "description": "Get immediate alerts on email & telegram for your EOS account activity",
+      "url": "https://eosauthority.com/alerts",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
