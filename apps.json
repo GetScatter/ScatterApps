@@ -1,5 +1,14 @@
-{
-	"EOSIO": [{
+﻿{
+	"EOSIO": [
+		{
+			"applink":"eosp.in",
+			"name":"EOSPIN",
+			"type":"Gambling",
+			"description":"EOS Online Roulette Casino",
+			"url":"https://eosp.in",
+			"hasimage":"1"
+		},
+		{
 			"applink": "dapps.luckycoin.live",
 			"name": "Lucky Coin",
 			"type": "Gambling",
