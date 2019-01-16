@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+			"applink": "ipfs-google.com",
+			"name": "Poseidon",
+			"type": "Search engine",
+			"description": "Poseidon, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
+			"url": "https://www.ipfs-google.com",
+			"hasimage": "1"
+		}, 
+    {
       "applink": "eosp.in",
       "name": "EOSPIN",
       "type": "Gambling",
