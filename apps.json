@@ -647,6 +647,14 @@
       "description": "Get immediate alerts on email & telegram for your EOS account activity",
       "url": "https://eosauthority.com/alerts",
       "hasimage": "1"
+    },
+    {
+      "applink": "eosgamez.io",
+      "name": "Eosgamez",
+      "type": "Game",
+      "description": "EOS Gaming Platform",
+      "url": "https://eosgamez.io",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
