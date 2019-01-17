@@ -29,7 +29,8 @@
       "name": "EOSLUCK",
       "type": "Gambling",
       "description": "EOSLUCK is a betting platform based on EOS.",
-      "url": "https://eosluck.one/"
+      "url": "https://eosluck.one/",
+      "hasimage": "1"
     },
     {
       "applink": "dapps.luckycoin.live",
