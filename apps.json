@@ -647,6 +647,14 @@
       "description": "Get immediate alerts on email & telegram for your EOS account activity",
       "url": "https://eosauthority.com/alerts",
       "hasimage": "1"
+    },
+    {
+      "applink": "fairbet.vip",
+      "name": "Fair Bet",
+      "type": "Gambling",
+      "description": "",
+      "url": "http://fairbet.vip/",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
