@@ -647,6 +647,78 @@
       "description": "Get immediate alerts on email & telegram for your EOS account activity",
       "url": "https://eosauthority.com/alerts",
       "hasimage": "1"
+    },
+    {
+      "applink": "eosjoy.io",
+      "name": "EOS Joy",
+      "type": "Games",
+      "description": "",
+      "url": "https://www.eosjoy.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "pokereos.io",
+      "name": "Poker EOS",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://pokereos.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "luckbet.io",
+      "name": "Luckbet",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://luckbet.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "playgames.life",
+      "name": "PlayGames",
+      "type": "Gambling",
+      "description": "",
+      "url": "http://playgames.life/",
+      "hasimage": "1"
+    },
+    {
+      "applink": "kuai3.io",
+      "name": "EOSgamez",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://kuai3.io/eos/",
+      "hasimage": "1"
+    },
+    {
+      "applink": "fastwin.io",
+      "name": "EOSgamez",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://fastwin.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "betx.fun",
+      "name": "BetX",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://betx.fun/",
+      "hasimage": "1"
+    },
+    {
+      "applink": "dice.gamesky.io",
+      "name": "GameSky",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://dice.gamesky.io/dice",
+      "hasimage": "1"
+    },
+    {
+      "applink": "eosfish.io",
+      "name": "EOSfish",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://eosfish.io",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
