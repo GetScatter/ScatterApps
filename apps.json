@@ -719,6 +719,38 @@
       "description": "",
       "url": "https://eosfish.io",
       "hasimage": "1"
+    },
+    {
+      "applink": "ffgame.io",
+      "name": "FFgame",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://ffgame.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "ffgame.io",
+      "name": "FFgame",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://ffgame.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "gamblr.one",
+      "name": "Gamblr",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://gamblr.one/",
+      "hasimage": "1"
+    },
+    {
+      "applink": "eosjacks.com",
+      "name": "Gamblr",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://eosjacks.com/",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
