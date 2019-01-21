@@ -751,6 +751,14 @@
       "description": "",
       "url": "https://eosjacks.com/",
       "hasimage": "1"
+    },
+    {
+      "applink": "eosbluff.io",
+      "name": "EOS Bluff",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://eosbluff.io",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
