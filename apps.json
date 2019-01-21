@@ -751,6 +751,14 @@
       "description": "",
       "url": "https://eosjacks.com/",
       "hasimage": "1"
+    },
+    {
+      "applink": "win96.me",
+      "name": "WIN96",
+      "type": "Toolkit",
+      "description": "win96 mining tools for dapp games",
+      "url": "https://win96.me/",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
