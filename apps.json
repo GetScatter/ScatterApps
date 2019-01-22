@@ -759,6 +759,14 @@
       "description": "",
       "url": "https://eosbluff.io",
       "hasimage": "1"
+    },
+    {
+      "applink": "eosgamez.io",
+      "name": "Eosgamez.io",
+      "type": "EOS Gaming Platform",
+      "description": "",
+      "url": "https://eosgamez.io",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
