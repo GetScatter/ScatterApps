@@ -690,7 +690,7 @@
     },
     {
       "applink": "fastwin.io",
-      "name": "EOSgamez",
+      "name": "FAST",
       "type": "Gambling",
       "description": "",
       "url": "https://fastwin.io",
@@ -718,14 +718,6 @@
       "type": "Gambling",
       "description": "",
       "url": "https://eosfish.io",
-      "hasimage": "1"
-    },
-    {
-      "applink": "ffgame.io",
-      "name": "FFgame",
-      "type": "Gambling",
-      "description": "",
-      "url": "https://ffgame.io",
       "hasimage": "1"
     },
     {
