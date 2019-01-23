@@ -8,6 +8,14 @@
 			"url": "https://www.ipfs-google.com",
 			"hasimage": "1"
 		}, 
+	      {
+      "applink": "cadeos.io",
+      "name": "CADEOS.io",
+      "type": "PLM",
+      "description": "Decentralized CAD.files & Project Management Platform",
+      "url": "https://cadeos.io/scatter-kyc/"
+      "hasimage": "1"	      
+    },
     {
       "applink": "eosp.in",
       "name": "EOSPIN",
@@ -795,13 +803,7 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
-    },
-    {
-      "applink": "cadeos.io",
-      "name": "CADEOS.io",
-      "type": "PLM",
-      "description": "Decentralized CAD.files & Project Management Platform",
-      "url": "https://cadeos.io/scatter-kyc/"
     }
+
   ]
 }
