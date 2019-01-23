@@ -803,6 +803,13 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
+    },
+    {
+      "applink": "cadeos.io",
+      "name": "CADEOS.io",
+      "type": "PLM",
+      "description": "Decentralized CAD.files & Project Management Platform",
+      "url": "https://cadeos.io/scatter-kyc/"
     }
   ]
 }
