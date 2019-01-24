@@ -13,8 +13,7 @@
       "name": "CADEOS.io",
       "type": "PLM",
       "description": "Decentralized CAD.files & Project Management Platform",
-      "url": "https://cadeos.io/scatter-kyc/",
-      "hasimage": "1"	      
+      "url": "https://cadeos.io/scatter-kyc/"
     },
     {
       "applink": "eosp.in",
@@ -326,8 +325,7 @@
       "name": "EOS Avatar Image",
       "type": "Other",
       "description": "",
-      "url": "https://eosavatarimg.now.sh/",
-      "hasimage": "1"
+      "url": "https://eosavatarimg.now.sh/"
     },
     {
       "applink": "eos.bancor.network",
@@ -742,8 +740,7 @@
       "name": "FFgame",
       "type": "Gambling",
       "description": "",
-      "url": "https://ffgame.io",
-      "hasimage": "1"
+      "url": "https://ffgame.io"
     },
     {
       "applink": "gamblr.one",
