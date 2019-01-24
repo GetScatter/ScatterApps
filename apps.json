@@ -24,6 +24,15 @@
       "url": "https://eosp.in",
       "hasimage": "1"
     },
+	  
+    {
+      "applink": "gemcity.io",
+      "name": "GemCity",
+      "type": "Game",
+      "description": "After two centuries, space explorers finally discovered GEM. I heard that GEM can get a lot of wealth. Come to GEM CITY to start the EOS Eco Treasure New Era era!",
+      "url": "htpps://www.gemcity.io/",
+      "hasimage": "1"
+    },
     {
       "applink": "eoshash.win",
       "name": "EOSHash",
