@@ -49,7 +49,7 @@ describe('Apps', () => {
 	});
 
 	it('should all have proper and safe svgs', () => {
-		const BAD = ['<script', '/script', 'let ', 'var ', 'var=', 'let=', 'const ', 'const=', 'func', '=>', 'document.'];
+		const BAD = ['<script', '/script', 'let ', 'var ', 'var=', 'let=', 'const ', 'const=', 'function', '=>', 'document.'];
 		apps.map(app => {
 			const svg = getImage(app);
 			if(svg) BAD.map(x => {
