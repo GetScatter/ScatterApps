@@ -774,6 +774,14 @@
       "description": "",
       "url": "https://eosgamez.io",
       "hasimage": "1"
+    },
+    {
+      "applink": "flipeos.com",
+      "name": "flipeos",
+      "type": "Provably fair EOS card games.",
+      "description": "Gambling",
+      "url": "http://flipeos.com",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
