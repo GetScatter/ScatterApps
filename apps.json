@@ -1,14 +1,22 @@
 {
   "EOSIO": [
     {
-			"applink": "ipfs-google.com",
-			"name": "Poseidon",
-			"type": "Search engine",
-			"description": "Poseidon, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
-			"url": "https://www.ipfs-google.com",
-			"hasimage": "1"
-		},
-	      {
+      "applink": "www.eosdividends.com",
+      "name": "EOS Dividends",
+      "type": "Dividends",
+      "description": "Tokens that pay you while you sleep",
+      "url": "https://www.eosdividends.com/",
+      "hasimage": "1"
+    },
+    {
+      "applink": "ipfs-google.com",
+      "name": "Poseidon",
+      "type": "Search engine",
+      "description": "Poseidon, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
+      "url": "https://www.ipfs-google.com",
+      "hasimage": "1"
+     },
+     {
       "applink": "cadeos.io",
       "name": "CADEOS.io",
       "type": "PLM",
@@ -811,14 +819,6 @@
       "description": "",
       "url": "https://trongoo.io"
     },
-    {
-      "applink": "www.eosdividends.com",
-      "name": "EOS Dividends",
-      "type": "Dividends",
-      "description": "Tokens that pay you while you sleep",
-      "url": "https://www.eosdividends.com/",
-      "hasimage": "1"
-    }
 
   ]
 }
