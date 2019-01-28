@@ -1,6 +1,14 @@
 {
    "EOSIO":[
       {
+         "applink":"www.eosdividends.com",
+         "name":"EOS Dividends",
+         "type":"Dividends",
+         "description":"Tokens that pay you while you sleep",
+         "url":"https://www.eosdividends.com/",
+         "hasimage":"1"
+      }      
+      {
          "applink":"ipfs-google.com",
          "name":"Poseidon",
          "type":"Tool",
@@ -905,13 +913,6 @@
          "type":"Game",
          "description":"",
          "url":"https://trongoo.io"
-      },
-      {
-         "applink":"www.eosdividends.com",
-         "name":"EOS Dividends",
-         "type":"Dividends",
-         "description":"Tokens that pay you while you sleep",
-         "url":"https://www.eosdividends.com/",
-         "hasimage":"1"
-      ]
+      }
+     ]
    }
