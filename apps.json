@@ -17,6 +17,14 @@
       "hasimage":"1"
     },
     {
+      "applink": "www.eosdividends.com",
+      "name": "EOS Dividends",
+      "type": "Dividends",
+      "description": "Tokens that pay you while you sleep",
+      "url": "https://www.eosdividends.com/",
+      "hasimage": "1"
+    },
+    {
       "applink": "eosp.in",
       "name": "EOSPIN",
       "type": "Gambling",
