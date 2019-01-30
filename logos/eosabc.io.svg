@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>EA</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="5.47027613%" x2="0%" y2="97.9101606%" id="linearGradient-1">
+            <stop stop-color="#33DBA9" offset="0%"></stop>
+            <stop stop-color="#06A072" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EA">
+            <rect id="圆角矩形_2_拷贝_2" fill="url(#linearGradient-1)" fill-rule="nonzero" x="0" y="0" width="128" height="128"></rect>
+            <path d="M73.8752363,56.051 L86.481,56.051 L72.4,27.569 C72.4,27.569 70.509,21.479 64.716,21.169 C58.358,21.338 55.797,27.418 55.797,27.418 C55.797,27.418 29.553,85.69 27.891,89.3 C24.248,97.22 27.004,103.79 33.525,104.388 C41.295,104.96 74.45,104.937 93.859,104.708 C101.338,103.853 104.032,97.418 101.938,92.057 C99.253,86.293 94,75 94,75 L82,75 C82,75 86.467,85.136 86.894,85.8 C89.221,89.5 86.864,93.9 83.883,94.085 C71.31,94.219 52.258,93.985 46.222,94.085 C40.912,93.893 39.269,90.59 41.908,85.076 C44.878,78.393 62.753,40.911 64.173,37.543 C65.246,39.934 73.8752363,56.051 73.8752363,56.051 Z" id="矩形_1" fill="#FFFFFF"></path>
+            <polygon id="矩形_1-path" fill="#FFFFFF" points="52.6587219 60 88 60 93 71 47.4643555 71"></polygon>
+        </g>
+    </g>
+</svg>
