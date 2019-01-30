@@ -784,12 +784,20 @@
       "hasimage": "1"
     },
     {
+      "applink": "flipeos.com",
+      "name": "flipeos",
+      "type": "Provably fair EOS card games.",
+      "description": "Gambling",
+      "url": "https://flipeos.com",
+      "hasimage": "1"
+    },
+    {
       "applink": "dtexas.muggles.io",
       "name": "DTexas",
       "type": "Gambling",
       "description": "D-Texas is the world's first PVP Texas Hold'em platform in the blockchain.",
       "url": "https://dtexas.muggles.io/",
-      "hasimage": "1"
+      "hasimage": "1" 
     },
     {
       "applink": "www.pokerking.one",
