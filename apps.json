@@ -884,6 +884,14 @@
       "description": "Users can bid on premium accounts suffixed with '.eos', '.com', '.io', '.bank', '.games'",
       "url": "https://stname.starteos.io",
       "hasimage": "1"
+    },
+    {
+      "applink": "roulette.eosroyale.com",
+      "name": "EOS Royale",
+      "type": "Gambling",
+      "description": "EOS Royale is a decentralized gaming platform on the EOS blockchain. Our first game is European Roulette. It's provably fair since every winning number is calculated from block's hash.",
+      "url": "https://roulette.eosroyale.com",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
