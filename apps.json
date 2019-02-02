@@ -68,7 +68,7 @@
     {
       "applink": "eosminerbot.io",
       "name": "EOS Miner Bot",
-      "type": "Toolkit",
+      "type": "Tool",
       "description": "Mining utility bot for EOS based dice tokens.",
       "url": "https://www.eosminerbot.io/",
       "hasimage": "1"
@@ -667,7 +667,7 @@
     {
       "applink": "alerts.eosauthority.com",
       "name": "EOS Alerts",
-      "type": "Tools",
+      "type": "Tool",
       "description": "Get immediate alerts on email & telegram for your EOS account activity",
       "url": "https://eosauthority.com/alerts",
       "hasimage": "1"
@@ -786,7 +786,7 @@
     {
       "applink": "flipeos.com",
       "name": "flipeos",
-      "type": "Provably fair EOS card games.",
+      "type": "Gambling",
       "description": "Gambling",
       "url": "https://flipeos.com",
       "hasimage": "1"
