@@ -884,6 +884,14 @@
       "description": "Users can bid on premium accounts suffixed with '.eos', '.com', '.io', '.bank', '.games'",
       "url": "https://stname.starteos.io",
       "hasimage": "1"
+    },
+    {
+      "applink":"tipit.io",  
+      "name":"Tipit",
+      "type":"Social",
+      "description":"A fast, easy way to send money through social platforms.",
+      "url":"https://tipit.io",
+      "hasimage":"1"
     }
   ],
   "Ethereum": [
@@ -928,14 +936,6 @@
       "description": "eosabc is the largest gaming platform on EOS blockchain. Users can earn EOSABC tokens from playing, and then get hourly dividends from staking. Both the platform and the token are based on user-centered design, which gives our users the best gaming experience.",
       "url": "https://eosabc.io/",
       "hasimage": "1"
-    },
-    {
-      "applink":"tipit.io",  
-      "name":"Tipit",
-      "type":"Social",
-      "description":"A fast, easy way to send money through social platforms.",
-      "url":"https://tipit.io",
-      "hasimage":"1"
     }
   ]
 }
