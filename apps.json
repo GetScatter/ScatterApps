@@ -401,6 +401,14 @@
       "hasimage": "1"
     },
     {
+      "applink": "eosreel.io",
+      "name": "EOSreel",
+      "type": "Gambling",
+      "description": "EOSreel. The very first decentralized epic slot machine.",
+      "url": "https://eosreel.io/",
+      "hasimage": "1"
+    },
+    {
       "applink": "eosnames.net",
       "name": "EOS Names",
       "type": "Exchange",
