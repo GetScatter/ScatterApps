@@ -884,6 +884,14 @@
       "description": "Users can bid on premium accounts suffixed with '.eos', '.com', '.io', '.bank', '.games'",
       "url": "https://stname.starteos.io",
       "hasimage": "1"
+    },
+    {
+      "applink": "eostowergame.com",
+      "name": "EOS Tower Game",
+      "type": "Game",
+      "description": "EOS Tower Game is a 1:1 PVP game in which you can compete with other EOS users.",
+      "url": "https://eostowergame.com",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
