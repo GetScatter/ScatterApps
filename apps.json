@@ -892,6 +892,14 @@
       "description": "EOSreel. The very first decentralized epic slot machine.",
       "url": "https://eosreel.io/",
       "hasimage": "1"
+    },
+    {
+      "applink": "eostowergame.com",
+      "name": "EOS Tower Game",
+      "type": "Game",
+      "description": "EOS Tower Game is a 1:1 PVP game in which you can compete with other EOS users.",
+      "url": "https://eostowergame.com",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
