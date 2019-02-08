@@ -892,6 +892,14 @@
       "description": "EOS Royale is a decentralized gaming platform on the EOS blockchain. Our first game is European Roulette. It's provably fair since every winning number is calculated from block's hash.",
       "url": "https://roulette.eosroyale.com",
       "hasimage": "1"
+    },
+    {
+      "applink": "eostowergame.com",
+      "name": "EOS Tower Game",
+      "type": "Game",
+      "description": "EOS Tower Game is a 1:1 PVP game in which you can compete with other EOS users.",
+      "url": "https://eostowergame.com",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
