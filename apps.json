@@ -916,6 +916,14 @@
       "description": "EOS Tower Game is a 1:1 PVP game in which you can compete with other EOS users.",
       "url": "https://eostowergame.com",
       "hasimage": "1"
+    },
+    {
+      "applink": "prospectors.io",
+      "name": "Prospectors",
+      "type": "Game",
+      "description": "The Massive Multiplayer Online Real-Time Economic Strategy (MMORTS) powered by EOS blockchain.",
+      "url": "https://prospectors.io",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
