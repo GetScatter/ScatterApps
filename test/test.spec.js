@@ -1,6 +1,8 @@
 const {assert} = require('chai');
 require('mocha');
 
+const TYPES = require('../types');
+
 const fs = require('fs');
 
 const flattenBlockchainObject = apps => {
@@ -55,6 +57,14 @@ describe('Apps', () => {
 			if(svg) BAD.map(x => {
 				assert(svg.indexOf(x) === -1, `${app.applink}'s SVG is dangerous: ${x}`)
 			});
+		})
+	});
+
+	it('should all have proper types', () => {
+
+
+		apps.map(app => {
+			assert(TYPES.includes(app.type), `${app.applink}'s type is not allowed: ${app.type}`);
 		})
 	});
 
