@@ -21,4 +21,24 @@
 }
 ```
 
-**A note about the applink key**: If you are a web app, you will need to use your FQDN ( ie. get-scatter.com ) and not what you are passing into the connection.
+## Type categories
+
+We are now enforcing strict categories. Please make sure that your app is categorized correctly or it will be rejected.
+
+- Gambling
+- Game
+- Block Explorer
+- Exchange
+- Tool
+- Forum
+- Educational
+- Social
+- Chain
+- Payment
+- Wallet
+
+#### Requesting types
+To request the addition of types into Scatter you need to PR both this README as well as the `types.json` file in the root path of this repository.
+
+## Important note about the applink key: 
+If you are a web app, you will need to use your FQDN ( ie. get-scatter.com ) and not what you are passing into the connection.

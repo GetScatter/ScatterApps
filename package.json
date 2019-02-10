@@ -1,0 +1,27 @@
+{
+  "name": "scatterapps",
+  "version": "1.0.0",
+  "description": "- Create a pull request adding your application to the correct blockchain in the \"apps.json\" file. \r - **Fill out all of the fields, they are all required.**\r - Add your logo to the `logos/` folder ( **.svg format only!** ). Make sure that the logo file's name matches the `applink` that you specified in the JSON.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "testfile": "mocha",
+    "test": "npm run testfile \"test/**/*.spec.js\" --timeout 1000000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GetScatter/ScatterApps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GetScatter/ScatterApps/issues"
+  },
+  "homepage": "https://github.com/GetScatter/ScatterApps#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
