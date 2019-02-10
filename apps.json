@@ -545,11 +545,11 @@
       "hasimage": "1"
     },
     {
-      "applink": "wallet.trybe.one",
+      "applink": "live.wallet.trybe.one",
       "name": "Trybe",
       "type": "Wallet",
       "description": "Trybe Web Wallet",
-      "url": "https://wallet.trybe.one",
+      "url": "https://live.wallet.trybe.one",
       "hasimage": "1"
     },
     {
