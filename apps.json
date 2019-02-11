@@ -11,7 +11,7 @@
 	      {
       "applink": "cadeos.io",
       "name": "CADEOS.io",
-      "type": "PLM",
+      "type": "Tool",
       "description": "Decentralized CAD.files & Project Management Platform",
       "url": "https://cadeos.io/scatter-kyc/",
       "hasimage":"1"
@@ -19,7 +19,7 @@
     {
       "applink": "www.eosdividends.com",
       "name": "EOS Dividends",
-      "type": "Dividends",
+      "type": "Gambling",
       "description": "Tokens that pay you while you sleep",
       "url": "https://www.eosdividends.com/",
       "hasimage": "1"
@@ -545,11 +545,11 @@
       "hasimage": "1"
     },
     {
-      "applink": "wallet.trybe.one",
+      "applink": "live.wallet.trybe.one",
       "name": "Trybe",
       "type": "Wallet",
       "description": "Trybe Web Wallet",
-      "url": "https://wallet.trybe.one",
+      "url": "https://live.wallet.trybe.one",
       "hasimage": "1"
     },
     {
@@ -883,6 +883,46 @@
       "type": "Tool",
       "description": "Users can bid on premium accounts suffixed with '.eos', '.com', '.io', '.bank', '.games'",
       "url": "https://stname.starteos.io",
+      "hasimage": "1"
+    },
+    {
+      "applink":"tipit.io",
+      "name":"Tipit",
+      "type":"Social",
+      "description":"A fast and easy way to send money through social platforms.",
+      "url":"https://tipit.io",
+      "hasimage":"1"
+    },
+    {
+      "applink": "eosreel.io",
+      "name": "EOSreel",
+      "type": "Gambling",
+      "description": "EOSreel. The very first decentralized epic slot machine.",
+      "url": "https://eosreel.io/",
+      "hasimage": "1"
+    },
+    {
+      "applink": "roulette.eosroyale.com",
+      "name": "EOS Royale",
+      "type": "Gambling",
+      "description": "EOS Royale is a decentralized gaming platform on the EOS blockchain. Our first game is European Roulette. It's provably fair since every winning number is calculated from block's hash.",
+      "url": "https://roulette.eosroyale.com",
+      "hasimage": "1"
+    },
+    {
+      "applink": "eostowergame.com",
+      "name": "EOS Tower Game",
+      "type": "Game",
+      "description": "EOS Tower Game is a 1:1 PVP game in which you can compete with other EOS users.",
+      "url": "https://eostowergame.com",
+      "hasimage": "1"
+    },
+    {
+      "applink": "prospectors.io",
+      "name": "Prospectors",
+      "type": "Game",
+      "description": "The Massive Multiplayer Online Real-Time Economic Strategy (MMORTS) powered by EOS blockchain.",
+      "url": "https://prospectors.io",
       "hasimage": "1"
     }
   ],
