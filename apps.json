@@ -931,6 +931,14 @@
   ],
   "Tron": [
     {
+      "applink": "888tron.com",
+      "name": "888 Tron",
+      "type": "Game",
+      "description": "Decentralized gaming platform",
+      "url": "https://888tron.com",
+      "hasimage": "1"
+    },
+    {
       "applink": "tronbet.io",
       "name": "TRONbet",
       "type": "Game",
