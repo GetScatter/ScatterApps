@@ -976,6 +976,14 @@
       "description": "based on EOS contract games",
       "url": "http://gamebet.one/",
       "hasimage": "1"
+    },
+    {
+      "applink": "eosflappybird.bogo.one",
+      "name": "Flappybird",
+      "type": "Game",
+      "description": "A contest game which allow user to manually control the flappy bird racing against AI trained bird!",
+      "url": "https://eosflappybird.bogo.one",
+      "hasimage": "1"
     }
   ]
 }
