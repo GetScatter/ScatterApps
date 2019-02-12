@@ -970,6 +970,14 @@
       "hasimage": "1"
     },
     {
+      "applink": "gamebet.one",
+      "name": "GameBet",
+      "type": "Game",
+      "description": "based on EOS contract games",
+      "url": "http://gamebet.one/",
+      "hasimage": "1"
+    },
+    {
       "applink": "eosflappybird.bogo.one",
       "name": "Flappybird",
       "type": "Game",
