@@ -968,6 +968,14 @@
       "description": "eosabc is the largest gaming platform on EOS blockchain. Users can earn EOSABC tokens from playing, and then get hourly dividends from staking. Both the platform and the token are based on user-centered design, which gives our users the best gaming experience.",
       "url": "https://eosabc.io/",
       "hasimage": "1"
+    },
+    {
+      "applink": "eosflappybird.bogo.one",
+      "name": "Flappybird",
+      "type": "Game",
+      "description": "A contest game which allow user to manually control the flappy bird racing against AI trained bird!",
+      "url": "https://eosflappybird.bogo.one",
+      "hasimage": "1"
     }
   ]
 }
