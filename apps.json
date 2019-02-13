@@ -932,7 +932,15 @@
       "description": "The Massive Multiplayer Online Real-Time Economic Strategy (MMORTS) powered by EOS blockchain.",
       "url": "https://prospectors.io",
       "hasimage": "1"
-    }
+    },
+    {
+      "applink": "paint.pixeos.art",
+      "name": "pixEOS Paint",
+      "type": "Game",
+      "description": "A multiplayer collaborative canvas powered by EOS.",
+      "url": "https://paint.pixeos.art/",
+      "hasimage": "1"
+    }	
   ],
   "Ethereum": [
 
