@@ -932,6 +932,14 @@
       "description": "The Massive Multiplayer Online Real-Time Economic Strategy (MMORTS) powered by EOS blockchain.",
       "url": "https://prospectors.io",
       "hasimage": "1"
+    },
+    {
+      "applink": "chain.pro",
+      "name": "PRA Candybox",
+      "type": "Tool",
+      "description": "基于EOS的首款糖果盒DApp,PRA Candybox is the first EOS-based advertising DApp",
+      "url": "https://chain.pro/web-prabox/",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
