@@ -393,11 +393,11 @@
       "hasimage": "1"
     },
     {
-      "applink": "eos-forum.org",
-      "name": "EOS Forum",
+      "applink": "eos.discussions.app",
+      "name": "EOS Discussions",
       "type": "Forum",
-      "description": "A decentralized censorship resistant Reddit-like forum",
-      "url": "https://eos-forum.org/",
+      "description": "A decentralized censorship resistant discussion platform",
+      "url": "https://eos.discussions.app/",
       "hasimage": "1"
     },
     {
