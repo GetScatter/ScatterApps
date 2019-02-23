@@ -956,7 +956,15 @@
       "description": "A multiplayer collaborative canvas powered by EOS.",
       "url": "https://paint.pixeos.art/",
       "hasimage": "1"
-    }	
+    },
+    {
+      "applink": "hirevibes.io",
+      "name": "Hirevibes",
+      "type": "Tool",
+      "description": "HireVibes — The decentralised crypto-reward jobs platform.",
+      "url": "https://hirevibes.io/",
+      "hasimage": "1"
+    }
   ],
   "Ethereum": [
 
