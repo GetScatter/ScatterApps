@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+      "applink": "magnetic.avarkey.com",
+      "name": "Magnetic",
+      "type": "Game",
+      "description": "Magnetic is a predictive quiz social game, which is a service to receive rewards if predictions are made through O/X on questions.",
+      "url": "https://magnetic.avarkey.com",
+      "hasimage": "1"
+    },
+    {
       "applink": "patreos.com",
       "name": "Patreos",
       "type": "Tool",
