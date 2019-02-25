@@ -1023,6 +1023,14 @@
       "type": "Game",
       "description": "A contest game which allow user to manually control the flappy bird racing against AI trained bird!",
       "url": "https://eosflappybird.bogo.one",
+      "hasimage": "1"   
+    },
+    {
+      "applink": "eoscrash.app",
+      "name": "eoscrash",
+      "type": "Game",
+      "description": "EOS Crash contains number of games that are unique in EOS market. EOSCrash focused on creating ganes with pvp experience",
+      "url": "https://eoscrash.app/",
       "hasimage": "1"
     }
   ]
