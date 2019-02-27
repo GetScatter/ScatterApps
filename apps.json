@@ -964,6 +964,14 @@
       "description": "HireVibes — The decentralised crypto-reward jobs platform.",
       "url": "https://hirevibes.io/",
       "hasimage": "1"
+    },
+    {
+      "applink": "pay.privex.io",
+      "name": "Privex Payment Gateway",
+      "type": "Payment",
+      "description": "Privex - Private, fast, and low cost servers for cryptocurrency",
+      "url": "https://www.privex.io",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
