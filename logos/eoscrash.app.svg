@@ -4,17 +4,17 @@
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
 	.st0{clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+	.st1{clip-path:url(#SVGID_2_);fill:#00FFF3;}
 </style>
 <g>
 	<defs>
-		<path id="SVGID_1_" d="M88,100H12c-6.6,0-12-5.4-12-12V12C0,5.4,5.4,0,12,0h76c6.6,0,12,5.4,12,12v76C100,94.6,94.6,100,88,100z"
-			/>
+		<circle id="SVGID_1_" cx="50" cy="50" r="50"/>
 	</defs>
 	<clipPath id="SVGID_2_">
 		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 	</clipPath>
 	
-		<radialGradient id="SVGID_3_" cx="377.2871" cy="163.2726" r="480.7796" gradientTransform="matrix(0.3565 0 0 0.384 -167.5245 -57.904)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="SVGID_3_" cx="2925.6807" cy="2505.519" r="480.7796" gradientTransform="matrix(0.2144 0 0 0.381 -627.6635 -949.8688)" gradientUnits="userSpaceOnUse">
 		<stop  offset="4.534609e-02" style="stop-color:#34A7AA"/>
 		<stop  offset="6.471718e-02" style="stop-color:#33A1A7"/>
 		<stop  offset="0.2843" style="stop-color:#2B6485"/>
@@ -22,11 +22,11 @@
 		<stop  offset="0.6145" style="stop-color:#211C5E"/>
 		<stop  offset="0.6985" style="stop-color:#201258"/>
 	</radialGradient>
-	<rect x="-32.3" y="0.1" class="st0" width="166.3" height="100.8"/>
-	<g style="clip-path:url(#SVGID_2_);">
-		
-			<image style="overflow:visible;" width="2932" height="2155" xlink:href="logo.png"  transform="matrix(2.955793e-02 0 0 2.955793e-02 6.6681 18.1513)">
-		</image>
-	</g>
+	<rect x="0" class="st0" width="100" height="100"/>
+	<path class="st1" d="M50,0C22.4,0,0,22.4,0,50s22.4,50,50,50s50-22.4,50-50S77.6,0,50,0z M81.5,81.5C73.1,90,61.9,94.6,50,94.6
+		S26.9,90,18.5,81.5S5.4,61.9,5.4,50S10,26.9,18.5,18.5S38.1,5.4,50,5.4S73.1,10,81.5,18.5S94.6,38.1,94.6,50S90,73.1,81.5,81.5
+		L81.5,81.5z"/>
+	<path class="st1" d="M50,11.1c-21.5,0-38.9,17.4-38.9,38.9S28.5,88.9,50,88.9S88.9,71.5,88.9,50S71.5,11.1,50,11.1z M49.9,42.4
+		L43.6,55l-3.5,7l-3.6,7.2h-7.9l21.4-42.9L64.3,55h-8L49.9,42.4z M63.5,69.2L60,62.1h7.9l3.5,7.1H63.5L63.5,69.2z"/>
 </g>
 </svg>
