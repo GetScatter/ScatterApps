@@ -972,6 +972,14 @@
       "description": "Buy boxes for EOS and earn random rewards!",
       "url": "https://cryptobento.app/",
       "hasimage": "1"
+    },
+    {
+      "applink": "pay.privex.io",
+      "name": "Privex Payment Gateway",
+      "type": "Payment",
+      "description": "Privex - Private, fast, and low cost servers for cryptocurrency",
+      "url": "https://www.privex.io",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
