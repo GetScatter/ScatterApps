@@ -966,6 +966,14 @@
       "hasimage": "1"
     },
     {
+      "applink": "cryptobento.app",
+      "name": "Crypto Bento",
+      "type": "Gambling",
+      "description": "Buy boxes for EOS and earn random rewards!",
+      "url": "https://cryptobento.app/",
+      "hasimage": "1"
+    },
+    {
       "applink": "pay.privex.io",
       "name": "Privex Payment Gateway",
       "type": "Payment",

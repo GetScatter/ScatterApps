@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   stroke-miterlimit="1.4142"
+   version="1.1"
+   viewBox="0 0 512 512"
+   xml:space="preserve"
+   id="svg12"
+   width="512"
+   height="512"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41419995"><metadata
+     id="metadata12"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs10" /><path
+     d="M 256,303.0307 113.65858,445.37212 h 284.68284 z"
+     id="path4"
+     style="fill:#339db7;stroke-width:8.21927643" /><path
+     d="M 398.1606,66.62788 H 98.789907 c -8.531608,0 -16.709789,3.386342 -22.742737,9.41929 -6.032948,6.032948 -9.41929,14.211128 -9.41929,22.74274 V 398.1606 Z"
+     id="path6"
+     style="fill:#bfd506;stroke-width:8.21927643" /><path
+     d="M 445.37212,113.65858 303.87728,255.15342 445.37212,396.64003 Z"
+     id="path8"
+     style="fill:#f28455;stroke-width:8.21927643" /><path
+     d="m 3.50384,66.915554 c 0,-16.816639 6.682271,-32.942859 18.575564,-44.83615 C 33.972696,10.186111 50.098916,3.5038398 66.915554,3.5038398 H 445.08445 c 16.81663,0 32.94285,6.6822712 44.83614,18.5755642 11.8933,11.893291 18.57557,28.019511 18.57557,44.83615 V 445.08445 c 0,16.81663 -6.68227,32.94285 -18.57557,44.83614 -11.89329,11.89329 -28.01951,18.57557 -44.83614,18.57557 H 66.915554 c -16.816638,0 -32.942858,-6.68227 -44.83615,-18.57557 C 10.186111,478.0273 3.50384,461.90108 3.50384,445.08445 Z M 256,303.0307 113.65858,445.37212 H 398.34142 Z M 398.1606,66.62788 H 98.789907 c -8.531608,0 -16.709789,3.386342 -22.742737,9.41929 -6.032948,6.032948 -9.41929,14.211128 -9.41929,22.74274 V 398.1606 Z m 47.21152,47.0307 -141.49484,141.49484 141.49484,141.48661 z"
+     id="path10"
+     style="fill:#1e0f00;stroke-width:8.21927643" /></svg>
