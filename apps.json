@@ -980,6 +980,14 @@
       "description": "Privex - Private, fast, and low cost servers for cryptocurrency",
       "url": "https://www.privex.io",
       "hasimage": "1"
+    },
+    {
+      "applink": "zion.games",
+      "name": "Zion Games",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://zion.games",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
