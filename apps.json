@@ -988,6 +988,14 @@
       "description": "Privex - Private, fast, and low cost servers for cryptocurrency",
       "url": "https://www.privex.io",
       "hasimage": "1"
+    },
+    {
+      "applink": "coinbox.trustdice.win",
+      "name": "Coin box",
+      "type": "Tool",
+      "description": "Coin box is a box where you can claim free EOS every day!",
+      "url": "https://trustdice.win/faucet?coinbox",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
