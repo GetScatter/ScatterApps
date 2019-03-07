@@ -994,7 +994,7 @@
       "name": "Coin box",
       "type": "Tool",
       "description": "Coin box is a box where you can claim free EOS every day!",
-      "url": "https://trustdice.win/faucet?coinbox",
+      "url": "https://trustdice.win/faucet?coinbox&ref=scatterrefer",
       "hasimage": "1"
     }
   ],
