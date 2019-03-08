@@ -697,6 +697,14 @@
       "hasimage": "1"
     },
     {
+      "applink": "eosauthority.com",
+      "name": "EOS Authority Wallet",
+      "type": "Tool",
+      "description": "EOS Authority wallet, block explorer & tools",
+      "url": "https://eosauthority.com/",
+      "hasimage": "1"
+    },
+    {
       "applink": "eosjoy.io",
       "name": "EOS Joy",
       "type": "Gambling",
@@ -996,6 +1004,14 @@
       "description": "Coin box is a box where you can claim free EOS every day!",
       "url": "https://trustdice.win/faucet?coinbox",
       "hasimage": "1"
+    },
+    {
+      "applink":"betking.io",
+      "name":"betking.io",
+      "type":"Gambling",
+      "description":"BetKing.io is a casino and exchange where all profit is used to buy back BKT tokens every hour.",
+      "url":"https://betking.io",
+      "hasimage":"1"
     }
   ],
   "Ethereum": [
