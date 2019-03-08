@@ -996,6 +996,14 @@
       "description": "Privex - Private, fast, and low cost servers for cryptocurrency",
       "url": "https://www.privex.io",
       "hasimage": "1"
+    },
+    {
+      "applink":"betking.io",
+      "name":"betking.io",
+      "type":"Gambling",
+      "description":"BetKing.io is a casino and exchange where all profit is used to buy back BKT tokens every hour.",
+      "url":"https://betking.io",
+      "hasimage":"1"
     }
   ],
   "Ethereum": [
@@ -1064,14 +1072,6 @@
       "description": "EOS Crash contains number of games that are unique in EOS market. EOSCrash focused on creating ganes with pvp experience",
       "url": "https://eoscrash.app/",
       "hasimage": "1"
-    },
-    {
-      "applink":"betking.io",
-      "name":"betking.io",
-      "type":"Gambling",
-      "description":"BetKing.io is a casino and exchange where all profit is used to buy back BKT tokens every hour.",
-      "url":"https://betking.io",
-      "hasimage":"1"
     }
   ]
 }
