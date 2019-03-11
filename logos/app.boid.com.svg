@@ -1,0 +1,52 @@
+<svg width="323.8" height="284.8" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{opacity:0.15;fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}</style>
+ <defs>
+  <filter id="svg_3_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke="#089cfc" filter="url(#svg_3_blur)" ry="83.3182" rx="83.3182" id="svg_3" cy="145.490905" cx="159.983928" stroke-width="2" fill="#ffffff"/>
+  <metadata transform="matrix(0.010399759470631986,0,0,0.010399759470631986,0,0) " id="svg_123">image/svg+xml</metadata>
+  <defs>
+   <clipPath clipPathUnits="userSpaceOnUse" id="svg_107">
+    <path d="m9794.085238,-9066.533615l1920,0l0,-1080l-1920,0l0,1080z" id="svg_122"/>
+   </clipPath>
+   <clipPath clipPathUnits="userSpaceOnUse" id="svg_102">
+    <path d="m9789.721603,-9041.442719l1920,0l0,-1080l-1920,0l0,1080z" id="svg_121"/>
+   </clipPath>
+   <clipPath clipPathUnits="userSpaceOnUse" id="svg_95">
+    <path d="m9789.721603,-9041.442719l1920,0l0,-1080l-1920,0l0,1080z" id="svg_120"/>
+   </clipPath>
+   <clipPath clipPathUnits="userSpaceOnUse" id="svg_88">
+    <path d="m10749.721603,-9467.449719l-176.229,0c-9.334,0 -15.167,-10.104 -10.501,-18.188l0,0l88.115,-152.618l88.114,-152.619c4.667,-8.084 16.335,-8.084 21.002,0l0,0l88.114,152.619l88.115,152.618c4.666,8.084 -1.168,18.188 -10.502,18.188l0,0l-176.228,0z" id="svg_119"/>
+   </clipPath>
+   <clipPath clipPathUnits="userSpaceOnUse" id="svg_83">
+    <path d="m9846.057179,-8832.705077l1920,0l0,-1080l-1920,0l0,1080z" id="svg_116"/>
+   </clipPath>
+   <clipPath clipPathUnits="userSpaceOnUse" id="svg_76">
+    <path d="m11266.487603,-9467.449719l-176.229,0c-9.335,0 -15.169,-10.104 -10.501,-18.188l0,0l88.114,-152.618l88.115,-152.619c4.666,-8.084 16.335,-8.084 21.001,0l0,0l88.115,152.619l88.114,152.618c4.667,8.084 -1.167,18.188 -10.501,18.188l0,0l-176.228,0z" id="svg_115"/>
+   </clipPath>
+   <clipPath clipPathUnits="userSpaceOnUse" id="svg_69">
+    <path d="m11121.909603,-9467.449719c-4.094,0 -6.6,-4.494 -4.446,-7.977l0,0l97.225,-157.231c0.754,-1.219 0.974,-2.692 0.611,-4.077l0,0l-15.099,-57.518l9.126,-15.806c1.534,-0.162 3.13,0.329 4.305,1.541l0,0l68.511,70.746c0.985,1.018 2.34,1.592 3.756,1.592l0,0l39.233,0c1.834,0 3.533,0.959 4.478,2.531l0,0l49.429,82.127c0.946,1.572 2.646,2.532 4.48,2.532l0,0l31.778,0c0.51,0 1.004,0.101 1.485,0.244l0,0l3.591,6.22c-0.236,0.968 -0.746,1.88 -1.531,2.605l0,0l-35.754,33.004c-1.532,1.414 -3.759,1.782 -5.666,0.937l0,0l-94.085,-41.731c-1.772,-0.787 -3.835,-0.526 -5.357,0.675l0,0l-99.438,78.463c-0.923,0.727 -2.063,1.123 -3.239,1.123l0,0l-53.393,0z" id="svg_112"/>
+   </clipPath>
+  </defs>
+  <g stroke="null" id="svg_125">
+   <g stroke="null" id="svg_136" transform="matrix(0.811958192864626,0,0,-0.811958192864626,-8391.603432012776,-7768.653113775582) ">
+    <g stroke="null" id="svg_135">
+     <g stroke="null" id="svg_134" clip-path="url(#svg_83)">
+      <g stroke="null" id="svg_133">
+       <path fill="#089cfc" fill-rule="nonzero" d="m10384.810028,-9636.913942l97.225,-157.232c0.754,-1.218 0.974,-2.691 0.61,-4.076l-15.098,-57.518l9.126,-15.806c1.533,-0.162 3.13,0.329 4.305,1.542l70.052,72.337l44.403,0l52.476,87.19l34.733,0l1.346,0.003l3.73,6.46c-0.235,0.969 -0.745,1.881 -1.531,2.606l-38.278,35.334l-100.108,-44.403l-103.338,81.54l-55.207,0c-4.095,0 -6.6,-4.494 -4.446,-7.977" id="svg_132"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
