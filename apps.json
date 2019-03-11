@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+      "applink": "app.boid.com",
+      "name": "Boid.com",
+      "type": "Social",
+      "description": "The Social Supercomputer",
+      "url": "https://app.boid.com",
+      "hasimage": "1"
+    },
+    {
       "applink": "magnetic.avarkey.com",
       "name": "Magnetic",
       "type": "Game",
