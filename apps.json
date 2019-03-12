@@ -1012,6 +1012,14 @@
       "description": "",
       "url": "https://zion.games",
       "hasimage": "1"
+    },
+    {
+      "applink": "eospayout.com",
+      "name": "EOSpayout",
+      "type": "Tool",
+      "description": "Visualize your staking rewards",
+      "url": "https://www.eospayout.com",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
