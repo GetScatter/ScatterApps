@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+      "applink": "app.boid.com",
+      "name": "Boid.com",
+      "type": "Social",
+      "description": "The Social Supercomputer",
+      "url": "https://app.boid.com",
+      "hasimage": "1"
+    },
+    {
       "applink": "magnetic.avarkey.com",
       "name": "Magnetic",
       "type": "Game",
@@ -65,6 +73,14 @@
       "url": "https://eoshash.win",
       "hasimage": "1"
     },
+    {
+      "applink": "bethash.io",
+      "name": "BetHash",
+      "type": "Gambling",
+      "description": "The FAIREST Decentralized Crypto Casino Built on EOS, use hash to draw winning numbers to guarantee absolute Fairness, No Chance for Cheating at All! Generous rewards, high referral bonus!",
+      "url": "https://bethash.io",
+      "hasimage": "1"
+    },	  
     {
       "applink": "eosluck.one",
       "name": "EOSLUCK",
@@ -686,6 +702,14 @@
       "type": "Tool",
       "description": "Get immediate alerts on email & telegram for your EOS account activity",
       "url": "https://eosauthority.com/alerts",
+      "hasimage": "1"
+    },
+    {
+      "applink": "eosauthority.com",
+      "name": "EOS Authority Wallet",
+      "type": "Tool",
+      "description": "EOS Authority wallet, block explorer & tools",
+      "url": "https://eosauthority.com/",
       "hasimage": "1"
     },
     {

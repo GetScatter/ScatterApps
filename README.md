@@ -17,7 +17,7 @@
   "type":"",         // A small tag showing what type of application this is
   "description":"",  // Short description of your application.
   "url":"",          // The URL to your application, or it's landing page.
-  "hasimage":"1"     // Adding this specifies that you have added an image to the /images/ directory.
+  "hasimage":"1"     // Adding this specifies that you have added a logo to the /logos/ directory.
 }
 ```
 
