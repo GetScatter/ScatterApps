@@ -1096,6 +1096,14 @@
       "description": "EOS Crash contains number of games that are unique in EOS market. EOSCrash focused on creating ganes with pvp experience",
       "url": "https://eoscrash.app/",
       "hasimage": "1"
+    },
+    {
+      "applink": "eosnow.bet",
+      "name": "EOSNOW",
+      "type": "Game",
+      "description": "Fair gaming platform on EOS blockchain. Play & get bonuses!",
+      "url": "https://eosnow.bet",
+      "hasimage": "1"
     }
   ]
 }
