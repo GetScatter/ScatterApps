@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+      "applink": "eoslotto.in",
+      "name": "EOS Lotto",
+      "type": "Game",
+      "description": "100% decentralized EOS lottery returning 100% revenue to the buyer! Recommend to friends, buy, and be a lucky hero.",
+      "url": "http://eoslotto.in",
+      "hasimage": "1"
+    },
+    {
       "applink": "app.boid.com",
       "name": "Boid.com",
       "type": "Social",
