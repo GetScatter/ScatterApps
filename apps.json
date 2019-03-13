@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+      "applink": "EOSNOW.BET",
+      "name": "EOSNow",
+      "type": "Game",
+      "description": "Fair gaming platform on EOS blockchain. Play & get bonuses!",
+      "url": "https://eosnow.bet",
+      "hasimage": "1"
+    },
+    {
       "applink": "eoslotto.in",
       "name": "EOS Lotto",
       "type": "Game",
