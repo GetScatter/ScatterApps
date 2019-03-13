@@ -1,5 +1,13 @@
 {
-  "EOSIO": [
+  "EOSIO": [    
+    {
+      "applink": "game.asteroidrush.io",
+      "name": "Asteroid Rush",
+      "type": "Game",
+      "description": "MMO-strategy where players can become prospectors in our solar system's main asteroid belt",
+      "url": "https://game.asteroidrush.io",
+      "hasimage": "1"
+    },
     {
       "applink": "eoslotto.in",
       "name": "EOS Lotto",
@@ -1095,14 +1103,6 @@
       "type": "Game",
       "description": "EOS Crash contains number of games that are unique in EOS market. EOSCrash focused on creating ganes with pvp experience",
       "url": "https://eoscrash.app/",
-      "hasimage": "1"
-    },
-    {
-      "applink": "game.asteroidrush.io",
-      "name": "Asteroid Rush",
-      "type": "Game",
-      "description": "MMO-strategy where players can become prospectors in our solar system's main asteroid belt",
-      "url": "https://game.asteroidrush.io",
       "hasimage": "1"
     }
   ]
