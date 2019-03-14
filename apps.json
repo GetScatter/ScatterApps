@@ -1120,6 +1120,14 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
-    }
+    },
+    {
+      "applink": "EOSBLUE",
+      "name": "EOSBLUE",
+      "type": "Game",
+      "description": "All-chained Texas Hold'em,Blackjack, powerball, caribbean",
+      "url": "https://eosblue.one",
+      "hasimage": "1"
+    },
   ]
 }
