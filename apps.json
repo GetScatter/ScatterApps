@@ -1036,6 +1036,38 @@
       "description": "Visualize your staking rewards",
       "url": "https://www.eospayout.com",
       "hasimage": "1"
+    },
+    {
+      "applink": "ewg.one",
+      "name": "EWG",
+      "type": "Game",
+      "description": "EWG(EastWorldGame),  gaming platform on the EOS blockchain.",
+      "url": "https://ewg.one",
+      "hasimage": "1"
+    },
+    {
+      "applink": "eosabc.io",
+      "name": "eosabc",
+      "type": "Game",
+      "description": "eosabc is the largest gaming platform on EOS blockchain. Users can earn EOSABC tokens from playing, and then get hourly dividends from staking. Both the platform and the token are based on user-centered design, which gives our users the best gaming experience.",
+      "url": "https://eosabc.io/",
+      "hasimage": "1"
+    },
+    {
+      "applink": "eosflappybird.bogo.one",
+      "name": "Flappybird",
+      "type": "Game",
+      "description": "A contest game which allow user to manually control the flappy bird racing against AI trained bird!",
+      "url": "https://eosflappybird.bogo.one",
+      "hasimage": "1"   
+    },
+    {
+      "applink": "eoscrash.app",
+      "name": "eoscrash",
+      "type": "Game",
+      "description": "EOS Crash contains number of games that are unique in EOS market. EOSCrash focused on creating ganes with pvp experience",
+      "url": "https://eoscrash.app/",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
@@ -1080,38 +1112,6 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
-    },
-    {
-      "applink": "eosabc.io",
-      "name": "eosabc",
-      "type": "Game",
-      "description": "eosabc is the largest gaming platform on EOS blockchain. Users can earn EOSABC tokens from playing, and then get hourly dividends from staking. Both the platform and the token are based on user-centered design, which gives our users the best gaming experience.",
-      "url": "https://eosabc.io/",
-      "hasimage": "1"
-    },
-    {
-      "applink": "eosflappybird.bogo.one",
-      "name": "Flappybird",
-      "type": "Game",
-      "description": "A contest game which allow user to manually control the flappy bird racing against AI trained bird!",
-      "url": "https://eosflappybird.bogo.one",
-      "hasimage": "1"   
-    },
-    {
-      "applink": "eoscrash.app",
-      "name": "eoscrash",
-      "type": "Game",
-      "description": "EOS Crash contains number of games that are unique in EOS market. EOSCrash focused on creating ganes with pvp experience",
-      "url": "https://eoscrash.app/",
-      "hasimage": "1"
-    },
-    {
-      "applink": "d.ewg.one",
-      "name": "EWG",
-      "type": "Game",
-      "description": "EWG(EastWorldGame),  gaming platform on the EOS blockchain.",
-      "url": "https://ewg.one",
-      "hasimage": "1"
     }
   ]
 }
