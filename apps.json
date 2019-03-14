@@ -1104,6 +1104,14 @@
       "description": "EOS Crash contains number of games that are unique in EOS market. EOSCrash focused on creating ganes with pvp experience",
       "url": "https://eoscrash.app/",
       "hasimage": "1"
+    },
+    {
+      "applink": "d.ewg.one",
+      "name": "EWG",
+      "type": "Game",
+      "description": "EWG(EastWorldGame),  gaming platform on the EOS blockchain.",
+      "url": "https://ewg.one",
+      "hasimage": "1"
     }
   ]
 }
