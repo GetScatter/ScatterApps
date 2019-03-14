@@ -1120,6 +1120,14 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
-    }
+    },
+	{
+      "applink": "EOSBLUE",
+      "name": "EOSBLUE",
+      "type": "Game",
+      "description": "Texas Poker ,Black Jack, Caribbean Poker,Baccarat etc. The Best Casino Experience On EOS.",
+      "url": "https://eosblue.one",
+      "hasimage": "1"
+    },
   ]
 }
