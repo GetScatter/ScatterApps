@@ -1120,6 +1120,13 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
+    },
+    {
+      "applink": "guess.thrones.io",
+      "name": "Game of Thrones Finale Guess",
+      "type": "Game",
+      "description": "Guess the 'Game of Thrones' final season characters live/die, win EOS awards!",
+      "url": "https://guess.thrones.io"
     }
   ]
 }
