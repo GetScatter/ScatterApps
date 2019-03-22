@@ -1134,7 +1134,8 @@
       "name": "2020 Taiwan Election",
       "type": "Game",
       "description": "2020 Taiwan presidential election based on EOS blockchain contract",
-      "url": "https://taiwan2020.github.io"
+      "url": "https://taiwan2020.github.io",
+      "hasimage": "1"
     }
   ]
 }
