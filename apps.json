@@ -1083,6 +1083,14 @@
   ],
   "Tron": [
     {
+      "applink": "tronvegas.net",
+      "name": "TronVegas",
+      "type": "Game",
+      "description": "TronVegas is the largest decentralized gaming platform on the TRON blockchain. Fast, Fun, and always 100% probably fair!",
+      "url": "https://www.tronvegas.net/",
+      "hasimage": "1"
+    },
+    {
       "applink": "888tron.com",
       "name": "888 Tron",
       "type": "Game",
