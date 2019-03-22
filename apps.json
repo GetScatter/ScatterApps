@@ -1,6 +1,14 @@
 {
   "EOSIO": [    
     {
+      "applink": "okbank.vip",
+      "name": "OKBank",
+      "type": "Tool",
+      "description": "Short-term financial management, low risk and high return",
+      "url": "https://okbank.vip?ref=scatter",
+      "hasimage": "1"
+    },
+    {
       "applink": "game.asteroidrush.io",
       "name": "Asteroid Rush",
       "type": "Game",
