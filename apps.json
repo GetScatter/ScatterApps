@@ -1076,6 +1076,14 @@
       "description": "EOS Crash contains number of games that are unique in EOS market. EOSCrash focused on creating ganes with pvp experience",
       "url": "https://eoscrash.app/",
       "hasimage": "1"
+    },
+	{
+      "applink": "openbrm.io",
+      "name": "OpenBRM",
+      "type": "Payment",
+      "description": "Very First Open source Billing and Revenue Management on Blockchain",
+      "url": "https://openbrm.io/",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
