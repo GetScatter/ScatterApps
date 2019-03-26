@@ -330,14 +330,6 @@
       "hasimage": "1"
     },
     {
-      "applink": "se7en",
-      "name": "Se7ens",
-      "type": "Game",
-      "description": "Interactive Dice Game",
-      "url": "https://se7ens.io/",
-      "hasimage": "1"
-    },
-    {
       "applink": "bloks.io",
       "name": "Bloks",
       "type": "Block Explorer",
