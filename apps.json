@@ -1077,12 +1077,20 @@
       "url": "https://eoscrash.app/",
       "hasimage": "1"
     },
-	{
+	  {
       "applink": "openbrm.io",
       "name": "OpenBRM",
       "type": "Payment",
       "description": "Very First Open source Billing and Revenue Management on Blockchain",
       "url": "https://openbrm.io/",
+      "hasimage": "1"
+    },
+    {
+      "applink": "betking.io",
+      "name": "BetKing",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://betking.io",
       "hasimage": "1"
     }
   ],
