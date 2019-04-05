@@ -1,6 +1,13 @@
 {
   "EOSIO": [    
     {
+      "applink": "eosblue.one",
+      "name": "EOSBLUE",
+      "type": "Game",
+      "description": "Texas Poker ,Black Jack, Caribbean Poker,Baccarat etc. The Best Casino Experience On EOS.",
+      "url": "https://eosblue.one",
+      "hasimage": "1"
+    },{
       "applink": "game.asteroidrush.io",
       "name": "Asteroid Rush",
       "type": "Game",
