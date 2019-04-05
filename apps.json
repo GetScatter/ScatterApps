@@ -1107,6 +1107,13 @@
       "description": "",
       "url": "https://betking.io",
       "hasimage": "1"
+    },
+    {
+      "applink": "taiwan2020.github.io",
+      "name": "2020 Taiwan Election",
+      "type": "Game",
+      "description": "2020 Taiwan presidential election based on EOS blockchain contract",
+      "url": "https://taiwan2020.github.io"
     }
   ],
   "Ethereum": [
@@ -1159,13 +1166,6 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
-    },
-    {
-      "applink": "taiwan2020.github.io",
-      "name": "2020 Taiwan Election",
-      "type": "Game",
-      "description": "2020 Taiwan presidential election based on EOS blockchain contract",
-      "url": "https://taiwan2020.github.io"
     },
     {
       "applink": "pokerchained.com",
