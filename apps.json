@@ -1,6 +1,13 @@
 {
   "EOSIO": [    
     {
+      "applink": "eosblue.one",
+      "name": "EOSBLUE",
+      "type": "Game",
+      "description": "Texas Poker ,Black Jack, Caribbean Poker,Baccarat etc. The Best Casino Experience On EOS.",
+      "url": "https://eosblue.one",
+      "hasimage": "1"
+    },{
       "applink": "game.asteroidrush.io",
       "name": "Asteroid Rush",
       "type": "Game",
@@ -87,6 +94,14 @@
       "type": "Game",
       "description": "After two centuries, space explorers finally discovered GEM. I heard that GEM can get a lot of wealth. Come to GEM CITY to start the EOS Eco Treasure New Era era!",
       "url": "https://www.gemcity.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "eosgiftcard.com",
+      "name": "EOS Gift Card",
+      "type": "Wallet",
+      "description": "Easily create new EOS accounts for friends, family or co-workers in form of PDF files, e.g. as a birthday present. The accounts are fully pre-configured with CPU, NET and RAM!",
+      "url": "https://eosgiftcard.com",
       "hasimage": "1"
     },
     {
@@ -1076,7 +1091,30 @@
       "description": "EOS Crash contains number of games that are unique in EOS market. EOSCrash focused on creating ganes with pvp experience",
       "url": "https://eoscrash.app/",
       "hasimage": "1"
-    }
+    },
+	  {
+      "applink": "openbrm.io",
+      "name": "OpenBRM",
+      "type": "Payment",
+      "description": "Very First Open source Billing and Revenue Management on Blockchain",
+      "url": "https://openbrm.io/",
+      "hasimage": "1"
+    },
+    {
+      "applink": "betking.io",
+      "name": "BetKing",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://betking.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "taiwan2020.github.io",
+      "name": "2020 Taiwan Election",
+      "type": "Game",
+      "description": "2020 Taiwan presidential election based on EOS blockchain contract",
+      "url": "https://taiwan2020.github.io"
+    },
   ],
   "Ethereum": [
 
@@ -1130,12 +1168,13 @@
       "url": "https://trongoo.io"
     },
     {
-      "applink": "taiwan2020.github.io",
-      "name": "2020 Taiwan Election",
-      "type": "Game",
-      "description": "2020 Taiwan presidential election based on EOS blockchain contract",
-      "url": "https://taiwan2020.github.io",
+      "applink": "pokerchained.com",
+      "name": "PokerChained",
+      "type": "Gambling",
+      "description": "First truly decentralized, fully on-chain Texas Hold'em on EOS blockchain, built with Decentralized Card Deck Protocol",
+      "url": "https://pokerchained.com",
       "hasimage": "1"
     }
+
   ]
 }
