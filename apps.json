@@ -64,11 +64,11 @@
       "hasimage": "1"
     },
     {
-			"applink": "ipfs-google.com",
-			"name": "Poseidon",
+			"applink": "ipse.io",
+			"name": "IPSE",
 			"type": "Tool",
-			"description": "Poseidon, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
-			"url": "https://www.ipfs-google.com",
+			"description": "IPSE, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
+			"url": "https://ipse.io",
 			"hasimage": "1"
 		}, 
 	      {
