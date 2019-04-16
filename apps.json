@@ -1,6 +1,14 @@
 {
   "EOSIO": [    
     {
+      "applink": "sportbet.one",
+      "name": "SportBet",
+      "type": "Gambling",
+      "description": "First decentralized sportsbook on EOS blockchain",
+      "url": "https://sportbet.one",
+      "hasimage": "1"
+    },
+    {
       "applink": "eosblue.one",
       "name": "EOSBLUE",
       "type": "Game",
