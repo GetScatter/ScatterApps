@@ -1076,6 +1076,14 @@
       "description": "EOS Crash contains number of games that are unique in EOS market. EOSCrash focused on creating ganes with pvp experience",
       "url": "https://eoscrash.app/",
       "hasimage": "1"
+    },
+    {
+      "applink": "guess.thrones.io",
+      "name": "Game of Thrones Finale Guess",
+      "type": "Game",
+      "description": "Guess the 'Game of Thrones' final season characters live/die, win EOS awards!",
+      "url": "https://guess.thrones.io",
+      "hasimage":"1"
     }
   ],
   "Ethereum": [
@@ -1120,14 +1128,6 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
-    },
-    {
-      "applink": "guess.thrones.io",
-      "name": "Game of Thrones Finale Guess",
-      "type": "Game",
-      "description": "Guess the 'Game of Thrones' final season characters live/die, win EOS awards!",
-      "url": "https://guess.thrones.io",
-      "hasimage":"1"
     }
   ]
 }
