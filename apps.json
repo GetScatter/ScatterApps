@@ -1,5 +1,5 @@
 {
-  "EOSIO": [    
+  "EOSIO": [
     {
       "applink": "sportbet.one",
       "name": "SportBet",
@@ -70,7 +70,7 @@
 			"description": "IPSE, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
 			"url": "https://ipse.io",
 			"hasimage": "1"
-		}, 
+		},
 	      {
       "applink": "cadeos.io",
       "name": "CADEOS.io",
@@ -95,7 +95,7 @@
       "url": "https://eosp.in",
       "hasimage": "1"
     },
-	  
+
     {
       "applink": "gemcity.io",
       "name": "GemCity",
@@ -127,7 +127,7 @@
       "description": "The FAIREST Decentralized Crypto Casino Built on EOS, use hash to draw winning numbers to guarantee absolute Fairness, No Chance for Cheating at All! Generous rewards, high referral bonus!",
       "url": "https://bethash.io",
       "hasimage": "1"
-    },	  
+    },
     {
       "applink": "eosluck.one",
       "name": "EOSLUCK",
@@ -884,7 +884,7 @@
       "type": "Gambling",
       "description": "D-Texas is the world's first PVP Texas Hold'em platform in the blockchain.",
       "url": "https://dtexas.muggles.io/",
-      "hasimage": "1" 
+      "hasimage": "1"
     },
     {
       "applink": "www.pokerking.one",
@@ -1090,7 +1090,7 @@
       "type": "Game",
       "description": "A contest game which allow user to manually control the flappy bird racing against AI trained bird!",
       "url": "https://eosflappybird.bogo.one",
-      "hasimage": "1"   
+      "hasimage": "1"
     },
     {
       "applink": "eoscrash.app",
@@ -1182,7 +1182,15 @@
       "description": "First truly decentralized, fully on-chain Texas Hold'em on EOS blockchain, built with Decentralized Card Deck Protocol",
       "url": "https://pokerchained.com",
       "hasimage": "1"
+    },
+    {
+      "applink": "nineblox.com",
+      "name": "Nineblox",
+      "type": "Game",
+      "description": "",
+      "url": "https://www.nineblox.com/",
+      "hasimage": "1"
     }
-
+    
   ]
 }
