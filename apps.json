@@ -1126,7 +1126,7 @@
     {
       "applink": "vapaee.io",
       "name": "Vapaee - Telos DEX",
-      "type": "Echange",
+      "type": "Exchange",
       "description": "Decentraliced Exchange for Telos tokens written completely on a smart contract",
       "url": "https://vapaee.io"
     }
