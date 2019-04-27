@@ -1130,6 +1130,14 @@
       "description": "1 on 1 Solitaire with EOS prize! First ever game of skill on EOS Blockchain",
       "url": "https://solitaireduel.io",
       "hasimage":"1"
+    },
+    {
+      "applink": "nineblox.com",
+      "name": "Nineblox",
+      "type": "Game",
+      "description": "Nineblox is a fast-paced 2-player tetronimo puzzle game, with EOS wagers. Test your skill with 1-on-1 matches!",
+      "url": "https://www.nineblox.com",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
@@ -1189,14 +1197,6 @@
       "type": "Gambling",
       "description": "First truly decentralized, fully on-chain Texas Hold'em on EOS blockchain, built with Decentralized Card Deck Protocol",
       "url": "https://pokerchained.com",
-      "hasimage": "1"
-    },
-    {
-      "applink": "nineblox.com",
-      "name": "Nineblox",
-      "type": "Game",
-      "description": "",
-      "url": "https://www.nineblox.com",
       "hasimage": "1"
     }
 
