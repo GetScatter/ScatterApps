@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="59.436756mm"
-   height="59.436756mm"
-   viewBox="0 0 59.436756 59.436756"
+   width="42.770126mm"
+   height="37.543819mm"
+   viewBox="0 0 42.770126 37.543819"
    version="1.1"
    id="svg874"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="scatter-logo.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="tipit.io.svg"
    inkscape:export-filename="C:\xampp\htdocs\H5\crypto-projects\tipit.io\content\img\tipit_robot_large.png"
    inkscape:export-xdpi="186.67"
    inkscape:export-ydpi="186.67">
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="51.776827"
-     inkscape:cy="113.87538"
+     inkscape:cx="-50.790595"
+     inkscape:cy="72.502903"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,15 +59,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(26.448408,29.620028)">
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1765051;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect821"
-       width="59.436756"
-       height="59.436756"
-       x="-26.448408"
-       y="-29.620028"
-       ry="0" />
+     transform="translate(18.115093,18.673559)">
     <g
        id="g864"
        transform="matrix(2.9583168,0,0,2.9583168,-67.344084,-32.437347)">
