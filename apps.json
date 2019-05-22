@@ -890,6 +890,14 @@
       "description": "1 on 1 Solitaire with EOS prize! First ever game of skill on EOS Blockchain",
       "url": "https://solitaireduel.io",
       "hasimage":"1"
+    },
+    {
+      "applink": "2100.bet",
+      "name": "2100.bet",
+      "type": "Gambling",
+      "description": "2100.bet EOS Gaming Ecosystem, K3 Lottery Dice.",
+      "url": "https://2100.bet",
+      "hasimage":"1"
     }
   ],
   "Ethereum": [
