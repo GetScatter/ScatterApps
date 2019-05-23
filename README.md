@@ -36,6 +36,7 @@ We are now enforcing strict categories. Please make sure that your app is catego
 - Chain
 - Payment
 - Wallet
+- Stablecoin
 
 #### Requesting types
 To request the addition of types into Scatter you need to PR both this README as well as the `types.json` file in the root path of this repository.
