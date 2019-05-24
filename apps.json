@@ -916,6 +916,14 @@
       "hasimage":"1"
     },
     {
+      "applink": "eosrex.io",
+      "name": "EOSREX.io",
+      "type": "Tool",
+      "description": "Free-to-use, user-friendly interface to the EOS Mainnet's 'REX' smart contract",
+      "url": "https://eosrex.io",
+      "hasimage": "1"
+    },
+    {
       "applink": "nineblox.com",
       "name": "Nineblox",
       "type": "Game",
