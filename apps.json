@@ -3,7 +3,7 @@
     {
       "applink": "gateway.eosdt.com",
       "name": "Equilibrium",
-      "type": "Gambling",
+      "type": "Stablecoin",
       "description":
         "EOS-based DApp to generate EOSDT stablecoins and to manage existing user positions",
       "url": "https://gateway.eosdt.com",
