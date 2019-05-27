@@ -972,7 +972,7 @@
       "name": "marketcap.one",
       "type": "Tool",
       "description": "EOS token marketcaps, price charts and metrics.",
-      "url": "https://marketcap.one"
+      "url": "https://marketcap.one",
       "hasimage": "1"
     }  
 
