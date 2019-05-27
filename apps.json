@@ -922,6 +922,14 @@
       "description": "Free-to-use, user-friendly interface to the EOS Mainnet's 'REX' smart contract",
       "url": "https://eosrex.io",
       "hasimage": "1"
+    },
+    {
+      "applink": "pokerchained.com",
+      "name": "PokerChained",
+      "type": "Gambling",
+      "description": "First truly decentralized, fully on-chain Texas Hold'em on EOS blockchain, built with Decentralized Card Deck Protocol",
+      "url": "https://pokerchained.com",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
@@ -958,14 +966,6 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
-    },
-    {
-      "applink": "pokerchained.com",
-      "name": "PokerChained",
-      "type": "Gambling",
-      "description": "First truly decentralized, fully on-chain Texas Hold'em on EOS blockchain, built with Decentralized Card Deck Protocol",
-      "url": "https://pokerchained.com",
-      "hasimage": "1"
     }
 
   ]
