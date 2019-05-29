@@ -1,6 +1,14 @@
 {
   "EOSIO": [    
     {
+      "applink": "gateway.eosdt.com",
+      "name": "Equilibrium",
+      "type": "Tool",
+      "description": "EOS-based DApp to generate EOSDT stablecoins and to manage existing user positions",
+      "url": "https://gateway.eosdt.com",
+      "hasimage": "1"
+    },
+    {
       "applink": "sportbet.one",
       "name": "SportBet",
       "type": "Gambling",
