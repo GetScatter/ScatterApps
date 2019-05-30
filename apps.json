@@ -8,6 +8,21 @@
       "url": "https://betr.bet/?currency=eos",
       "hasimage": "1"
     },
+      "applink": "gateway.eosdt.com",
+      "name": "Equilibrium",
+      "type": "Tool",
+      "description": "EOS-based DApp to generate EOSDT stablecoins and to manage existing user positions",
+      "url": "https://gateway.eosdt.com",
+      "hasimage": "1"
+    },
+    {
+      "applink": "offside.io",
+      "name": "OFFSIDE",
+      "type": "Game",
+      "description": "Bet for your favorite football teams.Earn your dividend by join the club.",
+      "url": "https://offside.io",
+      "hasimage": "1"
+    },
     {
       "applink": "sportbet.one",
       "name": "SportBet",
@@ -930,6 +945,22 @@
       "description": "Free-to-use, user-friendly interface to the EOS Mainnet's 'REX' smart contract",
       "url": "https://eosrex.io",
       "hasimage": "1"
+    },
+    {
+      "applink": "pokerchained.com",
+      "name": "PokerChained",
+      "type": "Gambling",
+      "description": "First truly decentralized, fully on-chain Texas Hold'em on EOS blockchain, built with Decentralized Card Deck Protocol",
+      "url": "https://pokerchained.com",
+      "hasimage": "1"
+    },
+    {
+      "applink": "decentium.org",
+      "name": "Decentium",
+      "type": "Social",
+      "description": "Publishing and tipping platform",
+      "url": "https://decentium.org",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
@@ -968,11 +999,11 @@
       "url": "https://trongoo.io"
     },
     {
-      "applink": "pokerchained.com",
-      "name": "PokerChained",
-      "type": "Gambling",
-      "description": "First truly decentralized, fully on-chain Texas Hold'em on EOS blockchain, built with Decentralized Card Deck Protocol",
-      "url": "https://pokerchained.com",
+      "applink": "eosroyal.com",
+      "name": "eosroyal",
+      "type": "Game",
+      "description": "A fair game using the functions of a block chain, Enjoy games with EOS",
+      "url": "https://www.eosroyal.com/",
       "hasimage": "1"
     }
 
