@@ -944,7 +944,8 @@
       "name": "Decentium",
       "type": "Social",
       "description": "Publishing and tipping platform",
-      "url": "https://decentium.org"
+      "url": "https://decentium.org",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
