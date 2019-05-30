@@ -9,6 +9,14 @@
       "hasimage": "1"
     },
     {
+      "applink": "offside.io",
+      "name": "OFFSIDE",
+      "type": "Game",
+      "description": "Bet for your favorite football teams.Earn your dividend by join the club.",
+      "url": "https://offside.io",
+      "hasimage": "1"
+    },
+    {
       "applink": "sportbet.one",
       "name": "SportBet",
       "type": "Gambling",
@@ -938,6 +946,14 @@
       "description": "First truly decentralized, fully on-chain Texas Hold'em on EOS blockchain, built with Decentralized Card Deck Protocol",
       "url": "https://pokerchained.com",
       "hasimage": "1"
+    },
+    {
+      "applink": "decentium.org",
+      "name": "Decentium",
+      "type": "Social",
+      "description": "Publishing and tipping platform",
+      "url": "https://decentium.org",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
@@ -974,6 +990,14 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
+    },
+    {
+      "applink": "eosroyal.com",
+      "name": "eosroyal",
+      "type": "Game",
+      "description": "A fair game using the functions of a block chain, Enjoy games with EOS",
+      "url": "https://www.eosroyal.com/",
+      "hasimage": "1"
     }
 
   ]
