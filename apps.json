@@ -1,6 +1,14 @@
 {
   "EOSIO": [    
     {
+      "applink": "offside.io",
+      "name": "OFFSIDE",
+      "type": "Game",
+      "description": "Bet for your favorite football teams.Earn your dividend by join the club.",
+      "url": "https://offside.io",
+      "hasimage": "1"
+    },
+    {
       "applink": "sportbet.one",
       "name": "SportBet",
       "type": "Gambling",
