@@ -966,6 +966,14 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
+    },
+    {
+      "applink": "eosroyal.com",
+      "name": "eosroyal",
+      "type": "Game",
+      "description": "A fair game using the functions of a block chain, Enjoy games with EOS",
+      "url": "https://www.eosroyal.com/",
+      "hasimage": "1"
     }
 
   ]
