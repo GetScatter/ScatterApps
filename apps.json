@@ -1,5 +1,29 @@
 {
-  "EOSIO": [    
+  "EOSIO": [ 
+    {
+      "applink": "betr.bet",
+      "name": "BETR.Bet",
+      "type": "Gambling",
+      "description": "Bet on sports, best odds, instant payouts, peer-to-peer",
+      "url": "https://betr.bet/?currency=eos",
+      "hasimage": "1"
+    },   
+    {
+      "applink": "gateway.eosdt.com",
+      "name": "Equilibrium",
+      "type": "Tool",
+      "description": "EOS-based DApp to generate EOSDT stablecoins and to manage existing user positions",
+      "url": "https://gateway.eosdt.com",
+      "hasimage": "1"
+    },
+    {
+      "applink": "offside.io",
+      "name": "OFFSIDE",
+      "type": "Game",
+      "description": "Bet for your favorite football teams.Earn your dividend by join the club.",
+      "url": "https://offside.io",
+      "hasimage": "1"
+    },
     {
       "applink": "sportbet.one",
       "name": "SportBet",
@@ -929,6 +953,14 @@
       "type": "Gambling",
       "description": "First truly decentralized, fully on-chain Texas Hold'em on EOS blockchain, built with Decentralized Card Deck Protocol",
       "url": "https://pokerchained.com",
+      "hasimage": "1"
+    },
+    {
+      "applink": "decentium.org",
+      "name": "Decentium",
+      "type": "Social",
+      "description": "Publishing and tipping platform",
+      "url": "https://decentium.org",
       "hasimage": "1"
     }
   ],
