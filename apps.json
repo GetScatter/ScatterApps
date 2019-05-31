@@ -962,7 +962,15 @@
       "description": "Publishing and tipping platform",
       "url": "https://decentium.org",
       "hasimage": "1"
-    }
+    },
+    {
+      "applink": "eosroyal.com",
+      "name": "eosroyal",
+      "type": "Game",
+      "description": "A fair game using the functions of a block chain, Enjoy games with EOS",
+      "url": "https://www.eosroyal.com/",
+      "hasimage": "1"
+    }    
   ],
   "Ethereum": [
 
@@ -998,14 +1006,6 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
-    },
-    {
-      "applink": "eosroyal.com",
-      "name": "eosroyal",
-      "type": "Game",
-      "description": "A fair game using the functions of a block chain, Enjoy games with EOS",
-      "url": "https://www.eosroyal.com/",
-      "hasimage": "1"
     }
 
   ]
