@@ -1,5 +1,13 @@
 {
-  "EOSIO": [ 
+  "EOSIO": [
+    {
+      "applink": "runprice.info",
+      "name": "RUN!PRICE",
+      "type": "Gambling",
+      "description": "抢拍收盘价，赢EOS大奖！Auction the closing price and win EOS awards!",
+      "url": "https://runprice.info",
+      "hasimage": "1"
+    },
     {
       "applink": "betr.bet",
       "name": "BETR.Bet",
