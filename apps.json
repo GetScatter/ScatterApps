@@ -978,13 +978,21 @@
       "description": "A fair game using the functions of a block chain, Enjoy games with EOS",
       "url": "https://www.eosroyal.com/",
       "hasimage": "1"
-    },    
+    },
     {
       "applink": "eosgrand.io",
       "name": "Eos Grand",
       "type": "Gambling",
       "description": "High quality dapp you have never seen before! Fairness and transparency ensured by using blockchain technology! Max. 1.5% house edge for all games including slots! Increase your VIP level to receive back max. 80% House Edge including 10% Referral Reward! Play to mine GRD token and receive 50% dividends and 10% Event Reward",
       "url": "https://eosgrand.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "rng.casino",
+      "name": "RNG Casino",
+      "type": "Gambling",
+      "description": "RNG Casino 是基於去中心化可信隨機數開發的在線娛樂平台，提供骰子、百家樂、以及中國官方彩票等區塊鏈遊戲。",
+      "url": "https://rng.casino",
       "hasimage": "1"
     }
   ],
