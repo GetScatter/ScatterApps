@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>dexeos.io</title>
+    <desc>Created with Sketch.</desc>
+    <g id="dexeos.io" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="" id="Path-5" stroke="#979797"></path>
+        <path d="M18,20 L18,100 C44.6666667,95.0666667 58,81.7333333 58,60 C58,38.2666667 44.6666667,24.9333333 18,20 Z" id="Path-6" stroke="#000000" stroke-width="8"></path>
+        <path d="M103,20 C73,22.9333333 58,36.2666667 58,60 C58,83.7333333 73,97.0666667 103,100" id="Path-7" stroke="#000000" stroke-width="8"></path>
+        <path d="M103,60 L58,60" id="Path-8" stroke="#000000" stroke-width="8"></path>
+    </g>
+</svg>
