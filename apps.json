@@ -978,7 +978,15 @@
       "description": "A fair game using the functions of a block chain, Enjoy games with EOS",
       "url": "https://www.eosroyal.com/",
       "hasimage": "1"
-    }    
+    },    
+    {
+      "applink": "eosgrand.io",
+      "name": "Eos Grand",
+      "type": "Gambling",
+      "description": "High quality dapp you have never seen before! Fairness and transparency ensured by using blockchain technology! Max. 1.5% house edge for all games including slots! Increase your VIP level to receive back max. 80% House Edge including 10% Referral Reward! Play to mine GRD token and receive 50% dividends and 10% Event Reward",
+      "url": "https://eosgrand.io",
+      "hasimage": "1"
+    }
   ],
   "Ethereum": [
 
