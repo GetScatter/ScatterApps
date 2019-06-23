@@ -1,5 +1,21 @@
-﻿{
-  "EOSIO": [ 
+{
+  "EOSIO": [
+    {
+      "applink": "chintai.io",
+      "name": "Chintai CHEX Auction Portal",
+      "type": "Tool",
+      "description": "The CHEX auction runs through December 4, 2019",
+      "url": "https://chintai.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "exchange.chintai.io",
+      "name": "Chintai Exchange",
+      "type": "Exchange",
+      "description": "The first fully decentralized token leasing exchange",
+      "url": "https://exchange.chintai.io",
+      "hasimage": "1"
+    },
     {
       "applink": "betr.bet",
       "name": "BETR.Bet",
@@ -7,7 +23,7 @@
       "description": "Bet on sports, best odds, instant payouts, peer-to-peer",
       "url": "https://betr.bet/?currency=eos",
       "hasimage": "1"
-    },   
+    },
     {
       "applink": "gateway.eosdt.com",
       "name": "Equilibrium",
@@ -301,14 +317,6 @@
       "type": "Block Explorer",
       "description": "Full featured Block Explorer and Toolkit for EOSIO Blockchains",
       "url": "https://bloks.io/",
-      "hasimage": "1"
-    },
-    {
-      "applink": "chintai.io",
-      "name": "Chintai",
-      "type": "Tool",
-      "description": "Token Leasing Platform",
-      "url": "https://eos.chintai.io/",
       "hasimage": "1"
     },
     {
