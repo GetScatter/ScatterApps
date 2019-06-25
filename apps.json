@@ -1,5 +1,21 @@
 {
-  "EOSIO": [ 
+  "EOSIO": [
+    {
+      "applink": "chintai.io",
+      "name": "Chintai CHEX Auction Portal",
+      "type": "Tool",
+      "description": "The CHEX auction runs through December 4, 2019",
+      "url": "https://chintai.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "exchange.chintai.io",
+      "name": "Chintai Exchange",
+      "type": "Exchange",
+      "description": "The first fully decentralized token leasing exchange",
+      "url": "https://exchange.chintai.io",
+      "hasimage": "1"
+    },
     {
       "applink": "betr.bet",
       "name": "BETR.Bet",
@@ -7,7 +23,7 @@
       "description": "Bet on sports, best odds, instant payouts, peer-to-peer",
       "url": "https://betr.bet/?currency=eos",
       "hasimage": "1"
-    },   
+    },
     {
       "applink": "gateway.eosdt.com",
       "name": "Equilibrium",
@@ -301,14 +317,6 @@
       "type": "Block Explorer",
       "description": "Full featured Block Explorer and Toolkit for EOSIO Blockchains",
       "url": "https://bloks.io/",
-      "hasimage": "1"
-    },
-    {
-      "applink": "chintai.io",
-      "name": "Chintai",
-      "type": "Tool",
-      "description": "Token Leasing Platform",
-      "url": "https://eos.chintai.io/",
       "hasimage": "1"
     },
     {
@@ -970,7 +978,15 @@
       "description": "A fair game using the functions of a block chain, Enjoy games with EOS",
       "url": "https://www.eosroyal.com/",
       "hasimage": "1"
-    }    
+    },    
+    {
+      "applink": "eosgrand.io",
+      "name": "Eos Grand",
+      "type": "Gambling",
+      "description": "High quality dapp you have never seen before! Fairness and transparency ensured by using blockchain technology! Max. 1.5% house edge for all games including slots! Increase your VIP level to receive back max. 80% House Edge including 10% Referral Reward! Play to mine GRD token and receive 50% dividends and 10% Event Reward",
+      "url": "https://eosgrand.io",
+      "hasimage": "1"
+    }
   ],
   "Ethereum": [
 
@@ -1006,7 +1022,15 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
-    }
+    },
+    {
+      "applink": "marketcap.one",
+      "name": "marketcap.one",
+      "type": "Tool",
+      "description": "EOS token marketcaps, price charts and metrics.",
+      "url": "https://marketcap.one",
+      "hasimage": "1"
+    }  
 
   ]
 }
