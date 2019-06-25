@@ -1,0 +1,59 @@
+<svg id="组_63" data-name="组 63" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="205" height="269" viewBox="0 0 205 269">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: #fbba03;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="27.063" y1="90.947" x2="177.938" y2="56.115" gradientUnits="userSpaceOnUse">
+      <stop offset="-0.44" stop-color="#ddddde"/>
+      <stop offset="0.279" stop-color="#ddddde"/>
+      <stop offset="1.44" stop-color="#0a100c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="3.875" y1="230.127" x2="197.25" y2="199.499" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d3901"/>
+      <stop offset="1" stop-color="#3b3d3c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="100.562" y1="185.254" x2="205" y2="159.215" gradientUnits="userSpaceOnUse">
+      <stop offset="0.055" stop-color="#ddddde"/>
+      <stop offset="0.945" stop-color="#3b3d3c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="100.563" y1="81.125" x2="100.563" y2="11.625" gradientUnits="userSpaceOnUse">
+      <stop offset="-0.055" stop-color="#b4880a"/>
+      <stop offset="0.489" stop-color="#ffbc00"/>
+      <stop offset="1.055" stop-color="#ffbc00"/>
+    </linearGradient>
+  </defs>
+  <g id="组_49" data-name="组 49">
+    <path id="形状_2_拷贝_3" data-name="形状 2 拷贝 3" class="cls-1" d="M27.075,71.6l73.491-19.352,77.358,23.223L100.566,94.827Z"/>
+    <path id="形状_2_拷贝_4" data-name="形状 2 拷贝 4" class="cls-2" d="M3.868,183.849l96.7-17.418,96.7,15.483L96.7,263.194Z"/>
+    <g id="组_46" data-name="组 46">
+      <path id="形状_2_拷贝_2" data-name="形状 2 拷贝 2" class="cls-3" d="M27.075,71.6L10.822,152.923,0,207.071,100.566,269V94.827Zm50.283,79.668L39.725,132.936,45.965,102.4l31.393,9.981v38.892Zm0,71.282L30.943,197.4l4.322-41.548,42.092,21.066v45.64Z"/>
+      <path id="形状_2_拷贝" data-name="形状 2 拷贝" class="cls-4" d="M205,203.2L100.566,269V94.827l77.358-19.353,5.62,26.51-59.771,19.937v94.827l76.465-36.009Z"/>
+      <path id="形状_1560" data-name="形状 1560" class="cls-5" d="M46.415,32.719l8.05,26.386L53.733,73.428s5.067,0.628,15.89,3.982c21.358,6.618,62.649,3.994,78.509-4.736V61.367l6.586-28.647s-16.5,15.431-18.3,16.585-7.1,2.7-10.244-1.508C121.743,41.873,101.3,11.612,101.3,11.612L75.686,49.3s-2.023,4.687-7.318,1.508S46.415,32.719,46.415,32.719Z"/>
+      <path id="形状_1563" data-name="形状 1563" class="cls-3" d="M38.679,27.093v7.741h7.736V27.093H38.679"/>
+      <path id="形状_1564" data-name="形状 1564" class="cls-3" d="M100.566,0L92.83,7.741l7.736,7.741L108.3,7.741Z"/>
+      <path id="形状_1567" data-name="形状 1567" class="cls-3" d="M162.452,27.093h-7.735v7.741h7.735V27.093Z"/>
+    </g>
+  </g>
+</svg>
