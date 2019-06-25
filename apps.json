@@ -1030,6 +1030,13 @@
       "description": "EOS token marketcaps, price charts and metrics.",
       "url": "https://marketcap.one",
       "hasimage": "1"
+    },
+    {
+      "applink": "betcity.one",
+      "name": "Bet City",
+      "type": "Game",
+      "description": "More funny More lucky!友好幸運的競猜平台!",
+      "url": "https://www.betcity.one"
     }  
 
   ]
