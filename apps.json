@@ -118,7 +118,7 @@
 			"description": "IPSE, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
 			"url": "https://ipse.io",
 			"hasimage": "1"
-		},
+		}, 
     {
       "applink": "www.eosdividends.com",
       "name": "EOS Dividends",
@@ -142,7 +142,7 @@
       "description": "The FAIREST Decentralized Crypto Casino Built on EOS, use hash to draw winning numbers to guarantee absolute Fairness, No Chance for Cheating at All! Generous rewards, high referral bonus!",
       "url": "https://bethash.io",
       "hasimage": "1"
-    },
+    },	  
     {
       "applink": "eosluck.one",
       "name": "EOSLUCK",
@@ -739,7 +739,7 @@
       "type": "Gambling",
       "description": "D-Texas is the world's first PVP Texas Hold'em platform in the blockchain.",
       "url": "https://dtexas.muggles.io/",
-      "hasimage": "1"
+      "hasimage": "1" 
     },
     {
       "applink": "www.pokerking.one",
@@ -897,7 +897,7 @@
       "type": "Game",
       "description": "A contest game which allow user to manually control the flappy bird racing against AI trained bird!",
       "url": "https://eosflappybird.bogo.one",
-      "hasimage": "1"
+      "hasimage": "1"   
     },
     {
       "applink": "eoscrash.app",
@@ -925,7 +925,7 @@
     },
     {
       "applink": "solitaireduel.io",
-      "name": "Solitaire Duel",
+      "name": "Solitaire Duel", 
       "type": "Game",
       "description": "1 on 1 Solitaire with EOS prize! First ever game of skill on EOS Blockchain",
       "url": "https://solitaireduel.io",
