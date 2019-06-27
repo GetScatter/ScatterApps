@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+      "applink": "runprice.info",
+      "name": "RUN!PRICE",
+      "type": "Gambling",
+      "description": "抢拍收盘价，赢EOS大奖！Auction the closing price and win EOS awards!",
+      "url": "https://runprice.info",
+      "hasimage": "1"
+    },
+    {
       "applink": "chintai.io",
       "name": "Chintai CHEX Auction Portal",
       "type": "Tool",
@@ -55,8 +63,7 @@
       "description": "Texas Poker ,Black Jack, Caribbean Poker,Baccarat etc. The Best Casino Experience On EOS.",
       "url": "https://eosblue.one",
       "hasimage": "1"
-    },
-    {
+    },{
       "applink": "game.asteroidrush.io",
       "name": "Asteroid Rush",
       "type": "Game",
@@ -105,13 +112,13 @@
       "hasimage": "1"
     },
     {
-      "applink": "ipse.io",
-      "name": "IPSE",
-      "type": "Tool",
-      "description": "IPSE, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
-      "url": "https://ipse.io",
-      "hasimage": "1"
-    },
+			"applink": "ipse.io",
+			"name": "IPSE",
+			"type": "Tool",
+			"description": "IPSE, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
+			"url": "https://ipse.io",
+			"hasimage": "1"
+		},
     {
       "applink": "www.eosdividends.com",
       "name": "EOS Dividends",
@@ -789,12 +796,12 @@
       "hasimage": "1"
     },
     {
-      "applink": "tipit.io",
-      "name": "Tipit",
-      "type": "Social",
-      "description": "A fast and easy way to send money through social platforms.",
-      "url": "https://tipit.io",
-      "hasimage": "1"
+      "applink":"tipit.io",
+      "name":"Tipit",
+      "type":"Social",
+      "description":"A fast and easy way to send money through social platforms.",
+      "url":"https://tipit.io",
+      "hasimage":"1"
     },
     {
       "applink": "eosreel.io",
@@ -900,7 +907,7 @@
       "url": "https://eoscrash.app/",
       "hasimage": "1"
     },
-    {
+	  {
       "applink": "openbrm.io",
       "name": "OpenBRM",
       "type": "Payment",
@@ -922,7 +929,7 @@
       "type": "Game",
       "description": "1 on 1 Solitaire with EOS prize! First ever game of skill on EOS Blockchain",
       "url": "https://solitaireduel.io",
-      "hasimage": "1"
+      "hasimage":"1"
     },
     {
       "applink": "2100.bet",
@@ -930,7 +937,7 @@
       "type": "Gambling",
       "description": "2100.bet EOS Gaming Ecosystem, K3 Lottery Dice.",
       "url": "https://2100.bet",
-      "hasimage": "1"
+      "hasimage":"1"
     },
     {
       "applink": "eoskingdom.io",
@@ -938,7 +945,7 @@
       "type": "Gambling",
       "description": "EOSKingDom(EKD) is a multifaceted game platform developing EOS-based blockchain. The user is provided with a safe, verifiable game platform through a blockchain system. EosKingDom(EKD)是基于EOS.IO区块链系统开发的在线多样化游戏 平台. 我们希望为用户提供一个完全安全, 完全可验证公平性, 去中心化 和无 国界的游戏平台. 我们的目标是开发游戏多样化, 玩法有趣, 体验真实流畅的游戏平台.Eos KingDom通证(EKD)的持有人可从EosKingDom.io平台的游戏利润中 获得红利, 我们将和通证持有人共同分享共同见证平台的发展.",
       "url": "https://eoskingdom.io",
-      "hasimage": "1"
+      "hasimage":"1"
     },
     {
       "applink": "www.xdapp.me",
@@ -946,7 +953,7 @@
       "type": "Gambling",
       "description": "Xdapp 致力于做全球最大的去中心化数字货币在线游戏娱乐平台。 前期将以在线棋牌为主，后续将推出彩票、电子游戏、电竞和体育彩票。现已支持EOS参与游戏，后续将全面支持ETH、Tron等多种数字货币。",
       "url": "https://www.xdapp.me",
-      "hasimage": "1"
+      "hasimage":"1"
     },
     {
       "applink": "eosrex.io",
@@ -989,6 +996,14 @@
       "hasimage": "1"
     },
     {
+      "applink": "rng.casino",
+      "name": "RNG Casino",
+      "type": "Gambling",
+      "description": "RNG Casino 是基於去中心化可信隨機數開發的在線娛樂平台，提供骰子、百家樂、以及中國官方彩票等區塊鏈遊戲。",
+      "url": "https://rng.casino",
+      "hasimage": "1"
+    },
+    {
       "applink": "skreos.io",
       "name": "SKR EOS",
       "type": "Gambling",
@@ -997,7 +1012,9 @@
       "hasimage": "1"
     }
   ],
-  "Ethereum": [],
+  "Ethereum": [
+
+  ],
   "Tron": [
     {
       "applink": "tronvegas.net",
@@ -1036,6 +1053,21 @@
       "type": "Tool",
       "description": "EOS token marketcaps, price charts and metrics.",
       "url": "https://marketcap.one",
+      "hasimage": "1"
+    },
+    {
+      "applink": "betcity.one",
+      "name": "Bet City",
+      "type": "Game",
+      "description": "More funny More lucky!友好幸運的競猜平台!",
+      "url": "https://www.betcity.one"
+    },
+    {
+      "applink": "play.0xracers.com",
+      "name": "0xRacers",
+      "type": "Game",
+      "description": "Combining multiple blockchains in the perfect synergy between technology and games in one epic world where players will decide who’s tougher! 0xWarriors is a Multi Blockchain-based game releasing on EOS, Tron and Ethereum in the coming months! More cryptocurrencies to be added in the near future!",
+      "url": "https://0xracers.com",
       "hasimage": "1"
     }
   ]
