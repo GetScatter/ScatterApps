@@ -1002,6 +1002,14 @@
       "description": "RNG Casino 是基於去中心化可信隨機數開發的在線娛樂平台，提供骰子、百家樂、以及中國官方彩票等區塊鏈遊戲。",
       "url": "https://rng.casino",
       "hasimage": "1"
+    },
+    {
+      "applink": "mycryptovegas.io",
+      "name": "My Crypto Vegas", 
+      "type": "Game",
+      "description": "Most Exciting, Fun and Top Quality Casino Games in EOS World!",
+      "url": "https://mycryptovegas.io",
+      "hasimage":"1"
     }
   ],
   "Ethereum": [
