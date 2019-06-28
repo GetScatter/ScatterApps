@@ -1010,7 +1010,15 @@
       "description": "SKR EOS is a completely trustworthy, profit-sharing and fair gaming platform based on EOS. SKREOS is the world's first EOS-based ladder game. Ladder game are popular among lottery players in Korea and Taiwan. There are also blackjack and dice for DApp players to play. SKR EOS 是一个基于EOS的、可信的、利益共享的、公平的、游戏平台。SKREOS全球首发基于EOS的梯子游戏，梯子游戏在韩国、台湾等地深受彩票玩家的青睐。更有21点和猜数字游戏可供DApp老玩家游玩。 SKREOS는 EOS기반의 공정, 공평한 수익을 쉐어하는 게임 플랫폼입니다. SKREOS는 세계최초로 EOS기반의 사다리 게임을 출시하였습니다. 사다리 게임은 한국과 대만 로또 유저들이 예전부터 즐겨하던 게임이며 블랙잭과 주사위 게임도 댑게임 유저들을 위하여 준비되여 있습니다.",
       "url": "https://skreos.io",
       "hasimage": "1"
-    }
+    },
+    {
+      "applink": "dragonoption.io",
+      "name": "Dragon Option",
+      "type": "Gambling",
+      "description": "Dragon Option - The first binary option game on EOS with verifiable fairness. 飞龙期权——首个可验证公平性的EOS二元期权游戏",
+      "url": "https://dragonoption.io",
+      "hasimage": "1"
+    }	  
   ],
   "Ethereum": [
 
