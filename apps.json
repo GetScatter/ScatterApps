@@ -1069,6 +1069,14 @@
       "description": "Combining multiple blockchains in the perfect synergy between technology and games in one epic world where players will decide who’s tougher! 0xWarriors is a Multi Blockchain-based game releasing on EOS, Tron and Ethereum in the coming months! More cryptocurrencies to be added in the near future!",
       "url": "https://0xracers.com",
       "hasimage": "1"
+    },
+    {
+      "applink": "dm4j1233uz8iq.cloudfront.net",
+      "name": "WestWorld",
+      "type": "Game",
+      "description": "EOS battle strategy game in WestWorld presenting.",
+      "url": "http://dm4j1233uz8iq.cloudfront.net",
+      "hasimage": "1"
     }
   ]
 }
