@@ -852,6 +852,22 @@
       "hasimage": "1"
     },
     {
+      "applink": "paintfe.pixeos.art",
+      "name": "pixEOS Paint FE",
+      "type": "Game",
+      "description": "A multiplayer collaborative canvas powered by PIXEOS.",
+      "url": "https://paintfe.pixeos.art/",
+      "hasimage": "1"
+    },
+    {
+      "applink": "gamecenter.pixeos.one",
+      "name": "pixEOS Game Center",
+      "type": "Game",
+      "description": "Your gateway into all pixEOS games.",
+      "url": "https://gamecenter.pixeos.one/",
+      "hasimage": "1"
+    },
+    {
       "applink": "hirevibes.io",
       "name": "Hirevibes",
       "type": "Tool",
