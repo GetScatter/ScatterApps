@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+      "applink": "staker.one",
+      "name": "Staker.One",
+      "type": "tool",
+      "description": "A elegent and simple to use staking tool for EOS.",
+      "url": "https://staker.one",
+      "hasimage": "1"
+    },
+    {
       "applink": "runprice.info",
       "name": "RUN!PRICE",
       "type": "Gambling",
@@ -528,11 +536,11 @@
       "hasimage": "1"
     },
     {
-      "applink": "live.wallet.trybe.one",
+      "applink": "trybe.one",
       "name": "Trybe",
       "type": "Wallet",
-      "description": "Trybe Web Wallet",
-      "url": "https://live.wallet.trybe.one",
+      "description": "A crypto-powered social network and media publishing community.",
+      "url": "https://trybe.one",
       "hasimage": "1"
     },
     {
