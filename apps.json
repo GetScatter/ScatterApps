@@ -360,11 +360,11 @@
       "url": "https://eosavatarimg.now.sh/"
     },
     {
-      "applink": "eos.bancor.network",
+      "applink": "bancor.network",
       "name": "EOS Bancor",
       "type": "Exchange",
       "description": "",
-      "url": "https://eos.bancor.network/",
+      "url": "https://bancor.network/",
       "hasimage": "1"
     },
     {
