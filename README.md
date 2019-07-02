@@ -17,7 +17,8 @@
   "type":"",         // A small tag showing what type of application this is
   "description":"",  // Short description of your application.
   "url":"",          // The URL to your application, or it's landing page.
-  "hasimage":"1"     // Adding this specifies that you have added a logo to the /logos/ directory.
+  "hasimage":"1",    // Adding this specifies that you have added a logo to the /logos/ directory.
+  "subdomains":["*"] // Allows capturing subdomains under the same metas. '*' is a wildcard for all subdomains.
 }
 ```
 
