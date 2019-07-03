@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+      "applink": "staker.one",
+      "name": "Staker.One",
+      "type": "Tool",
+      "description": "An elegant and simple to use staking tool for EOS.",
+      "url": "https://staker.one",
+      "hasimage": "1"
+    },
+    {
       "applink": "runprice.info",
       "name": "RUN!PRICE",
       "type": "Gambling",
