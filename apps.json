@@ -104,11 +104,11 @@
       "hasimage": "1"
     },
     {
-      "applink": "magnetic.avarkey.com",
+      "applink": "magnetic.live",
       "name": "Magnetic",
       "type": "Game",
       "description": "Magnetic is a predictive quiz social game, which is a service to receive rewards if predictions are made through O/X on questions.",
-      "url": "https://magnetic.avarkey.com",
+      "url": "https://magnetic.live",
       "hasimage": "1"
     },
     {
@@ -1085,6 +1085,14 @@
       "type": "Game",
       "description": "Combining multiple blockchains in the perfect synergy between technology and games in one epic world where players will decide who’s tougher! 0xWarriors is a Multi Blockchain-based game releasing on EOS, Tron and Ethereum in the coming months! More cryptocurrencies to be added in the near future!",
       "url": "https://0xracers.com",
+      "hasimage": "1"
+    },
+    {
+      "applink": "hands.magnetic.live",
+      "name": "MagHands",
+      "type": "Game",
+      "description": "MagHands is Rock-Scissors-Paper Battle Game, which is a service to receive rewards if you win a battle with your opponent.",
+      "url": "https://hands.magnetic.live",
       "hasimage": "1"
     }
   ]
