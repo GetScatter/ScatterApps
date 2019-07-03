@@ -528,11 +528,11 @@
       "hasimage": "1"
     },
     {
-      "applink": "live.wallet.trybe.one",
+      "applink": "trybe.one",
       "name": "Trybe",
-      "type": "Wallet",
-      "description": "Trybe Web Wallet",
-      "url": "https://live.wallet.trybe.one",
+      "type": "Social",
+      "description": "A crypto-powered social network and media publishing community.",
+      "url": "https://trybe.one/wallet",
       "hasimage": "1"
     },
     {
