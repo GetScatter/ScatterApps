@@ -1035,7 +1035,15 @@
       "description": "Most Exciting, Fun and Top Quality Casino Games in EOS World!",
       "url": "https://mycryptovegas.io",
       "hasimage":"1"
-    }	  
+    },
+    {
+      "applink": "fomotoken.one",
+      "name": "FOMO Token", 
+      "type": "Game",
+      "description": "The first EOS token that can only be created via claiming with a 1% burn fee on transfers",
+      "url": "https://fomotoken.one",
+      "hasimage":"1"
+    }
   ],
   "Ethereum": [
 
