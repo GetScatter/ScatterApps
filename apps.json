@@ -801,7 +801,7 @@
       "name": "STName",
       "type": "Tool",
       "description": "Users can bid on premium accounts suffixed with '.eos', '.com', '.io', '.bank', '.games'",
-      "url": "https://stname.starteos.io",
+      "url": "http://stname.starteos.io",
       "hasimage": "1"
     },
     {
