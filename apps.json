@@ -813,14 +813,6 @@
       "hasimage": "1"
     },
     {
-      "applink": "gamebet.one",
-      "name": "GameBet",
-      "type": "Gambling",
-      "description": "based on EOS contract games",
-      "url": "http://gamebet.one/",
-      "hasimage": "1"
-    },
-    {
       "applink": "prospectors.io",
       "name": "Prospectors",
       "type": "Game",
