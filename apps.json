@@ -1003,6 +1003,30 @@
       "description": "The first EOS token that can only be created via claiming with a 1% burn fee on transfers",
       "url": "https://fomotoken.one",
       "hasimage":"1"
+    },
+    {
+      "applink": "eossanguo.one",
+      "name": "Three Kingdoms", 
+      "type": "Game",
+      "description": "EOS Dynasty is the first RPG and PvP game on the blockchain. Players can enhance their heroes through collecting materials, forging equipments and domestication mounts. ",
+      "url": "https://eossanguo.one",
+      "hasimage":"1"
+    },
+    {
+      "applink": "cryptoswordandmagic.com",
+      "name": "Sword and Magic", 
+      "type": "Game",
+      "description": "Crypto Sword and Magic is a traditional RPG game that raises heroes and challenges new dungeons. Data of all heroes, equipment, and pets are recorded on the EOS blockchain, and the game logic works on the Smart Contract. Even when you are not playing the game, you can always play with others in a mercenary mode. Hop into the world with your heroes!",
+      "url": "https://www.cryptoswordandmagic.com",
+      "hasimage":"1"
+    },
+    {
+      "applink": "cryptoswordandmagic.com",
+      "name": "Sword and Magic", 
+      "type": "Game",
+      "description": "Crypto Sword and Magic is a traditional RPG game that raises heroes and challenges new dungeons. Data of all heroes, equipment, and pets are recorded on the EOS blockchain, and the game logic works on the Smart Contract. Even when you are not playing the game, you can always play with others in a mercenary mode. Hop into the world with your heroes!",
+      "url": "https://www.cryptoswordandmagic.com",
+      "hasimage":"1"
     }
   ],
   "Ethereum": [
