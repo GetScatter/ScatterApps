@@ -137,8 +137,7 @@
       "name": "EOS Gift Card",
       "type": "Wallet",
       "description": "Easily create new EOS accounts for friends, family or co-workers in form of PDF files, e.g. as a birthday present. The accounts are fully pre-configured with CPU, NET and RAM!",
-      "url": "https://eosgiftcard.com",
-      "hasimage": "1"
+      "url": "https://eosgiftcard.com"
     },
     {
       "applink": "bethash.io",
