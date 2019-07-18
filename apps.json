@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+      "applink": "yoloswap.com",
+      "name": "YOLO",
+      "type": "Exchange",
+      "description": "Instant EOS Token Swaps",
+      "url": "https://yoloswap.com",
+      "hasimage": "1"
+    },
+    {
       "applink": "staker.one",
       "name": "Staker.One",
       "type": "Tool",
