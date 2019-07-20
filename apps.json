@@ -1027,6 +1027,14 @@
       "description": "Crypto Sword and Magic is a traditional RPG game that raises heroes and challenges new dungeons. Data of all heroes, equipment, and pets are recorded on the EOS blockchain, and the game logic works on the Smart Contract. Even when you are not playing the game, you can always play with others in a mercenary mode. Hop into the world with your heroes!",
       "url": "https://www.cryptoswordandmagic.com",
       "hasimage":"1"
+    },
+    {
+      "applink": "marketcap.one",
+      "name": "marketcap.one",
+      "type": "Tool",
+      "description": "EOS tokens. Prices, exchanges, charts.",
+      "url": "https://marketcap.one",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
@@ -1063,14 +1071,6 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
-    },
-    {
-      "applink": "marketcap.one",
-      "name": "marketcap.one",
-      "type": "Tool",
-      "description": "EOS token marketcaps, price charts and metrics.",
-      "url": "https://marketcap.one",
-      "hasimage": "1"
     },
     {
       "applink": "betcity.one",
