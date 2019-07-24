@@ -1094,6 +1094,14 @@
       "description": "MagHands is Rock-Scissors-Paper Battle Game, which is a service to receive rewards if you win a battle with your opponent.",
       "url": "https://hands.magnetic.live",
       "hasimage": "1"
+    },
+	{
+      "applink": "dapp.atidium.io",
+      "name": "Atidium Pay",
+      "type": "Payment",
+      "description": "Atidium Pay is the world's first EOS app that turns your tokens into smart money.",
+      "url": "https://dapp.atidium.io",
+      "hasimage": "1"
     }
   ]
 }
