@@ -1035,6 +1035,15 @@
       "description": "EOS tokens. Prices, exchanges, charts.",
       "url": "https://marketcap.one",
       "hasimage": "1"
+    },
+    {
+      "applink": "betpink.gg",
+      "name": "betpink.gg",
+      "type": "Gambling",
+      "description": "Wax gambling site which uses the bankroll dapp of https://pink.network",
+      "url": "https://betpink.gg",
+      "hasimage": "1",
+      "subdomains":["*"]
     }
   ],
   "Ethereum": [
