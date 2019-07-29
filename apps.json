@@ -1035,6 +1035,14 @@
       "description": "EOS tokens. Prices, exchanges, charts.",
       "url": "https://marketcap.one",
       "hasimage": "1"
+    },
+    {
+      "applink": "eosfinex.com",
+      "name": "eosfinex",
+      "type": "Exchange",
+      "description": "A high-performance, on-chain exchange built on EOSio. Developed by Bitfinex, the most advanced digital asset trading platform.",
+      "url": "https://eosfinex.com",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
