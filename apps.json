@@ -17,6 +17,14 @@
       "hasimage": "1"
     },
     {
+      "applink": "vig.ai",
+      "name": "VIGOR",
+      "type": "Tool",
+      "description": "A stablecoin borrow and earn community",
+      "url": "https://vig.ai",
+      "hasimage": "1"
+    },  
+    {
       "applink": "chintai.io",
       "name": "Chintai CHEX Auction Portal",
       "type": "Tool",
