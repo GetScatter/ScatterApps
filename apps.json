@@ -1094,6 +1094,14 @@
       "description": "MagHands is Rock-Scissors-Paper Battle Game, which is a service to receive rewards if you win a battle with your opponent.",
       "url": "https://hands.magnetic.live",
       "hasimage": "1"
-    }
+    },
+	{
+	  "applink": "ExplorEOS",
+	  "name": "ExplorEOS",
+	  "type": "Tool",
+	  "description": "ExplorEOS connects directly to EOS.IO blockchain to bring you a quick overview of the EOS resources for a specified EOS account. Particularly good when you are on the go.",
+	  "url": "https://swisseos.com/",
+	  "hasimage": "1"
+	}
   ]
 }
