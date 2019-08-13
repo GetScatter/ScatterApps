@@ -1043,6 +1043,14 @@
       "description": "A high-performance, on-chain exchange built on EOSio. Developed by Bitfinex, the most advanced digital asset trading platform.",
       "url": "https://eosfinex.com",
       "hasimage": "1"
+    },
+    {
+      "applink": "betx.games",
+      "name": "BETX",
+      "type": "Gambling",
+      "description": "Enjoy 360 EOS daily dividend on BETX, the top 10 games on EOS!",
+      "url": "https://betx.games/",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
