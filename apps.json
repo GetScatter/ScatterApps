@@ -17,6 +17,14 @@
       "hasimage": "1"
     },
     {
+      "applink": "vig.ai",
+      "name": "VIGOR",
+      "type": "Tool",
+      "description": "A stablecoin borrow and earn community.",
+      "url": "https://vig.ai",
+      "hasimage": "1"
+    },  
+    {
       "applink": "chintai.io",
       "name": "Chintai CHEX Auction Portal",
       "type": "Tool",
@@ -120,13 +128,13 @@
       "hasimage": "1"
     },
     {
-			"applink": "ipse.io",
-			"name": "IPSE",
-			"type": "Tool",
-			"description": "IPSE, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
-			"url": "https://ipse.io",
-			"hasimage": "1"
-		}, 
+      "applink": "ipse.io",
+      "name": "IPSE",
+      "type": "Tool",
+      "description": "IPSE, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
+      "url": "https://ipse.io",
+      "hasimage": "1"
+    },
     {
       "applink": "www.eosdividends.com",
       "name": "EOS Dividends",
@@ -168,11 +176,11 @@
       "hasimage": "1"
     },
     {
-      "applink": "eosminerbot.io",
-      "name": "EOS Miner Bot",
+      "applink": "eosbots.io",
+      "name": "EOS Bots",
       "type": "Tool",
-      "description": "Mining utility bot for EOS based dice tokens.",
-      "url": "https://www.eosminerbot.io/",
+      "description": "Automation solutions for EOS based gaming, token markets, and account management.",
+      "url": "https://www.eosbots.io/",
       "hasimage": "1"
     },
     {
@@ -656,14 +664,6 @@
       "hasimage": "1"
     },
     {
-      "applink": "betx.fun",
-      "name": "BetX",
-      "type": "Gambling",
-      "description": "",
-      "url": "https://betx.fun/",
-      "hasimage": "1"
-    },
-    {
       "applink": "dice.gamesky.io",
       "name": "GameSky",
       "type": "Gambling",
@@ -853,14 +853,6 @@
       "hasimage": "1"
     },
     {
-      "applink": "eosabc.io",
-      "name": "eosabc",
-      "type": "Gambling",
-      "description": "eosabc is the largest gaming platform on EOS blockchain. Users can earn EOSABC tokens from playing, and then get hourly dividends from staking. Both the platform and the token are based on user-centered design, which gives our users the best gaming experience.",
-      "url": "https://eosabc.io/",
-      "hasimage": "1"
-    },
-    {
       "applink": "eosflappybird.bogo.one",
       "name": "Flappybird",
       "type": "Game",
@@ -1029,11 +1021,27 @@
       "hasimage":"1"
     },
     {
+      "applink": "dsp.eosnation.io",
+      "name": "DSP Portal",
+      "type": "Tool",
+      "description": "The EOS Nation DSP Portal provides a user-friendly way to access all services offered by the DAPP Service Providers (DSP). As DAPP Network Utility our Portal offers a wide range of information and actions with an intuitive interface and a great user experience.",
+      "url": "https://dsp.eosnation.io",
+      "hasimage": "1"
+    },
+    {
       "applink": "marketcap.one",
       "name": "marketcap.one",
       "type": "Tool",
       "description": "EOS tokens. Prices, exchanges, charts.",
       "url": "https://marketcap.one",
+      "hasimage": "1"
+    },
+    {
+      "applink": "eosfinex.com",
+      "name": "eosfinex",
+      "type": "Exchange",
+      "description": "A high-performance, on-chain exchange built on EOSio. Developed by Bitfinex, the most advanced digital asset trading platform.",
+      "url": "https://eosfinex.com",
       "hasimage": "1"
     },
     {
