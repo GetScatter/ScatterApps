@@ -168,11 +168,11 @@
       "hasimage": "1"
     },
     {
-      "applink": "eosminerbot.io",
-      "name": "EOS Miner Bot",
+      "applink": "eosbots.io",
+      "name": "EOS Bots",
       "type": "Tool",
-      "description": "Mining utility bot for EOS based dice tokens.",
-      "url": "https://www.eosminerbot.io/",
+      "description": "Automation solutions for EOS based gaming, token markets, and account management.",
+      "url": "https://www.eosbots.io/",
       "hasimage": "1"
     },
     {
