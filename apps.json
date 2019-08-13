@@ -656,14 +656,6 @@
       "hasimage": "1"
     },
     {
-      "applink": "betx.fun",
-      "name": "BetX",
-      "type": "Gambling",
-      "description": "",
-      "url": "https://betx.fun/",
-      "hasimage": "1"
-    },
-    {
       "applink": "dice.gamesky.io",
       "name": "GameSky",
       "type": "Gambling",
@@ -1035,6 +1027,14 @@
       "description": "The EOS Nation DSP Portal provides a user-friendly way to access all services offered by the DAPP Service Providers (DSP). As DAPP Network Utility our Portal offers a wide range of information and actions with an intuitive interface and a great user experience.",
       "url": "https://dsp.eosnation.io",
       "hasimage": "1"
+    },
+    {
+      "applink": "marketcap.one",
+      "name": "marketcap.one",
+      "type": "Tool",
+      "description": "EOS tokens. Prices, exchanges, charts.",
+      "url": "https://marketcap.one",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
@@ -1071,14 +1071,6 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
-    },
-    {
-      "applink": "marketcap.one",
-      "name": "marketcap.one",
-      "type": "Tool",
-      "description": "EOS token marketcaps, price charts and metrics.",
-      "url": "https://marketcap.one",
-      "hasimage": "1"
     },
     {
       "applink": "betcity.one",
