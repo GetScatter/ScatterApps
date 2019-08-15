@@ -1037,19 +1037,20 @@
       "hasimage": "1"
     },
     {
+      "applink": "betpink.gg",
+      "name": "betpink.gg",
+      "type": "Gambling",
+      "description": "BETPINK.gg is a WAX gambling site which uses the bankroll dapp of pink.network and offers a lucky wheel where you can try your luck! Since it runs completely on the blockchain, it is 100% probably fair!",
+      "url": "https://betpink.gg",
+      "hasimage": "1",
+      "subdomains":["*"]
+    },
+    {
       "applink": "eosfinex.com",
       "name": "eosfinex",
       "type": "Exchange",
       "description": "A high-performance, on-chain exchange built on EOSio. Developed by Bitfinex, the most advanced digital asset trading platform.",
       "url": "https://eosfinex.com",
-      "hasimage": "1"
-    },
-    {
-      "applink": "betx.games",
-      "name": "BETX",
-      "type": "Gambling",
-      "description": "Enjoy 360 EOS daily dividend on BETX, the top 10 games on EOS!",
-      "url": "https://betx.games/",
       "hasimage": "1"
     }
   ],
