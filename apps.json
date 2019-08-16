@@ -1,7 +1,7 @@
 {
   "EOSIO": [
     {
-      "applink": "Acueos",
+      "applink": "acueos.io",
       "name": "Acueos",
       "type": "Tool",
       "description": "Moneymarket for lenders and borrowers of crypto assets with automated floating interest rates based on supply and demand",
