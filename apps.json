@@ -9,6 +9,22 @@
       "hasimage": "1"
     },
     {
+     "applink": "kolobok.io",
+     "name": "Kolobok",
+     "type": "Game",
+     "description": "Breed, collect, trade Koloboks, and send them on adventures!",
+     "url": "https://kolobok.io/",
+     "hasimage": "1"
+   },
+   {
+     "applink": "simplemarket.io",
+     "name": "Simple Market",
+     "type": "Exchange",
+     "description": "Marketplace for Simple Assets.",
+     "url": "https://simplemarket.io",
+     "hasimage": "1"
+   },
+    {
       "applink": "runprice.info",
       "name": "RUN!PRICE",
       "type": "Gambling",
