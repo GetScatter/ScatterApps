@@ -1052,7 +1052,15 @@
       "description": "A high-performance, on-chain exchange built on EOSio. Developed by Bitfinex, the most advanced digital asset trading platform.",
       "url": "https://eosfinex.com",
       "hasimage": "1"
-    }
+    },
+	{  
+	  "applink": "exploreos",  
+	  "name": "ExplorEOS",  
+	  "type": "Tool",  
+	  "description": "ExplorEOS connects directly to EOS.IO blockchain to bring you a quick overview of the EOS resources for a specified EOS account. Particularly good when you are on the go.",  
+	  "url": "https://swisseos.com/",  
+	  "hasimage": "1"  
+	}
   ],
   "Ethereum": [
 
