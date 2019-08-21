@@ -1119,6 +1119,14 @@
       "description": "Atidium Pay is the world's first EOS app that turns your tokens into smart money.",
       "url": "https://dapp.atidium.io",
       "hasimage": "1"
+    },
+    {
+      "applink": "dapp.swirld.io",
+      "name": "Swirld",
+      "type": "Social",
+      "description": "Earn rewards by adding and sharing content on the Blockchain.",
+      "url": "https://dapp.swirld.io",
+      "hasimage": "1"
     }
   ]
 }
