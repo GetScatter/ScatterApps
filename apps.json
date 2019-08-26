@@ -1119,6 +1119,14 @@
       "description": "Atidium Pay is the world's first EOS app that turns your tokens into smart money.",
       "url": "https://dapp.atidium.io",
       "hasimage": "1"
+    },
+	{
+      "applink": "powh.fund",
+      "name": "POW Ecosystem",
+      "type": "Exchange",
+      "description": "Proof of Weak Hands (POWh) is an EOS based exchange that shares benefits from activity on the platform (token buys, sells or transfers) to all POW token holders in transparent and verifiable manner. Price setting mechanics is defined in a smart contract. Exchange operates under a perfect economic simulation where each POW token grants you a stake of all cryptocurrency volume.",
+      "url": "https://powh.fund/dapp",
+      "hasimage": "1"
     }
   ]
 }
