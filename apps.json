@@ -1052,6 +1052,14 @@
       "description": "A high-performance, on-chain exchange built on EOSio. Developed by Bitfinex, the most advanced digital asset trading platform.",
       "url": "https://eosfinex.com",
       "hasimage": "1"
+    },
+    {
+      "applink": "goldenchip.io",
+      "name": "GCHIP",
+      "type": "Gambling",
+      "description": "Best EOS Profit-Sharing Gambling Platform.",
+      "url": "https://goldenchip.io",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
