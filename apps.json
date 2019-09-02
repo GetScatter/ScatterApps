@@ -17,6 +17,14 @@
       "hasimage": "1"
     },
     {
+      "applink": "vig.ai",
+      "name": "VIGOR",
+      "type": "Tool",
+      "description": "A stablecoin borrow and earn community.",
+      "url": "https://vig.ai",
+      "hasimage": "1"
+    },  
+    {
       "applink": "chintai.io",
       "name": "Chintai CHEX Auction Portal",
       "type": "Tool",
@@ -120,13 +128,13 @@
       "hasimage": "1"
     },
     {
-			"applink": "ipse.io",
-			"name": "IPSE",
-			"type": "Tool",
-			"description": "IPSE, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
-			"url": "https://ipse.io",
-			"hasimage": "1"
-		}, 
+      "applink": "ipse.io",
+      "name": "IPSE",
+      "type": "Tool",
+      "description": "IPSE, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
+      "url": "https://ipse.io",
+      "hasimage": "1"
+    },
     {
       "applink": "www.eosdividends.com",
       "name": "EOS Dividends",
@@ -176,11 +184,11 @@
       "hasimage": "1"
     },
     {
-      "applink": "eosminerbot.io",
-      "name": "EOS Miner Bot",
+      "applink": "eosbots.io",
+      "name": "EOS Bots",
       "type": "Tool",
-      "description": "Mining utility bot for EOS based dice tokens.",
-      "url": "https://www.eosminerbot.io/",
+      "description": "Automation solutions for EOS based gaming, token markets, and account management.",
+      "url": "https://www.eosbots.io/",
       "hasimage": "1"
     },
     {
@@ -1021,11 +1029,36 @@
       "hasimage":"1"
     },
     {
+      "applink": "dsp.eosnation.io",
+      "name": "DSP Portal",
+      "type": "Tool",
+      "description": "The EOS Nation DSP Portal provides a user-friendly way to access all services offered by the DAPP Service Providers (DSP). As DAPP Network Utility our Portal offers a wide range of information and actions with an intuitive interface and a great user experience.",
+      "url": "https://dsp.eosnation.io",
+      "hasimage": "1"
+    },
+    {
       "applink": "marketcap.one",
       "name": "marketcap.one",
       "type": "Tool",
       "description": "EOS tokens. Prices, exchanges, charts.",
       "url": "https://marketcap.one",
+      "hasimage": "1"
+    },
+    {
+      "applink": "betpink.gg",
+      "name": "betpink.gg",
+      "type": "Gambling",
+      "description": "BETPINK.gg is a WAX gambling site which uses the bankroll dapp of pink.network and offers a lucky wheel where you can try your luck! Since it runs completely on the blockchain, it is 100% probably fair!",
+      "url": "https://betpink.gg",
+      "hasimage": "1",
+      "subdomains":["*"]
+    },
+    {
+      "applink": "eosfinex.com",
+      "name": "eosfinex",
+      "type": "Exchange",
+      "description": "A high-performance, on-chain exchange built on EOSio. Developed by Bitfinex, the most advanced digital asset trading platform.",
+      "url": "https://eosfinex.com",
       "hasimage": "1"
     }
   ],
@@ -1085,6 +1118,14 @@
       "type": "Game",
       "description": "MagHands is Rock-Scissors-Paper Battle Game, which is a service to receive rewards if you win a battle with your opponent.",
       "url": "https://hands.magnetic.live",
+      "hasimage": "1"
+    },
+	{
+      "applink": "dapp.atidium.io",
+      "name": "Atidium Pay",
+      "type": "Payment",
+      "description": "Atidium Pay is the world's first EOS app that turns your tokens into smart money.",
+      "url": "https://dapp.atidium.io",
       "hasimage": "1"
     }
   ]
