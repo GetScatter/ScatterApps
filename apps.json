@@ -144,6 +144,14 @@
       "hasimage": "1"
     },
     {
+      "applink": "newdex.io",
+      "name": "Newdex",
+      "type": "Exchange",
+      "description": "Newdex is the world's first decentralized exchange based on EOS ecology, featuring security, transparency and speed, leading the industry to enter a wonderful new era of decentralized trading. ",
+      "url": "https://newdex.io/",
+      "hasimage": "1"
+    },
+    {
       "applink": "bethash.io",
       "name": "BetHash",
       "type": "Gambling",
@@ -842,14 +850,6 @@
       "type": "Tool",
       "description": "Visualize your staking rewards",
       "url": "https://www.eospayout.com",
-      "hasimage": "1"
-    },
-    {
-      "applink": "eosabc.io",
-      "name": "eosabc",
-      "type": "Gambling",
-      "description": "eosabc is the largest gaming platform on EOS blockchain. Users can earn EOSABC tokens from playing, and then get hourly dividends from staking. Both the platform and the token are based on user-centered design, which gives our users the best gaming experience.",
-      "url": "https://eosabc.io/",
       "hasimage": "1"
     },
     {
