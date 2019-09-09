@@ -1060,6 +1060,15 @@
       "description": "A high-performance, on-chain exchange built on EOSio. Developed by Bitfinex, the most advanced digital asset trading platform.",
       "url": "https://eosfinex.com",
       "hasimage": "1"
+    },
+    {
+      "applink":"dappspinach.io", 
+      "name":"Spinach", 
+      "type":"Gambling", 
+      "description":"參加活動，贏EOS大獎！ Attend the event and win EOS awards!",
+      "url":"https://dappspinach.io", 
+      "hasimage":"1", 
+      "subdomains":["*"] 
     }
   ],
   "Ethereum": [
