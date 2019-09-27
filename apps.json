@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+      "applink": "prediqt",
+      "name": "PredIQt",
+      "type": "Educational",
+      "description": "Knowledge Market by Everipedia.",
+      "url": "https://prediqt.everipedia.org",
+      "hasimage": "1"
+    },
+    {
       "applink": "staker.one",
       "name": "Staker.One",
       "type": "Tool",
