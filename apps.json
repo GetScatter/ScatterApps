@@ -1,6 +1,15 @@
 {
   "EOSIO": [
     {
+      "applink": "cadeos.io",
+      "name": "CADEOS.io",
+      "type": "PLM",
+      "description": "Decentralized CAD.files & Project Management Platform",
+      "url": "https://cadeos.io/",
+      "hasimage": "1"	      
+    },  
+	  
+    {
       "applink": "staker.one",
       "name": "Staker.One",
       "type": "Tool",
