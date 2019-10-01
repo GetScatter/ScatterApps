@@ -1068,7 +1068,16 @@
 	  "description": "ExplorEOS connects directly to EOS.IO blockchain to bring you a quick overview of the EOS resources for a specified EOS account. Particularly good when you are on the go.",  
 	  "url": "https://swisseos.com/",  
 	  "hasimage": "1"  
-	}
+	},
+    {
+      "applink":"dappspinach.io", 
+      "name":"Spinach", 
+      "type":"Gambling", 
+      "description":"參加活動，贏EOS大獎！ Attend the event and win EOS awards!",
+      "url":"https://dappspinach.io", 
+      "hasimage":"1", 
+      "subdomains":["*"] 
+    }
   ],
   "Ethereum": [
 
