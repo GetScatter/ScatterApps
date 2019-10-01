@@ -1136,6 +1136,13 @@
       "description": "Atidium Pay is the world's first EOS app that turns your tokens into smart money.",
       "url": "https://dapp.atidium.io",
       "hasimage": "1"
+    },
+	        "applink": "cadeos.io",
+      "name": "CADEOS.io",
+      "type": "PLM",
+      "description": "Decentralized CAD.files & Project Management Platform",
+      "url": "https://cadeos.io",
+      "hasimage": "1"	      
     }
   ]
 }
