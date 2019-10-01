@@ -1140,7 +1140,7 @@
 	{
       "applink": "cadeos.io",
       "name": "CADEOS.io",
-      "type": "PLM",
+      "type": "Tool",
       "description": "Decentralized CAD.files & Project Management Platform",
       "url": "https://cadeos.io",
       "hasimage": "1"	      
