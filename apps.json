@@ -1137,7 +1137,8 @@
       "url": "https://dapp.atidium.io",
       "hasimage": "1"
     },
-	        "applink": "cadeos.io",
+	{
+      "applink": "cadeos.io",
       "name": "CADEOS.io",
       "type": "PLM",
       "description": "Decentralized CAD.files & Project Management Platform",
