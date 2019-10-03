@@ -1,5 +1,13 @@
 {
   "EOSIO": [
+     {
+      "applink": "emanate.live",
+      "name": "Emanate",
+      "type": "Social",
+      "description": "Emanate is the world's fastest music monetisation platform, splitting payments between collaborators and rights holders instantly as audio is consumed.",
+      "url": "https://emanate.live",
+      "hasimage": "1"
+    },
     {
       "applink": "staker.one",
       "name": "Staker.One",
