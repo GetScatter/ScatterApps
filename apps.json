@@ -23,7 +23,7 @@
       "description": "A stablecoin borrow and earn community.",
       "url": "https://vig.ai",
       "hasimage": "1"
-    },  
+    },
     {
       "applink": "chintai.io",
       "name": "Chintai CHEX Auction Portal",
@@ -120,14 +120,6 @@
       "hasimage": "1"
     },
     {
-      "applink": "patreos.com",
-      "name": "Patreos",
-      "type": "Tool",
-      "description": "With Patreos, you support the creators you love, not the platform they use. Share, subscribe, and fund campaigns to promote community growth and creative freedom.",
-      "url": "https://www.patreos.com",
-      "hasimage": "1"
-    },
-    {
       "applink": "ipse.io",
       "name": "IPSE",
       "type": "Tool",
@@ -166,7 +158,7 @@
       "description": "The FAIREST Decentralized Crypto Casino Built on EOS, use hash to draw winning numbers to guarantee absolute Fairness, No Chance for Cheating at All! Generous rewards, high referral bonus!",
       "url": "https://bethash.io",
       "hasimage": "1"
-    },	  
+    },
     {
       "applink": "eosluck.one",
       "name": "EOSLUCK",
@@ -732,7 +724,7 @@
       "type": "Gambling",
       "description": "D-Texas is the world's first PVP Texas Hold'em platform in the blockchain.",
       "url": "https://dtexas.muggles.io/",
-      "hasimage": "1" 
+      "hasimage": "1"
     },
     {
       "applink": "www.pokerking.one",
@@ -866,7 +858,7 @@
       "type": "Game",
       "description": "A contest game which allow user to manually control the flappy bird racing against AI trained bird!",
       "url": "https://eosflappybird.bogo.one",
-      "hasimage": "1"   
+      "hasimage": "1"
     },
     {
       "applink": "eoscrash.app",
@@ -894,7 +886,7 @@
     },
     {
       "applink": "solitaireduel.io",
-      "name": "Solitaire Duel", 
+      "name": "Solitaire Duel",
       "type": "Game",
       "description": "1 on 1 Solitaire with EOS prize! First ever game of skill on EOS Blockchain",
       "url": "https://solitaireduel.io",
@@ -990,7 +982,7 @@
     },
     {
       "applink": "mycryptovegas.io",
-      "name": "My Crypto Vegas", 
+      "name": "My Crypto Vegas",
       "type": "Gambling",
       "description": "Most Exciting, Fun and Top Quality Casino Games in EOS World!",
       "url": "https://mycryptovegas.io",
@@ -998,7 +990,7 @@
     },
     {
       "applink": "fomotoken.one",
-      "name": "FOMO Token", 
+      "name": "FOMO Token",
       "type": "Game",
       "description": "The first EOS token that can only be created via claiming with a 1% burn fee on transfers",
       "url": "https://fomotoken.one",
@@ -1006,7 +998,7 @@
     },
     {
       "applink": "eossanguo.one",
-      "name": "Three Kingdoms", 
+      "name": "Three Kingdoms",
       "type": "Game",
       "description": "EOS Dynasty is the first RPG and PvP game on the blockchain. Players can enhance their heroes through collecting materials, forging equipments and domestication mounts. ",
       "url": "https://eossanguo.one",
@@ -1014,7 +1006,7 @@
     },
     {
       "applink": "cryptoswordandmagic.com",
-      "name": "Sword and Magic", 
+      "name": "Sword and Magic",
       "type": "Game",
       "description": "Crypto Sword and Magic is a traditional RPG game that raises heroes and challenges new dungeons. Data of all heroes, equipment, and pets are recorded on the EOS blockchain, and the game logic works on the Smart Contract. Even when you are not playing the game, you can always play with others in a mercenary mode. Hop into the world with your heroes!",
       "url": "https://www.cryptoswordandmagic.com",
@@ -1022,7 +1014,7 @@
     },
     {
       "applink": "cryptoswordandmagic.com",
-      "name": "Sword and Magic", 
+      "name": "Sword and Magic",
       "type": "Game",
       "description": "Crypto Sword and Magic is a traditional RPG game that raises heroes and challenges new dungeons. Data of all heroes, equipment, and pets are recorded on the EOS blockchain, and the game logic works on the Smart Contract. Even when you are not playing the game, you can always play with others in a mercenary mode. Hop into the world with your heroes!",
       "url": "https://www.cryptoswordandmagic.com",
@@ -1062,13 +1054,13 @@
       "hasimage": "1"
     },
     {
-      "applink":"dappspinach.io", 
-      "name":"Spinach", 
-      "type":"Gambling", 
+      "applink":"dappspinach.io",
+      "name":"Spinach",
+      "type":"Gambling",
       "description":"參加活動，贏EOS大獎！ Attend the event and win EOS awards!",
-      "url":"https://dappspinach.io", 
-      "hasimage":"1", 
-      "subdomains":["*"] 
+      "url":"https://dappspinach.io",
+      "hasimage":"1",
+      "subdomains":["*"]
     }
   ],
   "Ethereum": [
