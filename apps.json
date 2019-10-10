@@ -754,7 +754,8 @@
       "name": "Murmur",
       "type": "Social",
       "description": "Murmur is a micro-blogging platform built on the EOS Blockchain that gives users the ability to share freely, control their data, trace the origins of any story and get content rewards.",
-      "url": "https://murmurdapp.com"
+      "url": "https://murmurdapp.com",
+      "hasimage": "1"
     },
     {
       "applink": "betsand.com",
