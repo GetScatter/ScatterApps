@@ -1062,6 +1062,15 @@
       "url":"https://dappspinach.io",
       "hasimage":"1",
       "subdomains":["*"]
+    },
+    {
+      "applink": "pay.privex.io",
+      "name": "Privex Payment Gateway",
+      "type": "Payment",
+      "description": "Privex - Private, fast, and low cost servers for cryptocurrency",
+      "url": "https://privex.io",
+      "hasimage": "1",
+      "subdomains":["*"]
     }
   ],
   "Ethereum": [
