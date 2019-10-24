@@ -1185,7 +1185,8 @@
       "description": "Earn rewards by adding and sharing content on the Blockchain.",
       "url": "https://dapp.swirld.io",
       "hasimage": "1"
-	  {
+	  },
+    {
       "applink": "eosswap.io",
       "name": "EOSSWAP",
       "type": "Exchange",
