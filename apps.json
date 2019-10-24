@@ -17,6 +17,14 @@
       "hasimage": "1"
     },
     {
+      "applink": "acueos.io",
+      "name": "Acueos",
+      "type": "Tool",
+      "description": "Moneymarket for lenders and borrowers of crypto assets with automated floating interest rates based on supply and demand",
+      "url": "https://acueos.io",
+      "hasimage": "1"
+    },	  
+    {
       "applink": "staker.one",
       "name": "Staker.One",
       "type": "Tool",
