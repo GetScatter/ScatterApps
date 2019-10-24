@@ -1170,7 +1170,7 @@
       "url": "https://hands.magnetic.live",
       "hasimage": "1"
     },
-	{
+	  {
       "applink": "dapp.atidium.io",
       "name": "Atidium Pay",
       "type": "Payment",
@@ -1178,7 +1178,15 @@
       "url": "https://dapp.atidium.io",
       "hasimage": "1"
     },
-	{
+	  {
+      "applink": "eosswap.io",
+      "name": "EOSSWAP",
+      "type": "Exchange",
+      "description": "Flexible Decentralized OTC exchange of eosio tokens.",
+      "url": "https://eosswap.io",
+      "hasimage": "1"
+    },
+	  {
       "applink": "powh.fund",
       "name": "POW Ecosystem",
       "type": "Exchange",
