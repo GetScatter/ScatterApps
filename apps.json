@@ -1,5 +1,29 @@
 {
   "EOSIO": [
+     {
+      "applink": "emanate.live",
+      "name": "Emanate",
+      "type": "Social",
+      "description": "Emanate is the world's fastest music monetisation platform, splitting payments between collaborators and rights holders instantly as audio is consumed.",
+      "url": "https://emanate.live",
+      "hasimage": "1"
+    },
+    {
+      "applink": "prediqt",
+      "name": "PredIQt",
+      "type": "Educational",
+      "description": "Knowledge Market by Everipedia.",
+      "url": "https://prediqt.everipedia.org",
+      "hasimage": "1"
+    },
+    {
+      "applink": "acueos.io",
+      "name": "Acueos",
+      "type": "Tool",
+      "description": "Moneymarket for lenders and borrowers of crypto assets with automated floating interest rates based on supply and demand",
+      "url": "https://acueos.io",
+      "hasimage": "1"
+    },	  
     {
       "applink": "staker.one",
       "name": "Staker.One",
@@ -8,6 +32,22 @@
       "url": "https://staker.one",
       "hasimage": "1"
     },
+    {
+     "applink": "kolobok.io",
+     "name": "Kolobok",
+     "type": "Game",
+     "description": "Breed, collect, trade Koloboks, and send them on adventures!",
+     "url": "https://kolobok.io/",
+     "hasimage": "1"
+   },
+   {
+     "applink": "simplemarket.io",
+     "name": "Simple Market",
+     "type": "Exchange",
+     "description": "Marketplace for Simple Assets.",
+     "url": "https://simplemarket.io",
+     "hasimage": "1"
+   },
     {
       "applink": "runprice.info",
       "name": "RUN!PRICE",
@@ -1055,6 +1095,14 @@
       "hasimage": "1"
     },
     {
+      "applink": "goldenchip.io",
+      "name": "GoldenChip",
+      "type": "Gambling",
+      "description": "Best EOS Profit-Sharing Gambling Platform.",
+      "url": "https://goldenchip.io",
+      "hasimage": "1"
+    },
+    {
       "applink":"dappspinach.io",
       "name":"Spinach",
       "type":"Gambling",
@@ -1122,7 +1170,7 @@
       "url": "https://hands.magnetic.live",
       "hasimage": "1"
     },
-	{
+	  {
       "applink": "dapp.atidium.io",
       "name": "Atidium Pay",
       "type": "Payment",
@@ -1138,6 +1186,29 @@
       "url": "https://fancy.center",
       "hasimage": "1",
       "subdomains":["*"]
+    },
+    {
+      "applink": "dapp.swirld.io",
+      "name": "Swirld",
+      "type": "Social",
+      "description": "Earn rewards by adding and sharing content on the Blockchain.",
+      "url": "https://dapp.swirld.io",
+      "hasimage": "1"
+	  {
+      "applink": "eosswap.io",
+      "name": "EOSSWAP",
+      "type": "Exchange",
+      "description": "Flexible Decentralized OTC exchange of eosio tokens.",
+      "url": "https://eosswap.io",
+      "hasimage": "1"
+    },
+	  {
+      "applink": "powh.fund",
+      "name": "POW Ecosystem",
+      "type": "Exchange",
+      "description": "Proof of Weak Hands (POWh) is an EOS based exchange that shares benefits from activity on the platform (token buys, sells or transfers) to all POW token holders in transparent and verifiable manner. Price setting mechanics is defined in a smart contract. Exchange operates under a perfect economic simulation where each POW token grants you a stake of all cryptocurrency volume.",
+      "url": "https://powh.fund/dapp",
+      "hasimage": "1"
     }
   ]
 }
