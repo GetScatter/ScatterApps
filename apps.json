@@ -1054,14 +1054,6 @@
       "hasimage":"1"
     },
     {
-      "applink": "cryptoswordandmagic.com",
-      "name": "Sword and Magic",
-      "type": "Game",
-      "description": "Crypto Sword and Magic is a traditional RPG game that raises heroes and challenges new dungeons. Data of all heroes, equipment, and pets are recorded on the EOS blockchain, and the game logic works on the Smart Contract. Even when you are not playing the game, you can always play with others in a mercenary mode. Hop into the world with your heroes!",
-      "url": "https://www.cryptoswordandmagic.com",
-      "hasimage":"1"
-    },
-    {
       "applink": "dsp.eosnation.io",
       "name": "DSP Portal",
       "type": "Tool",
@@ -1110,6 +1102,38 @@
       "url":"https://dappspinach.io",
       "hasimage":"1",
       "subdomains":["*"]
+    },
+    {
+      "applink": "dapp.swirld.io",
+      "name": "Swirld",
+      "type": "Social",
+      "description": "Earn rewards by adding and sharing content on the Blockchain.",
+      "url": "https://dapp.swirld.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "eosswap.io",
+      "name": "EOSSWAP",
+      "type": "Exchange",
+      "description": "Flexible Decentralized OTC exchange of eosio tokens.",
+      "url": "https://eosswap.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "powh.fund",
+      "name": "POW Ecosystem",
+      "type": "Exchange",
+      "description": "Proof of Weak Hands (POWh) is an EOS based exchange that shares benefits from activity on the platform (token buys, sells or transfers) to all POW token holders in transparent and verifiable manner. Price setting mechanics is defined in a smart contract. Exchange operates under a perfect economic simulation where each POW token grants you a stake of all cryptocurrency volume.",
+      "url": "https://powh.fund/dapp",
+      "hasimage": "1"
+    },
+    {
+      "applink": "play.0xracers.com",
+      "name": "0xRacers",
+      "type": "Game",
+      "description": "Combining multiple blockchains in the perfect synergy between technology and games in one epic world where players will decide who’s tougher! 0xWarriors is a Multi Blockchain-based game releasing on EOS, Tron and Ethereum in the coming months! More cryptocurrencies to be added in the near future!",
+      "url": "https://0xracers.com",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
@@ -1146,61 +1170,6 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
-    },
-    {
-      "applink": "betcity.one",
-      "name": "Bet City",
-      "type": "Gambling",
-      "description": "More funny More lucky!友好幸運的競猜平台!",
-      "url": "https://www.betcity.one"
-    },
-    {
-      "applink": "play.0xracers.com",
-      "name": "0xRacers",
-      "type": "Game",
-      "description": "Combining multiple blockchains in the perfect synergy between technology and games in one epic world where players will decide who’s tougher! 0xWarriors is a Multi Blockchain-based game releasing on EOS, Tron and Ethereum in the coming months! More cryptocurrencies to be added in the near future!",
-      "url": "https://0xracers.com",
-      "hasimage": "1"
-    },
-    {
-      "applink": "hands.magnetic.live",
-      "name": "MagHands",
-      "type": "Game",
-      "description": "MagHands is Rock-Scissors-Paper Battle Game, which is a service to receive rewards if you win a battle with your opponent.",
-      "url": "https://hands.magnetic.live",
-      "hasimage": "1"
-    },
-	  {
-      "applink": "dapp.atidium.io",
-      "name": "Atidium Pay",
-      "type": "Payment",
-      "description": "Atidium Pay is the world's first EOS app that turns your tokens into smart money.",
-      "url": "https://dapp.atidium.io",
-      "hasimage": "1"
-    },
-    {
-      "applink": "dapp.swirld.io",
-      "name": "Swirld",
-      "type": "Social",
-      "description": "Earn rewards by adding and sharing content on the Blockchain.",
-      "url": "https://dapp.swirld.io",
-      "hasimage": "1"
-	  },
-    {
-      "applink": "eosswap.io",
-      "name": "EOSSWAP",
-      "type": "Exchange",
-      "description": "Flexible Decentralized OTC exchange of eosio tokens.",
-      "url": "https://eosswap.io",
-      "hasimage": "1"
-    },
-	  {
-      "applink": "powh.fund",
-      "name": "POW Ecosystem",
-      "type": "Exchange",
-      "description": "Proof of Weak Hands (POWh) is an EOS based exchange that shares benefits from activity on the platform (token buys, sells or transfers) to all POW token holders in transparent and verifiable manner. Price setting mechanics is defined in a smart contract. Exchange operates under a perfect economic simulation where each POW token grants you a stake of all cryptocurrency volume.",
-      "url": "https://powh.fund/dapp",
-      "hasimage": "1"
     }
   ]
 }
