@@ -1,6 +1,6 @@
 {
   "EOSIO": [
-     {
+    {
       "applink": "emanate.live",
       "name": "Emanate",
       "type": "Social",
@@ -33,21 +33,21 @@
       "hasimage": "1"
     },
     {
-     "applink": "kolobok.io",
-     "name": "Kolobok",
-     "type": "Game",
-     "description": "Breed, collect, trade Koloboks, and send them on adventures!",
-     "url": "https://kolobok.io/",
-     "hasimage": "1"
-   },
-   {
-     "applink": "simplemarket.io",
-     "name": "Simple Market",
-     "type": "Exchange",
-     "description": "Marketplace for Simple Assets.",
-     "url": "https://simplemarket.io",
-     "hasimage": "1"
-   },
+      "applink": "kolobok.io",
+      "name": "Kolobok",
+      "type": "Game",
+      "description": "Breed, collect, trade Koloboks, and send them on adventures!",
+      "url": "https://kolobok.io/",
+      "hasimage": "1"
+    },
+    {
+      "applink": "simplemarket.io",
+      "name": "Simple Market",
+      "type": "Exchange",
+      "description": "Marketplace for Simple Assets.",
+      "url": "https://simplemarket.io",
+      "hasimage": "1"
+    },
     {
       "applink": "runprice.info",
       "name": "RUN!PRICE",
@@ -119,7 +119,8 @@
       "description": "Texas Hold'em Poker, Baccarat, Black Jack, PowerBall, Caribbean Poker,Sport etc. The Best Casino Experience On EOS.",
       "url": "https://www.bluebet.one",
       "hasimage": "1"
-    },{
+    },
+    {
       "applink": "game.asteroidrush.io",
       "name": "Asteroid Rush",
       "type": "Game",
@@ -366,7 +367,7 @@
       "description": "Full featured Block Explorer and Toolkit for EOSIO Blockchains",
       "url": "https://bloks.io/",
       "hasimage": "1",
-      "subdomains":["*"]
+      "subdomains": ["*"]
     },
     {
       "applink": "decentwitter.com",
@@ -822,12 +823,12 @@
       "hasimage": "1"
     },
     {
-      "applink":"tipit.io",
-      "name":"Tipit",
-      "type":"Social",
-      "description":"A fast and easy way to send money through social platforms.",
-      "url":"https://tipit.io",
-      "hasimage":"1"
+      "applink": "tipit.io",
+      "name": "Tipit",
+      "type": "Social",
+      "description": "A fast and easy way to send money through social platforms.",
+      "url": "https://tipit.io",
+      "hasimage": "1"
     },
     {
       "applink": "eosreel.io",
@@ -909,7 +910,7 @@
       "url": "https://eoscrash.app/",
       "hasimage": "1"
     },
-	  {
+    {
       "applink": "openbrm.io",
       "name": "OpenBRM",
       "type": "Payment",
@@ -931,7 +932,17 @@
       "type": "Game",
       "description": "1 on 1 Solitaire with EOS prize! First ever game of skill on EOS Blockchain",
       "url": "https://solitaireduel.io",
-      "hasimage":"1"
+      "hasimage": "1",
+      "subdomains": ["*"]
+    },
+    {
+      "applink": "candypopduel.io",
+      "name": "Candypop Duel",
+      "type": "Game",
+      "description": "1 on 1 Match-3 game with EOS prize! Play high quality game of skill!",
+      "url": "https://candypopduel.io",
+      "hasimage": "1",
+      "subdomains": ["*"]
     },
     {
       "applink": "2100.bet",
@@ -939,7 +950,7 @@
       "type": "Gambling",
       "description": "2100.bet EOS Gaming Ecosystem, K3 Lottery Dice.",
       "url": "https://2100.bet",
-      "hasimage":"1"
+      "hasimage": "1"
     },
     {
       "applink": "eoskingdom.io",
@@ -947,7 +958,7 @@
       "type": "Gambling",
       "description": "EOSKingDom(EKD) is a multifaceted game platform developing EOS-based blockchain. The user is provided with a safe, verifiable game platform through a blockchain system. EosKingDom(EKD)是基于EOS.IO区块链系统开发的在线多样化游戏 平台. 我们希望为用户提供一个完全安全, 完全可验证公平性, 去中心化 和无 国界的游戏平台. 我们的目标是开发游戏多样化, 玩法有趣, 体验真实流畅的游戏平台.Eos KingDom通证(EKD)的持有人可从EosKingDom.io平台的游戏利润中 获得红利, 我们将和通证持有人共同分享共同见证平台的发展.",
       "url": "https://eoskingdom.io",
-      "hasimage":"1"
+      "hasimage": "1"
     },
     {
       "applink": "www.xdapp.me",
@@ -955,7 +966,7 @@
       "type": "Gambling",
       "description": "Xdapp 致力于做全球最大的去中心化数字货币在线游戏娱乐平台。 前期将以在线棋牌为主，后续将推出彩票、电子游戏、电竞和体育彩票。现已支持EOS参与游戏，后续将全面支持ETH、Tron等多种数字货币。",
       "url": "https://www.xdapp.me",
-      "hasimage":"1"
+      "hasimage": "1"
     },
     {
       "applink": "eosrex.io",
@@ -1027,7 +1038,7 @@
       "type": "Gambling",
       "description": "Most Exciting, Fun and Top Quality Casino Games in EOS World!",
       "url": "https://mycryptovegas.io",
-      "hasimage":"1"
+      "hasimage": "1"
     },
     {
       "applink": "fomotoken.one",
@@ -1035,7 +1046,7 @@
       "type": "Game",
       "description": "The first EOS token that can only be created via claiming with a 1% burn fee on transfers",
       "url": "https://fomotoken.one",
-      "hasimage":"1"
+      "hasimage": "1"
     },
     {
       "applink": "eossanguo.one",
@@ -1043,7 +1054,7 @@
       "type": "Game",
       "description": "EOS Dynasty is the first RPG and PvP game on the blockchain. Players can enhance their heroes through collecting materials, forging equipments and domestication mounts. ",
       "url": "https://eossanguo.one",
-      "hasimage":"1"
+      "hasimage": "1"
     },
     {
       "applink": "cryptoswordandmagic.com",
@@ -1051,7 +1062,7 @@
       "type": "Game",
       "description": "Crypto Sword and Magic is a traditional RPG game that raises heroes and challenges new dungeons. Data of all heroes, equipment, and pets are recorded on the EOS blockchain, and the game logic works on the Smart Contract. Even when you are not playing the game, you can always play with others in a mercenary mode. Hop into the world with your heroes!",
       "url": "https://www.cryptoswordandmagic.com",
-      "hasimage":"1"
+      "hasimage": "1"
     },
     {
       "applink": "dsp.eosnation.io",
@@ -1076,7 +1087,7 @@
       "description": "BETPINK.gg is a WAX gambling site which uses the bankroll dapp of pink.network and offers a lucky wheel where you can try your luck! Since it runs completely on the blockchain, it is 100% probably fair!",
       "url": "https://betpink.gg",
       "hasimage": "1",
-      "subdomains":["*"]
+      "subdomains": ["*"]
     },
     {
       "applink": "eosfinex.com",
@@ -1095,13 +1106,13 @@
       "hasimage": "1"
     },
     {
-      "applink":"dappspinach.io",
-      "name":"Spinach",
-      "type":"Gambling",
-      "description":"參加活動，贏EOS大獎！ Attend the event and win EOS awards!",
-      "url":"https://dappspinach.io",
-      "hasimage":"1",
-      "subdomains":["*"]
+      "applink": "dappspinach.io",
+      "name": "Spinach",
+      "type": "Gambling",
+      "description": "參加活動，贏EOS大獎！ Attend the event and win EOS awards!",
+      "url": "https://dappspinach.io",
+      "hasimage": "1",
+      "subdomains": ["*"]
     },
     {
       "applink": "dapp.swirld.io",
@@ -1145,9 +1156,7 @@
       "subdomains": ["*"]
     }
   ],
-  "Ethereum": [
-
-  ],
+  "Ethereum": [],
   "Tron": [
     {
       "applink": "tronvegas.net",
