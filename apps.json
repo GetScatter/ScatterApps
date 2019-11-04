@@ -1143,7 +1143,7 @@
       "url": "https://fancy.center",
       "hasimage": "1",
       "subdomains": ["*"],
-    },
+    }, {
       "applink": "eoskong.io",
       "name": "EosKong",
       "type": "Gambling",
