@@ -1179,6 +1179,14 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
+    },
+    {
+      "applink": "ebetchain.com",
+      "name": "ebet Game",
+      "type": "Gambling",
+      "description": "Fair, Exciting EOS Gaming Platform!",
+      "url": "http://ebetchain.com/",
+      "hasimage": "1"
     }
   ]
 }
