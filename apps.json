@@ -1143,6 +1143,14 @@
       "url": "https://eoskong.io/",
       "hasimage": "1",
       "subdomains": ["*"]
+    },
+    {
+      "applink": "eostokens.io",
+      "name": "EOS Toekns",
+      "type": "Exchange",
+      "description": "EOS flexible, listing free, onchain DEX",
+      "url": "https://eostokens.io",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [
