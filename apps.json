@@ -1,5 +1,29 @@
 {
   "EOSIO": [
+     {
+      "applink": "emanate.live",
+      "name": "Emanate",
+      "type": "Social",
+      "description": "Emanate is the world's fastest music monetisation platform, splitting payments between collaborators and rights holders instantly as audio is consumed.",
+      "url": "https://emanate.live",
+      "hasimage": "1"
+    },
+    {
+      "applink": "prediqt",
+      "name": "PredIQt",
+      "type": "Educational",
+      "description": "Knowledge Market by Everipedia.",
+      "url": "https://prediqt.everipedia.org",
+      "hasimage": "1"
+    },
+    {
+      "applink": "acueos.io",
+      "name": "Acueos",
+      "type": "Tool",
+      "description": "Moneymarket for lenders and borrowers of crypto assets with automated floating interest rates based on supply and demand",
+      "url": "https://acueos.io",
+      "hasimage": "1"
+    },
     {
       "applink": "staker.one",
       "name": "Staker.One",
@@ -9,11 +33,35 @@
       "hasimage": "1"
     },
     {
+     "applink": "kolobok.io",
+     "name": "Kolobok",
+     "type": "Game",
+     "description": "Breed, collect, trade Koloboks, and send them on adventures!",
+     "url": "https://kolobok.io/",
+     "hasimage": "1"
+   },
+   {
+     "applink": "simplemarket.io",
+     "name": "Simple Market",
+     "type": "Exchange",
+     "description": "Marketplace for Simple Assets.",
+     "url": "https://simplemarket.io",
+     "hasimage": "1"
+   },
+    {
       "applink": "runprice.info",
       "name": "RUN!PRICE",
       "type": "Gambling",
       "description": "抢拍收盘价，赢EOS大奖！Auction the closing price and win EOS awards!",
       "url": "https://runprice.info",
+      "hasimage": "1"
+    },
+    {
+      "applink": "vig.ai",
+      "name": "VIGOR",
+      "type": "Tool",
+      "description": "A stablecoin borrow and earn community.",
+      "url": "https://vig.ai",
       "hasimage": "1"
     },
     {
@@ -51,7 +99,7 @@
     {
       "applink": "offside.io",
       "name": "OFFSIDE",
-      "type": "Game",
+      "type": "Gambling",
       "description": "Bet for your favorite football teams.Earn your dividend by join the club.",
       "url": "https://offside.io",
       "hasimage": "1"
@@ -65,11 +113,11 @@
       "hasimage": "1"
     },
     {
-      "applink": "eosblue.one",
-      "name": "EOSBLUE",
-      "type": "Game",
-      "description": "Texas Poker ,Black Jack, Caribbean Poker,Baccarat etc. The Best Casino Experience On EOS.",
-      "url": "https://eosblue.one",
+      "applink": "bluebet.one",
+      "name": "BLUEBET",
+      "type": "Gambling",
+      "description": "Texas Hold'em Poker, Baccarat, Black Jack, PowerBall, Caribbean Poker,Sport etc. The Best Casino Experience On EOS.",
+      "url": "https://www.bluebet.one",
       "hasimage": "1"
     },{
       "applink": "game.asteroidrush.io",
@@ -82,7 +130,7 @@
     {
       "applink": "eosnow.bet",
       "name": "EOSNow",
-      "type": "Game",
+      "type": "Gambling",
       "description": "Fair gaming platform on EOS blockchain. Play & get bonuses!",
       "url": "https://eosnow.bet",
       "hasimage": "1"
@@ -90,7 +138,7 @@
     {
       "applink": "eoslotto.in",
       "name": "EOS Lotto",
-      "type": "Game",
+      "type": "Gambling",
       "description": "100% decentralized EOS lottery returning 100% revenue to the buyer! Recommend to friends, buy, and be a lucky hero.",
       "url": "http://eoslotto.in",
       "hasimage": "1"
@@ -106,27 +154,19 @@
     {
       "applink": "magnetic.live",
       "name": "Magnetic",
-      "type": "Game",
+      "type": "Gambling",
       "description": "Magnetic is a predictive quiz social game, which is a service to receive rewards if predictions are made through O/X on questions.",
       "url": "https://magnetic.live",
       "hasimage": "1"
     },
     {
-      "applink": "patreos.com",
-      "name": "Patreos",
+      "applink": "ipse.io",
+      "name": "IPSE",
       "type": "Tool",
-      "description": "With Patreos, you support the creators you love, not the platform they use. Share, subscribe, and fund campaigns to promote community growth and creative freedom.",
-      "url": "https://www.patreos.com",
+      "description": "IPSE, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
+      "url": "https://ipse.io",
       "hasimage": "1"
     },
-    {
-			"applink": "ipse.io",
-			"name": "IPSE",
-			"type": "Tool",
-			"description": "IPSE, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
-			"url": "https://ipse.io",
-			"hasimage": "1"
-		}, 
     {
       "applink": "www.eosdividends.com",
       "name": "EOS Dividends",
@@ -144,13 +184,21 @@
       "hasimage": "1"
     },
     {
+      "applink": "newdex.io",
+      "name": "Newdex",
+      "type": "Exchange",
+      "description": "Newdex is the world's first decentralized exchange based on EOS ecology, featuring security, transparency and speed, leading the industry to enter a wonderful new era of decentralized trading. ",
+      "url": "https://newdex.io/",
+      "hasimage": "1"
+    },
+    {
       "applink": "bethash.io",
       "name": "BetHash",
       "type": "Game",
       "description": "The FAIREST Decentralized Crypto Casino Built on EOS, use hash to draw winning numbers to guarantee absolute Fairness, No Chance for Cheating at All! Generous rewards, high referral bonus!",
       "url": "https://bethash.io",
       "hasimage": "1"
-    },	  
+    },
     {
       "applink": "eosluck.one",
       "name": "EOSLUCK",
@@ -168,17 +216,17 @@
       "hasimage": "1"
     },
     {
-      "applink": "eosminerbot.io",
-      "name": "EOS Miner Bot",
+      "applink": "eosbots.io",
+      "name": "EOS Bots",
       "type": "Tool",
-      "description": "Mining utility bot for EOS based dice tokens.",
-      "url": "https://www.eosminerbot.io/",
+      "description": "Automation solutions for EOS based gaming, token markets, and account management.",
+      "url": "https://www.eosbots.io/",
       "hasimage": "1"
     },
     {
       "applink": "eostime.io",
       "name": "EOS Time",
-      "type": "Game",
+      "type": "Gambling",
       "description": "Play EOS Time to win EOS in real-time auctions - share the profits with TIME tokens",
       "url": "https://eostime.io/",
       "hasimage": "1"
@@ -194,17 +242,9 @@
     {
       "applink": "trustdice.win",
       "name": "Trust Dice",
-      "type": "Game",
+      "type": "Gambling",
       "description": "Trust Dice is a dice game built using trustless blockchain technology, based on Smart Contract and the game process is fully transparent.",
       "url": "https://trustdice.win/",
-      "hasimage": "1"
-    },
-    {
-      "applink": "fintecapp.com",
-      "name": "EOS Comic Fintec",
-      "type": "Game",
-      "description": "Comic DAPP , 第一個漫畫分享 DAPP.",
-      "url": "http://www.fintecapp.com/",
       "hasimage": "1"
     },
     {
@@ -226,7 +266,7 @@
     {
       "applink": "jacks.rovegas.com",
       "name": "Royal Online Vegas",
-      "type": "Game",
+      "type": "Gambling",
       "description": "Royal Online Vegas is an online casino run on the EOS blockchain network. We provide instant game plays backed by trustworthy smart contract, allowing users to place bets through a EOS transaction on our smart contract at zero cost and have absolute certainty all games are 100% fair. MEV is a smart contract backed eco-system where everyone can be the owner of this EOS online casino and share the profit of its operation.",
       "url": "https://jacks.rovegas.com/",
       "hasimage": "1"
@@ -250,7 +290,7 @@
     {
       "applink": "catchthefrog.com",
       "name": "CatchTheFrog",
-      "type": "Game",
+      "type": "Gambling",
       "description": "CatchTheFrog, get FROG-Token and don't be a frog... catch'm!",
       "url": "https://www.catchthefrog.com",
       "hasimage": "1"
@@ -258,7 +298,7 @@
     {
       "applink": "enjoy.bet",
       "name": "ENJOY",
-      "type": "Game",
+      "type": "Gambling",
       "description": "ENJOY.BET is a platform for trusted, profit sharing and high performance gaming experiences based on the EOS.IO blockchain. It solves the problems of traditional online gaming platforms and other online cryptocurrency casinos, including high fees, slow recharge/cash out and lack of trust. Our goal is to create the largest cryptocurrency gaming platform with platform token holders and share the platform's profits. We welcome everyone to join our community and build and grow together. We believe that value is ultimately created by our users, not just our team.",
       "url": "https://enjoy.bet/",
       "hasimage": "1"
@@ -266,7 +306,7 @@
     {
       "applink": "eostiger.io",
       "name": "EOSTiger",
-      "type": "Game",
+      "type": "Gambling",
       "description": "EOSTiger is a classic entertainment platform based on the EOS.IO blockchain， rules are written by Smart Contracts.It is a collection of classic games with different senses, such as slot machines, Texas hold 'em, roulette, and blackjack. ",
       "url": "https://eostiger.io/",
       "hasimage": "1"
@@ -274,7 +314,7 @@
     {
       "applink": "eosmax.io",
       "name": "EOS Max",
-      "type": "Game",
+      "type": "Gambling",
       "description": "SLOT and DICE on blockchain, all results can be verified. 100% of all game profit is distributed to holders of our MAX token.",
       "url": "https://eosmax.io",
       "hasimage": "1"
@@ -312,17 +352,9 @@
       "hasimage": "1"
     },
     {
-      "applink": "cryptomeetup",
-      "name": "CryptoMeetUp",
-      "type": "Game",
-      "description": "Cryptomeetup is the world's first decentralized event platform powered by EOS.IO blockchain technology!",
-      "url": "https://cryptomeetup.io/",
-      "hasimage": "1"
-    },
-    {
       "applink": "farmeos.io",
       "name": "FarmEOS",
-      "type": "Game",
+      "type": "Gambling",
       "description": "FarmEOS is the world's first DApp gaming eco-platform that combines game mining, Bancor and price dividend weight. PoB（Proof of Bancor) and DoP (Dividend of Price) are also the new mining modes pioneered by FarmEOS team. ",
       "url": "https://www.farmeos.io/",
       "hasimage": "1"
@@ -347,7 +379,7 @@
     {
       "applink": "deosgames.com",
       "name": "Deos Games",
-      "type": "Game",
+      "type": "Gambling",
       "description": "",
       "url": "https://deosgames.com/",
       "hasimage": "1"
@@ -378,7 +410,7 @@
     {
       "applink": "eosbet.io",
       "name": "EOSBet Dice",
-      "type": "Game",
+      "type": "Gambling",
       "description": "",
       "url": "https://eosbet.io/",
       "hasimage": "1"
@@ -386,7 +418,7 @@
     {
       "applink": "endless.game",
       "name": "Endless Game",
-      "type": "Game",
+      "type": "Gambling",
       "description": "The highest-yeilding profit-sharing game (at least 40% of the daily profit) on EOS Provable Fairness.",
       "url": "https://endless.game",
       "hasimage": "1"
@@ -394,7 +426,7 @@
     {
       "applink": "eosbingo.net",
       "name": "EOS Bingo",
-      "type": "Game",
+      "type": "Gambling",
       "description": "",
       "url": "https://eosbingo.net/",
       "hasimage": "1"
@@ -442,7 +474,7 @@
     {
       "applink": "eosplay.co",
       "name": "EOSPlay Lottery & Dice",
-      "type": "Game",
+      "type": "Gambling",
       "description": "",
       "url": "https://eosplay.co/",
       "hasimage": "1"
@@ -474,7 +506,7 @@
     {
       "applink": "www.luckywith.me",
       "name": "Lucky With Me",
-      "type": "Game",
+      "type": "Gambling",
       "description": "",
       "url": "https://www.luckywith.me/",
       "hasimage": "1"
@@ -522,7 +554,7 @@
     {
       "applink": "betdice.one",
       "name": "BetDice",
-      "type": "Game",
+      "type": "Gambling",
       "description": "BetDice is the largest gaming platform on EOS blockchain. Users can earn DICE tokens from playing, and then get hourly dividends from staking. Both the platform and the token are based on user-centered design, which gives our users the best gaming experience.",
       "url": "https://betdice.one/",
       "hasimage": "1"
@@ -570,7 +602,7 @@
     {
       "applink": "eosgameboy.io",
       "name": "EOSGameBoy",
-      "type": "Game",
+      "type": "Gambling",
       "description": "EOSGameboy is retro-style dapp game that trustworthy and entertaining.",
       "url": "https://eosgameboy.io",
       "hasimage": "1"
@@ -586,7 +618,7 @@
     {
       "applink": "bingobet.one",
       "name": "BingoBet",
-      "type": "Game",
+      "type": "Gambling",
       "description": "BingoBet.one is the first American Roulette on EOS blockchain! Dice, Jackpot, Dividends and others! Contact us via t.me/bingobet_one",
       "url": "https://bingobet.one/",
       "hasimage": "1"
@@ -594,7 +626,7 @@
     {
       "applink": "tobet.one",
       "name": "Tobet",
-      "type": "Game",
+      "type": "Gambling",
       "description": "Tobet is a gaming platform on EOS blockchain. Users can earn TOB tokens from playing.Tobet gives users the best gaming experience.",
       "url": "https://tobet.one/",
       "hasimage": "1"
@@ -602,7 +634,7 @@
     {
       "applink": "big.game",
       "name": "Big Game",
-      "type": "Game",
+      "type": "Gambling",
       "description": "Fair & Exciting EOS Gaming Platform!",
       "url": "https://big.game/",
       "hasimage": "1"
@@ -629,14 +661,6 @@
       "type": "Game",
       "description": "Blockchain Cuties is the collectible crypto game with adventures where you get to play with puppies, lizards, bear cubs, cats and other real and fantasy creatures alike.",
       "url": "https://blockchaincuties.com/",
-      "hasimage": "1"
-    },
-    {
-      "applink": "dungeon-hunt.ga",
-      "name": "Dungeon Hunt",
-      "type": "Game",
-      "description": "Dungeon Hunt, an EOS & TRYBE game to go deep into the dungeons and hunt orcs!",
-      "url": "http://www.dungeon-hunt.ga",
       "hasimage": "1"
     },
     {
@@ -677,14 +701,6 @@
       "type": "Gambling",
       "description": "",
       "url": "https://fastwin.io",
-      "hasimage": "1"
-    },
-    {
-      "applink": "betx.fun",
-      "name": "BetX",
-      "type": "Gambling",
-      "description": "",
-      "url": "https://betx.fun/",
       "hasimage": "1"
     },
     {
@@ -748,7 +764,7 @@
       "type": "Gambling",
       "description": "D-Texas is the world's first PVP Texas Hold'em platform in the blockchain.",
       "url": "https://dtexas.muggles.io/",
-      "hasimage": "1" 
+      "hasimage": "1"
     },
     {
       "applink": "www.pokerking.one",
@@ -778,7 +794,8 @@
       "name": "Murmur",
       "type": "Social",
       "description": "Murmur is a micro-blogging platform built on the EOS Blockchain that gives users the ability to share freely, control their data, trace the origins of any story and get content rewards.",
-      "url": "https://murmurdapp.com"
+      "url": "https://murmurdapp.com",
+      "hasimage": "1"
     },
     {
       "applink": "betsand.com",
@@ -801,7 +818,7 @@
       "name": "STName",
       "type": "Tool",
       "description": "Users can bid on premium accounts suffixed with '.eos', '.com', '.io', '.bank', '.games'",
-      "url": "https://stname.starteos.io",
+      "url": "http://stname.starteos.io",
       "hasimage": "1"
     },
     {
@@ -834,14 +851,6 @@
       "type": "Game",
       "description": "EOS Tower Game is a 1:1 PVP game in which you can compete with other EOS users.",
       "url": "https://eostowergame.com",
-      "hasimage": "1"
-    },
-    {
-      "applink": "gamebet.one",
-      "name": "GameBet",
-      "type": "Game",
-      "description": "based on EOS contract games",
-      "url": "http://gamebet.one/",
       "hasimage": "1"
     },
     {
@@ -885,33 +894,17 @@
       "hasimage": "1"
     },
     {
-      "applink": "ewg.one",
-      "name": "EWG",
-      "type": "Game",
-      "description": "EWG(EastWorldGame),  gaming platform on the EOS blockchain.",
-      "url": "https://ewg.one",
-      "hasimage": "1"
-    },
-    {
-      "applink": "eosabc.io",
-      "name": "eosabc",
-      "type": "Game",
-      "description": "eosabc is the largest gaming platform on EOS blockchain. Users can earn EOSABC tokens from playing, and then get hourly dividends from staking. Both the platform and the token are based on user-centered design, which gives our users the best gaming experience.",
-      "url": "https://eosabc.io/",
-      "hasimage": "1"
-    },
-    {
       "applink": "eosflappybird.bogo.one",
       "name": "Flappybird",
       "type": "Game",
       "description": "A contest game which allow user to manually control the flappy bird racing against AI trained bird!",
       "url": "https://eosflappybird.bogo.one",
-      "hasimage": "1"   
+      "hasimage": "1"
     },
     {
       "applink": "eoscrash.app",
       "name": "eoscrash",
-      "type": "Game",
+      "type": "Gambling",
       "description": "EOS Crash contains number of games that are unique in EOS market. EOSCrash focused on creating ganes with pvp experience",
       "url": "https://eoscrash.app/",
       "hasimage": "1"
@@ -934,7 +927,7 @@
     },
     {
       "applink": "solitaireduel.io",
-      "name": "Solitaire Duel", 
+      "name": "Solitaire Duel",
       "type": "Game",
       "description": "1 on 1 Solitaire with EOS prize! First ever game of skill on EOS Blockchain",
       "url": "https://solitaireduel.io",
@@ -991,7 +984,7 @@
     {
       "applink": "eosroyal.com",
       "name": "eosroyal",
-      "type": "Game",
+      "type": "Gambling",
       "description": "A fair game using the functions of a block chain, Enjoy games with EOS",
       "url": "https://www.eosroyal.com/",
       "hasimage": "1"
@@ -1030,7 +1023,7 @@
     },
     {
       "applink": "mycryptovegas.io",
-      "name": "My Crypto Vegas", 
+      "name": "My Crypto Vegas",
       "type": "Gambling",
       "description": "Most Exciting, Fun and Top Quality Casino Games in EOS World!",
       "url": "https://mycryptovegas.io",
@@ -1038,62 +1031,101 @@
     },
     {
       "applink": "fomotoken.one",
-      "name": "FOMO Token", 
+      "name": "FOMO Token",
       "type": "Game",
       "description": "The first EOS token that can only be created via claiming with a 1% burn fee on transfers",
       "url": "https://fomotoken.one",
       "hasimage":"1"
-    }
-  ],
-  "Ethereum": [
-
-  ],
-  "Tron": [
-    {
-      "applink": "tronvegas.net",
-      "name": "TronVegas",
-      "type": "Game",
-      "description": "TronVegas is the largest decentralized gaming platform on the TRON blockchain. Fast, Fun, and always 100% probably fair!",
-      "url": "https://www.tronvegas.net/",
-      "hasimage": "1"
     },
     {
-      "applink": "888tron.com",
-      "name": "888 Tron",
+      "applink": "eossanguo.one",
+      "name": "Three Kingdoms",
       "type": "Game",
-      "description": "Decentralized gaming platform",
-      "url": "https://888tron.com",
-      "hasimage": "1"
+      "description": "EOS Dynasty is the first RPG and PvP game on the blockchain. Players can enhance their heroes through collecting materials, forging equipments and domestication mounts. ",
+      "url": "https://eossanguo.one",
+      "hasimage":"1"
     },
     {
-      "applink": "tronbet.io",
-      "name": "TRONbet",
+      "applink": "cryptoswordandmagic.com",
+      "name": "Sword and Magic",
       "type": "Game",
-      "description": "",
-      "url": "https://www.tronbet.io",
-      "hasimage": "1"
+      "description": "Crypto Sword and Magic is a traditional RPG game that raises heroes and challenges new dungeons. Data of all heroes, equipment, and pets are recorded on the EOS blockchain, and the game logic works on the Smart Contract. Even when you are not playing the game, you can always play with others in a mercenary mode. Hop into the world with your heroes!",
+      "url": "https://www.cryptoswordandmagic.com",
+      "hasimage":"1"
     },
     {
-      "applink": "trongoo.io",
-      "name": "Trongoo",
-      "type": "Game",
-      "description": "",
-      "url": "https://trongoo.io"
+      "applink": "dsp.eosnation.io",
+      "name": "DSP Portal",
+      "type": "Tool",
+      "description": "The EOS Nation DSP Portal provides a user-friendly way to access all services offered by the DAPP Service Providers (DSP). As DAPP Network Utility our Portal offers a wide range of information and actions with an intuitive interface and a great user experience.",
+      "url": "https://dsp.eosnation.io",
+      "hasimage": "1"
     },
     {
       "applink": "marketcap.one",
       "name": "marketcap.one",
       "type": "Tool",
-      "description": "EOS token marketcaps, price charts and metrics.",
+      "description": "EOS tokens. Prices, exchanges, charts.",
       "url": "https://marketcap.one",
       "hasimage": "1"
     },
     {
-      "applink": "betcity.one",
-      "name": "Bet City",
-      "type": "Game",
-      "description": "More funny More lucky!友好幸運的競猜平台!",
-      "url": "https://www.betcity.one"
+      "applink": "betpink.gg",
+      "name": "betpink.gg",
+      "type": "Gambling",
+      "description": "BETPINK.gg is a WAX gambling site which uses the bankroll dapp of pink.network and offers a lucky wheel where you can try your luck! Since it runs completely on the blockchain, it is 100% probably fair!",
+      "url": "https://betpink.gg",
+      "hasimage": "1",
+      "subdomains":["*"]
+    },
+    {
+      "applink": "eosfinex.com",
+      "name": "eosfinex",
+      "type": "Exchange",
+      "description": "A high-performance, on-chain exchange built on EOSio. Developed by Bitfinex, the most advanced digital asset trading platform.",
+      "url": "https://eosfinex.com",
+      "hasimage": "1"
+    },
+    {
+      "applink": "goldenchip.io",
+      "name": "GoldenChip",
+      "type": "Gambling",
+      "description": "Best EOS Profit-Sharing Gambling Platform.",
+      "url": "https://goldenchip.io",
+      "hasimage": "1"
+    },
+    {
+      "applink":"dappspinach.io",
+      "name":"Spinach",
+      "type":"Gambling",
+      "description":"參加活動，贏EOS大獎！ Attend the event and win EOS awards!",
+      "url":"https://dappspinach.io",
+      "hasimage":"1",
+      "subdomains":["*"]
+    },
+    {
+      "applink": "dapp.swirld.io",
+      "name": "Swirld",
+      "type": "Social",
+      "description": "Earn rewards by adding and sharing content on the Blockchain.",
+      "url": "https://dapp.swirld.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "eosswap.io",
+      "name": "EOSSWAP",
+      "type": "Exchange",
+      "description": "Flexible Decentralized OTC exchange of eosio tokens.",
+      "url": "https://eosswap.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "powh.fund",
+      "name": "POW Ecosystem",
+      "type": "Exchange",
+      "description": "Proof of Weak Hands (POWh) is an EOS based exchange that shares benefits from activity on the platform (token buys, sells or transfers) to all POW token holders in transparent and verifiable manner. Price setting mechanics is defined in a smart contract. Exchange operates under a perfect economic simulation where each POW token grants you a stake of all cryptocurrency volume.",
+      "url": "https://powh.fund/dapp",
+      "hasimage": "1"
     },
     {
       "applink": "play.0xracers.com",
@@ -1104,12 +1136,49 @@
       "hasimage": "1"
     },
     {
-      "applink": "hands.magnetic.live",
-      "name": "MagHands",
-      "type": "Game",
-      "description": "MagHands is Rock-Scissors-Paper Battle Game, which is a service to receive rewards if you win a battle with your opponent.",
-      "url": "https://hands.magnetic.live",
+      "applink": "eoskong.io",
+      "name": "EosKong",
+      "type": "Gambling",
+      "description": "Provably fair EOS game",
+      "url": "https://eoskong.io/",
+      "hasimage": "1",
+      "subdomains": ["*"]
+    }
+  ],
+  "Ethereum": [
+
+  ],
+  "Tron": [
+    {
+      "applink": "tronvegas.net",
+      "name": "TronVegas",
+      "type": "Gambling",
+      "description": "TronVegas is the largest decentralized gaming platform on the TRON blockchain. Fast, Fun, and always 100% probably fair!",
+      "url": "https://www.tronvegas.net/",
       "hasimage": "1"
+    },
+    {
+      "applink": "888tron.com",
+      "name": "888 Tron",
+      "type": "Gambling",
+      "description": "Decentralized gaming platform",
+      "url": "https://888tron.com",
+      "hasimage": "1"
+    },
+    {
+      "applink": "tronbet.io",
+      "name": "TRONbet",
+      "type": "Gambling",
+      "description": "",
+      "url": "https://www.tronbet.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "trongoo.io",
+      "name": "Trongoo",
+      "type": "Game",
+      "description": "",
+      "url": "https://trongoo.io"
     }
   ]
 }
