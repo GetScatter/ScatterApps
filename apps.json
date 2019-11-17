@@ -1,6 +1,14 @@
 {
   "EOSIO": [
      {
+      "applink": "eosBlender.com",
+      "name": "eosBlender",
+      "type": "Tool",
+      "description": "The first fully decentralized token mixer on the EOS mainnet which enables private, untraceable transactions.",
+      "url": "https://eosblender.com",
+      "hasimage": "1"
+    },
+    {
       "applink": "emanate.live",
       "name": "Emanate",
       "type": "Social",
