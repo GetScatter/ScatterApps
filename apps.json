@@ -200,6 +200,14 @@
       "hasimage": "1"
     },
     {
+      "applink": "hashpro.io",
+      "name": "HashPro",
+      "type": "Gambling",
+      "description": "The FAIREST Decentralized Crypto Casino Built on EOS, use hash to draw winning numbers to guarantee absolute Fairness, No Chance for Cheating at All! Generous rewards, high referral bonus!",
+      "url": "https://hashpro.io",
+      "hasimage": "1"
+    },
+    {
       "applink": "eosluck.one",
       "name": "EOSLUCK",
       "type": "Gambling",
@@ -909,7 +917,7 @@
       "url": "https://eoscrash.app/",
       "hasimage": "1"
     },
-	  {
+    {
       "applink": "openbrm.io",
       "name": "OpenBRM",
       "type": "Payment",
