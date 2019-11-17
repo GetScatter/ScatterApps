@@ -1139,11 +1139,11 @@
       "hasimage": "1"
     },
     {
-      "applink": "eosswap.io",
+      "applink": "swap.eostokens.io",
       "name": "EOSSWAP",
       "type": "Exchange",
       "description": "Flexible Decentralized OTC exchange of eosio tokens.",
-      "url": "https://eosswap.io",
+      "url": "https://swap.eostokens.io",
       "hasimage": "1"
     },
     {
