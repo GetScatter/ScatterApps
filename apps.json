@@ -1,5 +1,13 @@
 {
   "EOSIO": [
+     {
+      "applink": "eosBlender.com",
+      "name": "eosBlender",
+      "type": "Tool",
+      "description": "The first fully decentralized token mixer on the EOS mainnet which enables private, untraceable transactions.",
+      "url": "https://eosblender.com",
+      "hasimage": "1"
+    },
     {
       "applink": "emanate.live",
       "name": "Emanate",
@@ -198,6 +206,14 @@
       "type": "Gambling",
       "description": "The FAIREST Decentralized Crypto Casino Built on EOS, use hash to draw winning numbers to guarantee absolute Fairness, No Chance for Cheating at All! Generous rewards, high referral bonus!",
       "url": "https://bethash.io",
+      "hasimage": "1"
+    },
+    {
+      "applink": "hashpro.io",
+      "name": "HashPro",
+      "type": "Gambling",
+      "description": "The FAIREST Decentralized Crypto Casino Built on EOS, use hash to draw winning numbers to guarantee absolute Fairness, No Chance for Cheating at All! Generous rewards, high referral bonus!",
+      "url": "https://hashpro.io",
       "hasimage": "1"
     },
     {
@@ -409,11 +425,11 @@
       "hasimage": "1"
     },
     {
-      "applink": "eosbet.io",
-      "name": "EOSBet Dice",
+      "applink": "earnbet.io",
+      "name": "EarnBet",
       "type": "Gambling",
       "description": "",
-      "url": "https://eosbet.io/",
+      "url": "https://earnbet.io/",
       "hasimage": "1"
     },
     {
@@ -1154,6 +1170,14 @@
       "url": "https://eoskong.io/",
       "hasimage": "1",
       "subdomains": ["*"]
+    },
+    {
+      "applink": "eostokens.io",
+      "name": "EOS Toekns",
+      "type": "Exchange",
+      "description": "EOS flexible, listing free, onchain DEX",
+      "url": "https://eostokens.io",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [],
