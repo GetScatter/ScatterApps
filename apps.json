@@ -1,6 +1,6 @@
 {
   "EOSIO": [
-     {
+    {
       "applink": "eosBlender.com",
       "name": "eosBlender",
       "type": "Tool",
@@ -947,16 +947,16 @@
       "name": "Solitaire Duel",
       "type": "Game",
       "description": "1 on 1 Solitaire with EOS prize! First ever game of skill on EOS Blockchain",
-      "url": "https://solitaireduel.io",
+      "url": "https://solitaireduel.io/?utm_source=scatter&utm_medium=dapp_list&utm_campaign=always",
       "hasimage": "1",
       "subdomains": ["*"]
     },
     {
       "applink": "candypopduel.io",
-      "name": "Candypop Duel",
+      "name": "Candy Pop Duel",
       "type": "Game",
       "description": "1 on 1 Match-3 game with EOS prize! Play high quality game of skill!",
-      "url": "https://candypopduel.io",
+      "url": "https://candypopduel.io/?utm_source=scatter&utm_medium=dapp_list&utm_campaign=always",
       "hasimage": "1",
       "subdomains": ["*"]
     },
@@ -1163,14 +1163,15 @@
       "hasimage": "1"
     },
     {
-      "applink" : "fancy.center",
+      "applink": "fancy.center",
       "name": "FancyCenter",
       "type": "Gambling",
       "description": "Have you been dreaming of a cool car, a new gadget or some other luxury product? We are giving you a unique opportunity to buy them for a token amount of money, ranging from $1 to $5.",
       "url": "https://fancy.center",
       "hasimage": "1",
       "subdomains": ["*"]
-    }, {
+    },
+    {
       "applink": "eoskong.io",
       "name": "EosKong",
       "type": "Gambling",
