@@ -690,11 +690,12 @@
     },
     {
       "applink": "eosauthority.com",
-      "name": "EOS Authority Wallet",
-      "type": "Tool",
+      "name": "EOS Authority Wallet & Explorer",
+      "type": "Block Explorer",
       "description": "EOS Authority wallet, block explorer & tools",
       "url": "https://eosauthority.com/",
-      "hasimage": "1"
+      "hasimage": "1",
+      "subdomains": ["*"]
     },
     {
       "applink": "eosjoy.io",
