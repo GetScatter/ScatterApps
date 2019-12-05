@@ -1173,13 +1173,13 @@
       "subdomains": ["*"]
     }, 
     {
-      "applink":"cryptolegends.io",  
-      "name":"Crypto Legends", 
-      "type":"Game",
-      "description":"Free game, EOS based strategy TCG. There are 1038 types of cards available, and it’s fun to collect. Earn money on exchanges.",  // Short description of your application.
-      "url":"https://cryptolegends.io/",
-      "hasimage":"1",
-      "subdomains":["*"]
+      "applink": "cryptolegends.io",
+      "name": "Crypto Legends",
+      "type": "Game",
+      "description": "Free game, EOS based strategy TCG. There are 1038 types of cards available, and it’s fun to collect. Earn money on exchanges.",
+      "url": "https://cryptolegends.io/",
+      "hasimage": "1",
+      "subdomains": ["*"]
     },
     {
       "applink": "eoskong.io",
