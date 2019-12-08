@@ -11,13 +11,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="54.249237mm"
-   height="60.267929mm"
-   viewBox="0 0 192.22168 213.5478"
+   width="250"
+   height="250"
+   viewBox="0 0 234.37497 234.37502"
    id="svg6724"
    version="1.1"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="eosBlender.com.svg"
+   sodipodi:docname="eosblender.com.svg"
    inkscape:export-filename="/Users/filippomassibenedetti/eosblender_claim/src/components/Claim/images/Login_form.png"
    inkscape:export-xdpi="97"
    inkscape:export-ydpi="97">
@@ -1755,7 +1755,7 @@
      fit-margin-left="9"
      fit-margin-right="2"
      fit-margin-bottom="2"
-     units="mm"
+     units="px"
      showguides="false" />
   <metadata
      id="metadata6729">
@@ -1765,7 +1765,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1773,9 +1773,9 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-415.92497,147.98913)">
+     transform="translate(-415.92497,168.81634)">
     <g
-       transform="matrix(1.7964006,0,0,1.7964006,-1772.1068,141.09491)"
+       transform="matrix(1.7964006,0,0,1.7964006,-1752.9445,124.5221)"
        id="g13353"
        inkscape:export-filename="/Users/filippomassibenedetti/eosioblender/eosBlender.com.png"
        inkscape:export-xdpi="97"
