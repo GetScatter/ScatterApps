@@ -1198,6 +1198,15 @@
       "url": "https://eostokens.io",
       "hasimage": "1"
     }
+    
+    {
+      "applink": "cadeos.io",
+      "name": "CADEOS.io",
+      "type": "Tool",
+      "description": "Decentralized CAD.files & Project Management Platform",
+      "url": "https://cadeos.io",
+      "hasimage": "1"	      
+    }
   ],
   "Ethereum": [],
   "Tron": [
