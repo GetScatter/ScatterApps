@@ -44,8 +44,16 @@ To request the addition of types into Scatter you need to PR both this README as
 
 ## Token property
 The `token` property allows you to pin an app to a specific token. 
-The structure for the token is `{blockchain}:{contract}:{symbol}:{chainId}`, all in lowercase. 
-For example, the Everipedia token is `eos:everipediaiq:iq:aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906`
+The structure for the token is:
+```
+{blockchain}:{contract}:{symbol}:{chainId}
+```
+**Token properties must be all lowercase!** 
+
+For example, the Everipedia token is:
+```
+eos:everipediaiq:iq:aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906
+```
 
 ## Important note about the applink key: 
 If you are a web app, you will need to use your FQDN ( ie. get-scatter.com ) and not what you are passing into the connection.
