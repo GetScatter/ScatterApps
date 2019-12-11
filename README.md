@@ -18,7 +18,8 @@
   "description":"",  // Short description of your application.
   "url":"",          // The URL to your application, or it's landing page.
   "hasimage":"1",    // Adding this specifies that you have added a logo to the /logos/ directory.
-  "subdomains":["*"] // Allows capturing subdomains under the same metas. '*' is a wildcard for all subdomains.
+  "subdomains":["*"],// Allows capturing subdomains under the same metas. '*' is a wildcard for all subdomains.
+  "token":""         // Allows you to pin a token to this app, so that token displays can link to app meta data
 }
 ```
 
@@ -40,6 +41,11 @@ We are now enforcing strict categories. Please make sure that your app is catego
 
 #### Requesting types
 To request the addition of types into Scatter you need to PR both this README as well as the `types.json` file in the root path of this repository.
+
+## Token property
+The `token` property allows you to pin an app to a specific token. 
+The structure for the token is `{blockchain}:{contract}:{symbol}:{chainId}`, all in lowercase. 
+For example, the Everipedia token is `eos:everipediaiq:iq:aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906`
 
 ## Important note about the applink key: 
 If you are a web app, you will need to use your FQDN ( ie. get-scatter.com ) and not what you are passing into the connection.
