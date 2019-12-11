@@ -22,7 +22,8 @@
       "type": "Educational",
       "description": "Knowledge Market by Everipedia.",
       "url": "https://prediqt.everipedia.org",
-      "hasimage": "1"
+      "hasimage": "1",
+      "token":"eos:everipediaiq:iq:aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
     },
     {
       "applink": "acueos.io",
