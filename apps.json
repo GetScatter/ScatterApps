@@ -102,7 +102,8 @@
       "type": "Tool",
       "description": "EOS-based DApp to generate EOSDT stablecoins and to manage existing user positions",
       "url": "https://gateway.eosdt.com",
-      "hasimage": "1"
+      "hasimage": "1",
+      "token":"eos:eosdtsttoken:eosdt:aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
     },
     {
       "applink": "offside.io",
@@ -342,7 +343,8 @@
       "type": "Wallet",
       "description": "Multicurrency wallet with fiat on-ramp",
       "url": "https://fiat.carbon.money/",
-      "hasimage": "1"
+      "hasimage": "1",
+      "token":"eos:stablecarbon:cusd:aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
     },
     {
       "applink": "horuspaymarket",
