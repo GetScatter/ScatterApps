@@ -1234,6 +1234,14 @@
       "type": "Game",
       "description": "",
       "url": "https://trongoo.io"
+    },
+     {
+      "applink": "MonolithEOS.io",
+      "name": "MonolithEOS",
+      "type": "Game",
+      "description": "Hack the monolith. Uncover its secrets.",
+      "url": "monolitheos.com."
+       "hasimage": "1"
     }
   ]
 }
