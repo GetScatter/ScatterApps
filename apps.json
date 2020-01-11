@@ -1,6 +1,6 @@
 {
   "EOSIO": [
-     {
+    {
       "applink": "eosblender.com",
       "name": "eosBlender",
       "type": "Tool",
@@ -103,7 +103,7 @@
       "description": "EOS-based DApp to generate EOSDT stablecoins and to manage existing user positions",
       "url": "https://gateway.eosdt.com",
       "hasimage": "1",
-      "token":"eos:eosdtsttoken:eosdt:aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
+      "token": "eos:eosdtsttoken:eosdt:aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
     },
     {
       "applink": "offside.io",
@@ -344,7 +344,7 @@
       "description": "Multicurrency wallet with fiat on-ramp",
       "url": "https://fiat.carbon.money/",
       "hasimage": "1",
-      "token":"eos:stablecarbon:cusd:aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
+      "token": "eos:stablecarbon:cusd:aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
     },
     {
       "applink": "horuspaymarket",
@@ -521,7 +521,7 @@
       "description": "The world's first encyclopedia on the blockchain",
       "url": "https://everipedia.org/",
       "hasimage": "1",
-      "token":"eos:everipediaiq:iq:aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
+      "token": "eos:everipediaiq:iq:aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
     },
     {
       "applink": "www.luckywith.me",
@@ -965,6 +965,15 @@
       "subdomains": ["*"]
     },
     {
+      "applink": "hexapuzzleduel.io",
+      "name": "Hexa Puzzle Duel",
+      "type": "Game",
+      "description": "It is a kind of “block puzzle” games, similar to Tetris that everybody knows. Again, it is an EOS blockchain game where you play PvP.",
+      "url": "https://hexapuzzleduel.io",
+      "hasimage": "1",
+      "subdomains": ["*"]
+    },
+    {
       "applink": "2100.bet",
       "name": "2100.bet",
       "type": "Gambling",
@@ -1167,14 +1176,14 @@
       "hasimage": "1"
     },
     {
-      "applink" : "fancy.center",
+      "applink": "fancy.center",
       "name": "FancyCenter",
       "type": "Gambling",
       "description": "Have you been dreaming of a cool car, a new gadget or some other luxury product? We are giving you a unique opportunity to buy them for a token amount of money, ranging from $1 to $5.",
       "url": "https://fancy.center",
       "hasimage": "1",
       "subdomains": ["*"]
-    }, 
+    },
     {
       "applink": "cryptolegends.io",
       "name": "Crypto Legends",
