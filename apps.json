@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+      "applink": "www.kgbet.io",
+      "name": "KING GAME",
+      "type": "Gambling",
+      "description": "王权互娱 是一家专注于在线娱乐平台和游戏开发的企业，公司拥有丰富的线上娱乐产品开发经验，同时还有一支具有专业管理背景的国际化管理团队。",
+      "url": "http://www.kgbet.io:8080/GameLobby",
+      "hasimage": "1"
+    }
+    {
       "applink": "eosblender.com",
       "name": "eosBlender",
       "type": "Tool",
