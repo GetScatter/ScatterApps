@@ -787,6 +787,14 @@
       "description": "American Gothic Card Game",
       "url": "https://darkcountry.io/",
       "hasimage": "1"
+    },
+    {
+      "applink": "danchor.io",
+      "name": "Danchor",
+      "type": "Tool",
+      "description": "The decentralized staking stable coin",
+      "url": "https://newdex.io/danchor",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [],
