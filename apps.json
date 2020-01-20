@@ -268,14 +268,6 @@
       "hasimage": "1"
     },
     {
-      "applink": "dexeos.io",
-      "name": "DEXEOS",
-      "type": "Exchange",
-      "description": "",
-      "url": "https://dexeos.io/",
-      "hasimage": "1"
-    },
-    {
       "applink": "bancor.network",
       "name": "EOS Bancor",
       "type": "Exchange",
