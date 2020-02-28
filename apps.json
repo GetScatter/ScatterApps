@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+      "applink": "consortium.live",
+      "name": "Consortium",
+      "type": "Social",
+      "description": "Decentralized, on-chain, incentive based governance layer for any organization.",
+      "url": "https://consortium.live",
+      "hasimage": "1"
+    },
+    {
       "applink": "eosblender.com",
       "name": "eosBlender",
       "type": "Tool",
