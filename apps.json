@@ -413,6 +413,14 @@
       "hasimage": "1"
     },
     {
+      "applink":"tipit.io",
+      "name":"Tipit",
+      "type":"Social",
+      "description":"A fast and easy way to send money through social platforms.",
+      "url":"https://tipit.io",
+      "hasimage":"1"
+    },
+    {
       "applink": "big.game",
       "name": "Big Game",
       "type": "Gambling",
