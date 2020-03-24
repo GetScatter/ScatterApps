@@ -803,6 +803,13 @@
       "description": "The decentralized staking stable coin",
       "url": "https://newdex.io/danchor",
       "hasimage": "1"
+    },{
+      "applink": "dappspincnh",
+      "name": "88BET",
+      "type": "Gambling",
+      "description": "Bet88  is  a betting game platform  on EOS blockchain. ",
+      "url": "https://bet88.io?channel=scat/",
+      "hasimage": "1"
     }
   ],
   "Ethereum": [],
