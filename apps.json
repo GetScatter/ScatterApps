@@ -837,6 +837,14 @@
       "description": "Decentralized gaming platform",
       "url": "https://888tron.com",
       "hasimage": "1"
+    },
+    {
+      "applink": "goldenbull.io",
+      "name": "Golden Bull",
+      "type": "Gambling",
+      "description": "Golden Bull is an online gambling site as the hottest and fun place to make wagers and investments for EOS and TRX holders.",
+      "url": "https://goldenbull.io",
+      "hasimage": "1"
     }
   ]
 }
