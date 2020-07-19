@@ -1,12 +1,21 @@
 {
   "EOSIO": [
     {
-      "applink":"eosrate.io",
-      "name":"EOS Rate",
-      "type":"Tool",
-      "description":"EOS Rate is an open-source dApp that allows EOS token holders to rate Block Producers and vote in just a few clicks.",
-      "url":"https://eosrate.io",
-      "hasimage":"1"
+      "applink": "pandahero.io",
+      "name": "Panda Hero",
+      "type": "Game",
+      "description": "Panda Hero is an easy-to-play strategy-PVP crypto game with NFT, crypto art, and Chinese style.",
+      "url": "https://pandahero.io",
+      "hasimage": "1",
+      "token": "eos:eospandasset:pdh:aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
+    },
+    {
+      "applink": "eosrate.io",
+      "name": "EOS Rate",
+      "type": "Tool",
+      "description": "EOS Rate is an open-source dApp that allows EOS token holders to rate Block Producers and vote in just a few clicks.",
+      "url": "https://eosrate.io",
+      "hasimage": "1"
     },
     {
       "applink": "consortium.live",
@@ -273,7 +282,9 @@
       "description": "Full featured Block Explorer and Toolkit for EOSIO Blockchains",
       "url": "https://bloks.io/",
       "hasimage": "1",
-      "subdomains": ["*"]
+      "subdomains": [
+        "*"
+      ]
     },
     {
       "applink": "deosgames.com",
@@ -429,12 +440,12 @@
       "hasimage": "1"
     },
     {
-      "applink":"tipit.io",
-      "name":"Tipit",
-      "type":"Social",
-      "description":"A fast and easy way to send money through social platforms.",
-      "url":"https://tipit.io",
-      "hasimage":"1"
+      "applink": "tipit.io",
+      "name": "Tipit",
+      "type": "Social",
+      "description": "A fast and easy way to send money through social platforms.",
+      "url": "https://tipit.io",
+      "hasimage": "1"
     },
     {
       "applink": "big.game",
@@ -467,7 +478,9 @@
       "description": "EOS Authority wallet, block explorer & tools",
       "url": "https://eosauthority.com/",
       "hasimage": "1",
-      "subdomains": ["*"]
+      "subdomains": [
+        "*"
+      ]
     },
     {
       "applink": "fastwin.io",
@@ -596,7 +609,9 @@
       "description": "1 on 1 Solitaire with EOS prize! First ever game of skill on EOS Blockchain",
       "url": "https://solitaireduel.io",
       "hasimage": "1",
-      "subdomains": ["*"]
+      "subdomains": [
+        "*"
+      ]
     },
     {
       "applink": "candypopduel.io",
@@ -605,7 +620,9 @@
       "description": "1 on 1 Match-3 game with EOS prize! Play high quality game of skill!",
       "url": "https://candypopduel.io",
       "hasimage": "1",
-      "subdomains": ["*"]
+      "subdomains": [
+        "*"
+      ]
     },
     {
       "applink": "hexapuzzleduel.io",
@@ -614,7 +631,9 @@
       "description": "It is a kind of “block puzzle” games, similar to Tetris that everybody knows. Again, it is an EOS blockchain game where you play PvP.",
       "url": "https://hexapuzzleduel.io",
       "hasimage": "1",
-      "subdomains": ["*"]
+      "subdomains": [
+        "*"
+      ]
     },
     {
       "applink": "eoskingdom.io",
@@ -719,7 +738,9 @@
       "description": "BETPINK.gg is a WAX gambling site which uses the bankroll dapp of pink.network and offers a lucky wheel where you can try your luck! Since it runs completely on the blockchain, it is 100% probably fair!",
       "url": "https://betpink.gg",
       "hasimage": "1",
-      "subdomains": ["*"]
+      "subdomains": [
+        "*"
+      ]
     },
     {
       "applink": "eosfinex.com",
@@ -736,7 +757,9 @@
       "description": "參加活動，贏EOS大獎！ Attend the event and win EOS awards!",
       "url": "https://dappspinach.io",
       "hasimage": "1",
-      "subdomains": ["*"]
+      "subdomains": [
+        "*"
+      ]
     },
     {
       "applink": "dapp.swirld.io",
@@ -777,7 +800,9 @@
       "description": "Have you been dreaming of a cool car, a new gadget or some other luxury product? We are giving you a unique opportunity to buy them for a token amount of money, ranging from $1 to $5.",
       "url": "https://fancy.center",
       "hasimage": "1",
-      "subdomains": ["*"]
+      "subdomains": [
+        "*"
+      ]
     },
     {
       "applink": "cryptolegends.io",
@@ -786,7 +811,9 @@
       "description": "Free game, EOS based strategy TCG. There are 1038 types of cards available, and it’s fun to collect. Earn money on exchanges.",
       "url": "https://cryptolegends.io/",
       "hasimage": "1",
-      "subdomains": ["*"]
+      "subdomains": [
+        "*"
+      ]
     },
     {
       "applink": "eostokens.io",
@@ -811,7 +838,8 @@
       "description": "The decentralized staking stable coin",
       "url": "https://newdex.io/danchor",
       "hasimage": "1"
-    },{
+    },
+    {
       "applink": "dappspincnh",
       "name": "88BET",
       "type": "Gambling",
