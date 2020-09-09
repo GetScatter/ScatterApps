@@ -1,10 +1,10 @@
 {
   "EOSIO": [
     {
-      "applink":"evodex.io",
-      "name":"Evolution DEX",
+      "applink":"Evodex",
+      "name":"evodex",
       "type":"Exchange",
-      "description":"Evodex is the next generation Automated Market-Maker which promotes decentralization of exchanges and the use of EOS for DeFi.",
+      "description":"Evodex is the next generation Automated Market-Maker on EOS.",
       "url":"https://evodex.io",
       "hasimage":"1"
     },
