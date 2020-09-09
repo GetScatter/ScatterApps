@@ -1,7 +1,7 @@
 {
   "EOSIO": [
     {
-      "applink":"Evodex",
+      "applink":"evodex.io",
       "name":"evodex",
       "type":"Exchange",
       "description":"Evodex is the next generation Automated Market-Maker on EOS.",
