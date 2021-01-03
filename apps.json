@@ -445,14 +445,6 @@
       "hasimage":"1"
     },
     {
-      "applink": "big.game",
-      "name": "Big Game",
-      "type": "Gambling",
-      "description": "Fair & Exciting EOS Gaming Platform!",
-      "url": "https://big.game/",
-      "hasimage": "1"
-    },
-    {
       "applink": "eospark.com",
       "name": "EOSPark",
       "type": "Block Explorer",
