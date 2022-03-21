@@ -97,6 +97,14 @@
       "hasimage": "1"
     },
     {
+        "applink": "beteoswinall",
+        "name": "BetEosWinAll",
+        "type": "Gambling",
+        "description": "The simplest sportsbooks on EOS. Explore onchain contract data for latest game detail. 胜平负，浏览合约数据了解最新场次赔率。",
+        "url": "https://github.com/sportswineos/beteoswinall",
+        "hasimage": "1"
+    },
+    {
       "applink": "betr.bet",
       "name": "BETR.Bet",
       "type": "Gambling",
